@@ -1,10 +1,10 @@
 "use client";
 
-import { App } from "@/clients/neynar";
+import { Catalog } from "@/clients/neynar";
 import { useCatalog } from "@/hooks/useCatalog";
 
 interface CatalogClientProps {
-  initialData: App[];
+  initialData: Catalog;
 }
 
 export function CatalogClient({ initialData }: CatalogClientProps) {

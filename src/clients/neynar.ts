@@ -24,7 +24,7 @@ export interface App {
   author: Author;
 }
 
-export interface CatalogData {
+export interface Catalog {
   lastUpdated: string;
   totalItems: number;
   apps: App[];
@@ -82,7 +82,7 @@ export async function updateAppCatalog() {
     cursor = data.next?.cursor;
   } while (cursor);
 
-  const catalogData: CatalogData = {
+  const catalogData: Catalog = {
     lastUpdated: new Date().toISOString(),
     totalItems: allApps.length,
     apps: allApps,

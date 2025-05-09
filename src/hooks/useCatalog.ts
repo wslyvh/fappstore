@@ -1,18 +1,16 @@
-import { App } from "@/clients/neynar";
+import { Catalog } from "@/clients/neynar";
 import { useQuery } from "@tanstack/react-query";
 
 export async function getCatalogData() {
-  const url = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
-  const res = await fetch(`${url}/catalog.min.json`);
-  if (!res.ok) throw new Error("Failed to fetch catalog");
-  return res.json();
+  const catalog = await import("../../public/catalog.min.json");
+  return catalog.default as Catalog;
 }
 
-export const useCatalog = (initialData?: App[]) => {
-  return useQuery<App[]>({
+export const useCatalog = (initialData?: Catalog) => {
+  return useQuery<Catalog>({
     queryKey: ["catalog"],
     queryFn: async () => {
-      const res = await fetch("/data/catalog-min.json");
+      const res = await fetch("/catalog.min.json");
       if (!res.ok) throw new Error("Failed to fetch catalog");
       return res.json();
     },
