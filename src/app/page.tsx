@@ -1,8 +1,8 @@
-export default function Home() {
-  return (
-    <div>
-      <h1>Hello World</h1>
-      <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-  );
+import { CatalogClient } from "@/components/CatalogClient";
+import { getCatalogData } from "@/hooks/useCatalog";
+
+export default async function Home() {
+  const catalog = await getCatalogData();
+
+  return <CatalogClient initialData={catalog} />;
 }

@@ -10,10 +10,13 @@
     "indexer": "tsx src/scripts/indexer.ts"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.75.6",
+    "dayjs": "^1.11.13",
     "dotenv": "^16.5.0",
     "next": "15.3.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-window": "^1.8.11"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
