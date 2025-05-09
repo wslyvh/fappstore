@@ -1,0 +1,32 @@
+name: Farcaster App Store Indexer
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  indexer:
+    runs-on: ubuntu-latest
+    env:
+      NEYNAR_API_KEY: ${{ secrets.NEYNAR_API_KEY }}
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Run indexer
+        run: yarn indexer
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "[action] catalog update"
+          add: "public/catalog*.json"
