@@ -124,7 +124,7 @@ export interface App {
   screenshotUrls?: string[];
   backgroundColor?: string;
   author: Author;
-  indexedAt: number;
+  indexedAt: string;
 }
 
 export interface Catalog {
@@ -172,12 +172,9 @@ function inferCategory(app: App): Category | undefined {
 }
 
 function mergeApps(app1: App, app2: App): App {
-  return {
+  const app = {
     ...app1,
     ...app2,
-    // Merge arrays and remove duplicates
-    tags: [...new Set([...(app1.tags || []), ...(app2.tags || [])])],
-    // Keep non-empty values
     title: app1.title || app2.title,
     subtitle: app1.subtitle || app2.subtitle,
     description: app1.description || app2.description,
@@ -187,13 +184,29 @@ function mergeApps(app1: App, app2: App): App {
     imageUrl: app1.imageUrl || app2.imageUrl,
     framesUrl: app1.framesUrl || app2.framesUrl,
     backgroundColor: app1.backgroundColor || app2.backgroundColor,
-    // Merge author data
     author: {
       ...app1.author,
       ...app2.author,
       bio: app1.author.bio || app2.author.bio,
     },
   };
+
+  const mergedTags = [...new Set([...(app1.tags || []), ...(app2.tags || [])])];
+  if (mergedTags.length > 0) {
+    app.tags = mergedTags;
+  }
+
+  const mergedScreenshotUrls = [
+    ...new Set([
+      ...(app1.screenshotUrls || []),
+      ...(app2.screenshotUrls || []),
+    ]),
+  ];
+  if (mergedScreenshotUrls.length > 0) {
+    app.screenshotUrls = mergedScreenshotUrls;
+  }
+
+  return app;
 }
 
 export async function updateAppCatalog() {
@@ -203,9 +216,18 @@ export async function updateAppCatalog() {
     return;
   }
 
+  // Load existing catalog if it exists
+  let existingCatalog: Catalog | null = null;
+  try {
+    const catalogPath = path.join(process.cwd(), "public", "catalog.min.json");
+    const catalogContent = await fs.readFile(catalogPath, "utf-8");
+    existingCatalog = JSON.parse(catalogContent);
+  } catch (error) {
+    console.log("No existing catalog found, creating new one");
+  }
+
   const allApps: App[] = [];
   let cursor: string | undefined;
-
   do {
     const url = new URL("https://api.neynar.com/v2/farcaster/frame/catalog");
     if (cursor) {
@@ -241,6 +263,7 @@ export async function updateAppCatalog() {
         iconUrl: frame.manifest?.frame?.icon_url,
         imageUrl: frame.image,
         framesUrl: frame.frames_url,
+        screenshotUrls: frame.manifest?.frame?.screenshot_urls,
         backgroundColor: frame.manifest?.frame?.splash_background_color,
         author: {
           fid: frame.author.fid,
@@ -251,7 +274,7 @@ export async function updateAppCatalog() {
           powerBadge: frame.author.power_badge || false,
           score: frame.author.score || 0,
         },
-        indexedAt: dayjs().unix(),
+        indexedAt: dayjs().format("YYYY-MM-DD"),
       };
 
       // infer category if not provided
@@ -266,25 +289,40 @@ export async function updateAppCatalog() {
     cursor = data.next?.cursor;
   } while (cursor);
 
-  // Merge duplicates
-  const uniqueApps = allApps.reduce((acc: App[], current) => {
-    const existingIndex = acc.findIndex((app) => app.id === current.id);
-    if (existingIndex === -1) {
-      acc.push(current);
-    } else {
-      acc[existingIndex] = mergeApps(acc[existingIndex], current);
+  // Merge with existing catalog
+  const existingApps = existingCatalog?.apps || [];
+
+  // First, create a map of all apps from the API
+  const apiAppsMap = new Map(allApps.map((app) => [app.id, app]));
+
+  // Then, process existing apps, only keeping those that are still in the API
+  const mergedApps = existingApps.reduce((acc: App[], existingApp) => {
+    const apiApp = apiAppsMap.get(existingApp.id);
+    if (apiApp) {
+      // App still exists in API, merge with new data
+      acc.push({
+        ...mergeApps(existingApp, apiApp),
+        indexedAt: existingApp.indexedAt, // Preserve original indexing time
+      });
+
+      // Remove from map to avoid duplicate processing
+      apiAppsMap.delete(existingApp.id);
     }
     return acc;
   }, []);
 
+  // Add any remaining new apps from the API
+  mergedApps.push(...Array.from(apiAppsMap.values()));
+
   const catalogData: Catalog = {
     lastUpdated: new Date().toISOString(),
-    totalItems: uniqueApps.length,
-    apps: uniqueApps,
+    totalItems: mergedApps.length,
+    apps: mergedApps,
   };
 
   await fs.mkdir("public", { recursive: true });
 
+  // Write both formatted and minified versions
   await fs.writeFile(
     path.join(process.cwd(), "public", "catalog.json"),
     JSON.stringify(catalogData, null, 2)
@@ -295,6 +333,12 @@ export async function updateAppCatalog() {
     JSON.stringify(catalogData)
   );
 
-  console.log(`Catalog updated with ${catalogData.totalItems} items`);
+  const newApps = mergedApps.filter(
+    (app) => app.indexedAt === dayjs().format("YYYY-MM-DD")
+  );
+  console.log(
+    `Catalog updated with ${catalogData.totalItems} total items (${newApps.length} new)`
+  );
+
   return catalogData;
 }

@@ -12,6 +12,7 @@ interface Stats {
     hasSubtitle: number;
     hasCategory: number;
     hasTags: number;
+    hasScreenshotUrls: number;
   };
   averageAuthorScore: number;
   powerBadgeAuthors: number;
@@ -32,6 +33,7 @@ async function main() {
       hasSubtitle: 0,
       hasCategory: 0,
       hasTags: 0,
+      hasScreenshotUrls: 0,
     },
     averageAuthorScore: 0,
     powerBadgeAuthors: 0,
@@ -75,6 +77,8 @@ async function main() {
     if (app.subtitle) stats.metadataCompleteness.hasSubtitle++;
     if (app.category) stats.metadataCompleteness.hasCategory++;
     if (app.tags?.length) stats.metadataCompleteness.hasTags++;
+    if (app.screenshotUrls?.length)
+      stats.metadataCompleteness.hasScreenshotUrls++;
   });
 
   // Author metrics
