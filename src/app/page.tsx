@@ -1,8 +1,11 @@
-import { CatalogClient } from "@/components/CatalogClient";
-import { getCatalogData } from "@/hooks/useCatalog";
+import { Categories } from "@/components/Categories";
+import { Hero } from "@/components/Hero";
 
-export default async function Home() {
-  const catalog = await getCatalogData();
-
-  return <CatalogClient initialData={catalog} />;
+export default function Home() {
+  return (
+    <>
+      <Hero />
+      <Categories />
+    </>
+  );
 }
