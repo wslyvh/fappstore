@@ -1,10 +1,8 @@
+"use client";
+
 import { Catalog, App } from "@/clients/neynar";
 import { useQuery } from "@tanstack/react-query";
-
-export async function getCatalogData() {
-  const catalog = await import("../../public/catalog.min.json");
-  return catalog.default as Catalog;
-}
+import { useEffect, useState } from "react";
 
 function filterCatalog(data: Catalog, category: string, search: string) {
   if (category) {
@@ -31,11 +29,14 @@ function filterCatalog(data: Catalog, category: string, search: string) {
   };
 }
 
-export function useCatalog(
-  initialData?: Catalog,
-  category: string = "",
-  search: string = ""
-) {
+export function useCatalog(initialData?: Catalog, category: string = "") {
+  const [search, setSearch] = useState("");
+
+  useEffect(() => {
+    const searchParams = new URLSearchParams(window.location.search);
+    setSearch(searchParams.get("search") || "");
+  }, []);
+
   return useQuery<Catalog>({
     queryKey: ["catalog", category, search],
     queryFn: async () => {

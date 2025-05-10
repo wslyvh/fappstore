@@ -2,7 +2,6 @@
 
 import { Catalog } from "@/clients/neynar";
 import { useCatalog } from "@/hooks/useCatalog";
-import { useSearchParams } from "next/navigation";
 
 interface CatalogClientProps {
   initialData: Catalog;
@@ -10,9 +9,7 @@ interface CatalogClientProps {
 }
 
 export function CatalogClient({ initialData, category }: CatalogClientProps) {
-  const searchParams = useSearchParams();
-  const search = searchParams.get("search") || "";
-  const { data, isLoading, error } = useCatalog(initialData, category, search);
+  const { data, isLoading, error } = useCatalog(initialData, category);
 
   if (isLoading) return <div>Loading...</div>;
   if (error) return <div>Error loading catalog</div>;

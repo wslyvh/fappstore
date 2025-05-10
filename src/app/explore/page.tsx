@@ -1,5 +1,5 @@
 import { CatalogClient } from "@/components/CatalogClient";
-import { getCatalogData } from "@/hooks/useCatalog";
+import { getCatalogData } from "@/clients/neynar";
 
 export default async function Page() {
   const catalog = await getCatalogData();

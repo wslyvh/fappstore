@@ -1,4 +1,4 @@
-import { getCatalogData } from "@/hooks/useCatalog";
+import { getCatalogData } from "@/clients/neynar";
 
 export default async function Page({
   params,

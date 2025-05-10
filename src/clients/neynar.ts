@@ -210,6 +210,11 @@ function mergeApps(app1: App, app2: App): App {
   return app;
 }
 
+export async function getCatalogData() {
+  const catalog = await import("../../public/catalog.min.json");
+  return catalog.default as Catalog;
+}
+
 export async function updateAppCatalog() {
   console.log("Updating app catalog");
   if (!process.env.NEYNAR_API_KEY) {
@@ -223,7 +228,7 @@ export async function updateAppCatalog() {
     const catalogPath = path.join(process.cwd(), "public", "catalog.min.json");
     const catalogContent = await fs.readFile(catalogPath, "utf-8");
     existingCatalog = JSON.parse(catalogContent);
-  } catch (error) {
+  } catch {
     console.log("No existing catalog found, creating new one");
   }
 
