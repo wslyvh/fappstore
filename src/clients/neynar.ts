@@ -112,6 +112,7 @@ export interface Author {
 export interface App {
   version: string;
   id: string;
+  index: number;
   title: string;
   subtitle?: string;
   description: string;
@@ -124,7 +125,7 @@ export interface App {
   screenshotUrls?: string[];
   backgroundColor?: string;
   author: Author;
-  indexedAt: string;
+  indexedAt: number;
 }
 
 export interface Catalog {
@@ -246,10 +247,11 @@ export async function updateAppCatalog() {
     }
 
     const data = await response.json();
-    const apps = data.frames.map((frame: any) => {
+    const apps = data.frames.map((frame: any, index: number) => {
       const app: App = {
         version: frame.version,
         id: new URL(frame.frames_url).hostname,
+        index,
         title:
           frame.manifest?.frame?.name || frame.metadata?.html?.ogTitle || "",
         subtitle:
@@ -274,7 +276,7 @@ export async function updateAppCatalog() {
           powerBadge: frame.author.power_badge || false,
           score: frame.author.score || 0,
         },
-        indexedAt: dayjs().format("YYYY-MM-DD"),
+        indexedAt: dayjs().unix(),
       };
 
       // infer category if not provided
@@ -333,8 +335,11 @@ export async function updateAppCatalog() {
     JSON.stringify(catalogData)
   );
 
+  const lastUpdateTimestamp = existingCatalog
+    ? dayjs(existingCatalog.lastUpdated).unix()
+    : 0;
   const newApps = mergedApps.filter(
-    (app) => app.indexedAt === dayjs().format("YYYY-MM-DD")
+    (app) => app.indexedAt > lastUpdateTimestamp
   );
   console.log(
     `Catalog updated with ${catalogData.totalItems} total items (${newApps.length} new)`
