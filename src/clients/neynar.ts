@@ -155,10 +155,10 @@ export async function updateAppCatalog() {
 
     const data = await response.json();
     const apps = data.frames.map((frame: any, index: number) => {
-      const url = new URL(frame.frames_url).hostname;
-      if (url === "memories.nexth.dev") {
-        console.log(frame);
-      }
+      // const url = new URL(frame.frames_url).hostname;
+      // if (url === "memories.nexth.dev") {
+      //   console.log(frame);
+      // }
 
       const app: App = {
         version: frame.version,
