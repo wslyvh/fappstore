@@ -11,7 +11,7 @@ export function Layout(props: PropsWithChildren) {
         </Link>
       </header>
 
-      <main className="flex flex-col flex-1 container mx-auto gap-8">
+      <main className="flex flex-col flex-1 container mx-auto px-4 gap-8">
         {props.children}
       </main>
 

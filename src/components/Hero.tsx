@@ -10,7 +10,7 @@ export function Hero() {
   const router = useRouter();
 
   return (
-    <section className="relative flex flex-col items-center justify-center min-h-[40vh] md:min-h-[60vh] py-8 md:py-12 text-center overflow-hidden">
+    <section className="relative flex flex-col items-center justify-center min-h-[40vh] md:min-h-[60vh] py-8 md:py-12 text-center">
       <div className="absolute inset-0 pointer-events-none z-0">
         <div className="absolute top-[10%] left-[10%] w-60 h-60 bg-primary opacity-10 rounded-full blur-3xl" />
         <div className="absolute bottom-[15%] right-[15%] w-80 h-80 bg-secondary opacity-10 rounded-full blur-3xl" />
@@ -46,7 +46,7 @@ export function Hero() {
             Search
           </button>
         </form>
-        <div className="flex flex-wrap gap-4 justify-center">
+        <div className="flex flex-wrap gap-4 justify-center mx-8">
           {POPULAR_TAGS.map((tag) => (
             <Link
               key={tag.id}

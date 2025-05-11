@@ -1,4 +1,5 @@
 import { App, Catalog, Category } from "@/utils/types";
+import { FEATURED_APPS } from "@/utils/config";
 import dayjs from "dayjs";
 import fs from "fs/promises";
 import path from "path";

@@ -62,7 +62,7 @@ export function FeaturedSlider({ apps }: { apps: App[] }) {
       )}
 
       <div
-        className="carousel carousel-center space-x-8 w-full overflow-x-auto overflow-visible scroll-smooth py-4 px-4"
+        className="carousel carousel-center space-x-8 w-full overflow-x-auto overflow-visible scroll-smooth"
         ref={carouselRef}
         style={{ scrollSnapType: "x mandatory" }}
       >

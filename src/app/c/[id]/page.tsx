@@ -1,4 +1,4 @@
-import { CATEGORIES } from "@/clients/neynar";
+import { CATEGORIES } from "@/utils/config";
 import { CatalogClient } from "@/components/CatalogClient";
 import { getCatalogData } from "@/clients/neynar";
 
