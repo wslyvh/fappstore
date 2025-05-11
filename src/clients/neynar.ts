@@ -1,138 +1,7 @@
+import { App, Catalog, Category } from "@/utils/types";
 import dayjs from "dayjs";
 import fs from "fs/promises";
 import path from "path";
-
-export const CATEGORIES = [
-  {
-    id: "games",
-    name: "Games",
-    description:
-      "Games built for the Farcaster ecosystem, from casual mini-games to complex multiplayer experiences with on-chain achievements.",
-    icon: "🎮",
-  },
-  {
-    id: "social",
-    name: "Social",
-    description:
-      "Apps that enhance your Farcaster experience with new ways to connect, share, and interact with each other, and the community.",
-    icon: "👥",
-  },
-  {
-    id: "finance",
-    name: "Finance",
-    description:
-      "Tools for managing crypto assets, tracking investments, and participating in DeFi activities within the Farcaster ecosystem.",
-    icon: "💰",
-  },
-  {
-    id: "utility",
-    name: "Utility",
-    description:
-      "Essential tools and services that enhance your Farcaster experience, from network explorers to data management utilities.",
-    icon: "🔧",
-  },
-  {
-    id: "productivity",
-    name: "Productivity",
-    description:
-      "Apps to help you stay organized, manage tasks, and enhance your workflow while leveraging your Farcaster identity.",
-    icon: "✅",
-  },
-  {
-    id: "health-fitness",
-    name: "Health & Fitness",
-    description:
-      "Track physical activity, monitor health metrics, and engage with wellness communities in the Farcaster ecosystem.",
-    icon: "💪",
-  },
-  {
-    id: "news-media",
-    name: "News & Media",
-    description:
-      "Stay informed with curated content, journalism, and information services focused on crypto, Web3, and general interest topics.",
-    icon: "📰",
-  },
-  {
-    id: "music",
-    name: "Music",
-    description:
-      "Discover, share, and experience music with apps that integrate streaming services and offer social music experiences.",
-    icon: "🎵",
-  },
-  {
-    id: "shopping",
-    name: "Shopping",
-    description:
-      "Discover and purchase products, from physical goods to digital assets, with social commerce features and crypto payments.",
-    icon: "🛍️",
-  },
-  {
-    id: "education",
-    name: "Education",
-    description:
-      "Learn and grow with educational content, courses, and knowledge-sharing communities focused on crypto and Web3 topics.",
-    icon: "🎓",
-  },
-  {
-    id: "developer-tools",
-    name: "Developer Tools",
-    description:
-      "Resources, frameworks, and utilities for building and enhancing applications on the Farcaster protocol.",
-    icon: "👨‍💻",
-  },
-  {
-    id: "entertainment",
-    name: "Entertainment",
-    description:
-      "Enjoy diverse experiences beyond gaming, including video content, interactive experiences, and creative entertainment.",
-    icon: "🍿",
-  },
-  {
-    id: "art-creativity",
-    name: "Art & Creativity",
-    description:
-      "Create, share, and discover digital art and creative content, with tools for artistic expression and NFT creation.",
-    icon: "🎨",
-  },
-] as const;
-
-export type Category = (typeof CATEGORIES)[number]["id"];
-export const VALID_CATEGORIES = CATEGORIES.map((c) => c.id);
-
-export interface Author {
-  fid: number;
-  username: string;
-  displayName: string;
-  pfpUrl: string;
-  bio: string;
-  powerBadge: boolean;
-  score: number;
-}
-
-export interface App {
-  version: string;
-  id: string;
-  index: number;
-  title: string;
-  subtitle?: string;
-  description: string;
-  category?: Category;
-  tags?: string[];
-  homeUrl: string;
-  iconUrl: string;
-  imageUrl?: string;
-  framesUrl?: string;
-  screenshotUrls?: string[];
-  backgroundColor?: string;
-  author: Author;
-  indexedAt: number;
-}
-
-export interface Catalog {
-  lastUpdated: string;
-  totalItems: number;
-  apps: App[];
-}
 
 function inferCategory(app: App): Category | undefined {
   const content = `${app.title} ${app.subtitle || ""} ${
@@ -215,6 +84,38 @@ export async function getCatalogData() {
   return catalog.default as Catalog;
 }
 
+export async function getApp(id: string) {
+  const catalog = await getCatalogData();
+  return catalog.apps.find((app) => app.id === id);
+}
+
+export async function getFeaturedApps() {
+  const catalog = await getCatalogData();
+  return catalog.apps.filter((app) =>
+    FEATURED_APPS.includes(app.id as (typeof FEATURED_APPS)[number])
+  );
+}
+
+export async function getTopApps(limit: number = 20) {
+  const catalog = await getCatalogData();
+  return catalog.apps.slice(0, limit);
+}
+
+export async function getAppsByCategory(category: Category) {
+  const catalog = await getCatalogData();
+  return catalog.apps.filter((app) => app.category === category);
+}
+
+export async function getAppsByTag(tag: string) {
+  const catalog = await getCatalogData();
+  return catalog.apps.filter((app) => app.tags?.includes(tag));
+}
+
+export async function getAppsByAuthor(author: string) {
+  const catalog = await getCatalogData();
+  return catalog.apps.filter((app) => app.author.username === author);
+}
+
 export async function updateAppCatalog() {
   console.log("Updating app catalog");
   if (!process.env.NEYNAR_API_KEY) {
@@ -253,6 +154,11 @@ export async function updateAppCatalog() {
 
     const data = await response.json();
     const apps = data.frames.map((frame: any, index: number) => {
+      const url = new URL(frame.frames_url).hostname;
+      if (url === "memories.nexth.dev") {
+        console.log(frame);
+      }
+
       const app: App = {
         version: frame.version,
         id: new URL(frame.frames_url).hostname,

@@ -2,16 +2,8 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { APP_NAME, APP_DESCRIPTION } from "@/utils/config";
+import { APP_NAME, APP_DESCRIPTION, POPULAR_TAGS } from "@/utils/config";
 import Link from "next/link";
-
-const POPULAR_TAGS = [
-  { id: "social", name: "Social", color: "badge-primary" },
-  { id: "games", name: "Games", color: "badge-secondary" },
-  { id: "finance", name: "Finance", color: "badge-accent" },
-  { id: "art-creativity", name: "Art & Creativity", color: "badge-info" },
-  { id: "entertainment", name: "Entertainment", color: "badge-success" },
-];
 
 export function Hero() {
   const [search, setSearch] = useState("");

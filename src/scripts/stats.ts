@@ -1,4 +1,4 @@
-import { App, Category } from "@/clients/neynar";
+import { App, Category } from "@/utils/types";
 import catalog from "../../public/catalog.min.json";
 
 interface Stats {

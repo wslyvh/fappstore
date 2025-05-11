@@ -1,6 +1,6 @@
 "use client";
 
-import { Catalog, App } from "@/clients/neynar";
+import { App, Catalog } from "@/utils/types";
 import { useQuery } from "@tanstack/react-query";
 import { useEffect, useState } from "react";
 

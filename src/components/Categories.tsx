@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { CATEGORIES } from "@/clients/neynar";
+import { CATEGORIES } from "@/utils/config";
 
 export function Categories() {
   return (

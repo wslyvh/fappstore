@@ -1,6 +1,6 @@
 "use client";
 
-import { Catalog } from "@/clients/neynar";
+import { Catalog } from "@/utils/types";
 import { useCatalog } from "@/hooks/useCatalog";
 
 interface CatalogClientProps {

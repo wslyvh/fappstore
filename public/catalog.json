@@ -22,7 +22,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69484a94-7a09-4c3b-3499-aa02a3dc7e00/rectcrop3",
         "bio": "/seedclub ~ the /consumercrypto network ~ Make something people want to be a part of. https://www.seedclub.com",
         "powerBadge": false,
-        "score": 0.9
+        "score": 0.89
       },
       "indexedAt": 1746911891
     },
@@ -140,13 +140,7 @@
       "subtitle": "Where do you rank?",
       "description": "",
       "category": "social",
-      "tags": [
-        "leaderboard",
-        "game",
-        "rewards",
-        "rank",
-        "social"
-      ],
+      "tags": ["leaderboard", "game", "rewards", "rank", "social"],
       "homeUrl": "https://leaderboard.frm.lol/leaderboard/app",
       "iconUrl": "https://leaderboard.frm.lol/images/leaderboard.png",
       "imageUrl": "https://leaderboard.frm.lol/images/frame.png",
@@ -171,11 +165,7 @@
       "subtitle": "Farm daily, earn weekly",
       "description": "Plant, grow, and harvest crops with your friends.",
       "category": "games",
-      "tags": [
-        "farm",
-        "potato",
-        "game"
-      ],
+      "tags": ["farm", "potato", "game"],
       "homeUrl": "https://farville.farm",
       "iconUrl": "https://farville.farm/images/icon.png",
       "imageUrl": "https://farville.farm/images/feed.png",
@@ -205,13 +195,7 @@
       "subtitle": "Daily competitive wordle game mini app",
       "description": "Wordle in a frame",
       "category": "games",
-      "tags": [
-        "leaderboard",
-        "prize",
-        "degen",
-        "wordle",
-        "game"
-      ],
+      "tags": ["leaderboard", "prize", "degen", "wordle", "game"],
       "homeUrl": "https://pro.framedl.xyz/app/v2",
       "iconUrl": "https://pro.framedl.xyz/icon-pro.png",
       "imageUrl": "https://pro.framedl.xyz/init-pro.png",
@@ -220,7 +204,7 @@
       "author": {
         "fid": 11124,
         "username": "ds8",
-        "displayName": "dusan.framedl.eth 🎩",
+        "displayName": "dusan",
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cfc6af7-1eb5-4287-5818-afd214f45b00/original",
         "bio": "fortune cookie casts, memes, parenting, building frames, /framedl, /framedl-pro & /calmer",
         "powerBadge": true,
@@ -236,10 +220,7 @@
       "subtitle": "Share wyat and discover others",
       "description": "Share wyat (where you at) and discover what others are up to",
       "category": "social",
-      "tags": [
-        "location",
-        "discover"
-      ],
+      "tags": ["location", "discover"],
       "homeUrl": "https://wyat.live",
       "iconUrl": "https://wyat.live/images/icon.png",
       "imageUrl": "https://wyat.live/images/og.png",
@@ -275,7 +256,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7dfdcfa-bdd7-4b61-0bd5-ff8c201f0300/rectcrop3",
         "bio": "It's Game Time",
         "powerBadge": false,
-        "score": 0.9
+        "score": 0.91
       },
       "indexedAt": 1746911891
     },
@@ -297,7 +278,7 @@
         "pfpUrl": "https://i.imgur.com/9S7gylW.jpg",
         "bio": "The platform for onchain podcasts | pods.media",
         "powerBadge": true,
-        "score": 0.95
+        "score": 0.93
       },
       "indexedAt": 1746911891
     },
@@ -309,13 +290,7 @@
       "subtitle": "Daily wordle game mini app",
       "description": "Wordle in a frame",
       "category": "games",
-      "tags": [
-        "leaderboard",
-        "competitive",
-        "wordle",
-        "game",
-        "logic"
-      ],
+      "tags": ["leaderboard", "competitive", "wordle", "game", "logic"],
       "homeUrl": "https://framedl.xyz/app/v2",
       "iconUrl": "https://framedl.xyz/icon-v2.png",
       "imageUrl": "https://framedl.xyz/init-v2.png",
@@ -324,7 +299,7 @@
       "author": {
         "fid": 11124,
         "username": "ds8",
-        "displayName": "dusan.framedl.eth 🎩",
+        "displayName": "dusan",
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cfc6af7-1eb5-4287-5818-afd214f45b00/original",
         "bio": "fortune cookie casts, memes, parenting, building frames, /framedl, /framedl-pro & /calmer",
         "powerBadge": true,
@@ -386,13 +361,7 @@
       "subtitle": "Predict what the crowd thinks",
       "description": "Complete daily polls that predict what the world is thinking. When you’re right, you win real money.",
       "category": "games",
-      "tags": [
-        "poll",
-        "predict",
-        "earn",
-        "win",
-        "poly"
-      ],
+      "tags": ["poll", "predict", "earn", "win", "poly"],
       "homeUrl": "https://www.weponder.io/apps/social-predictions/predictions",
       "iconUrl": "https://www.weponder.io/img/logo-sm-bg.jpg",
       "framesUrl": "https://www.weponder.io/apps/social-predictions/predictions",
@@ -405,7 +374,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cabe6808-f469-42b9-6941-511d8abd3000/rectcrop3",
         "bio": "A daily game of social intuition. Predict, play, win | By @ba and @cojo.eth",
         "powerBadge": false,
-        "score": 0.93
+        "score": 0.94
       },
       "indexedAt": 1746911891
     },
@@ -429,7 +398,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c84463b-21f9-46c6-e336-65d2deb9b200/original",
         "bio": "Investing in new ideas",
         "powerBadge": false,
-        "score": 0.82
+        "score": 0.89
       },
       "indexedAt": 1746911891
     },
@@ -441,13 +410,7 @@
       "subtitle": "Social music",
       "description": "Stream, collect, and share music on Farcaster",
       "category": "social",
-      "tags": [
-        "music",
-        "social",
-        "collect",
-        "share",
-        "nft"
-      ],
+      "tags": ["music", "social", "collect", "share", "nft"],
       "homeUrl": "https://nfeed-frame.vercel.app",
       "iconUrl": "https://nfeed-frame.vercel.app/icon.png",
       "imageUrl": "https://nfeed-frame.vercel.app/image.png",
@@ -482,7 +445,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
-        "score": 0.84
+        "score": 0.95
       },
       "indexedAt": 1746911891
     },
@@ -494,20 +457,12 @@
       "subtitle": "Send GM to another chain",
       "description": "GMonchain is a cutting-edge miniapp on Farcaster, crafted to deliver an exceptional user experience. It boosts your airdrop potential by leveraging onchain interactions with your Farcaster wallet and seamless engagement on Warpcast.\n Complete the easy tasks below and unlock reward. Reward will be distributed to 10 lucky users and you should be a winner.",
       "category": "social",
-      "tags": [
-        "gm",
-        "airdrop",
-        "farcaster",
-        "monad",
-        "gmonchain"
-      ],
+      "tags": ["gm", "airdrop", "farcaster", "monad", "gmonchain"],
       "homeUrl": "https://gmonchain.vercel.app",
       "iconUrl": "https://gmonchain.vercel.app/icon.png",
       "imageUrl": "https://gmonchain.vercel.app/banner.png",
       "framesUrl": "https://gmonchain.vercel.app",
-      "screenshotUrls": [
-        "https://gmonchain.vercel.app/banner.png"
-      ],
+      "screenshotUrls": ["https://gmonchain.vercel.app/banner.png"],
       "backgroundColor": "#FFFFFF",
       "author": {
         "fid": 537378,
@@ -633,7 +588,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71c3ea17-e0b3-45c0-a9a0-b094df99f100/original",
         "bio": "@clanker 🐺🐺🐺🐺🐺🐺",
         "powerBadge": true,
-        "score": 0.99
+        "score": 1
       },
       "indexedAt": 1746911891
     },
@@ -645,12 +600,7 @@
       "subtitle": "",
       "description": "Popular 2048 game on Farcaster for Monad",
       "category": "games",
-      "tags": [
-        "monad",
-        "farcaster",
-        "miniapp",
-        "2048"
-      ],
+      "tags": ["monad", "farcaster", "miniapp", "2048"],
       "homeUrl": "https://monad-2048-miniapp.vercel.app/",
       "iconUrl": "https://monad-2048-miniapp.vercel.app//images/icon.png",
       "imageUrl": "https://monad-2048-miniapp.vercel.app//images/feed.png",
@@ -676,13 +626,7 @@
       "subtitle": "Mint. Spin. Win.",
       "description": "Mint, Spin & Win!",
       "category": "games",
-      "tags": [
-        "spin",
-        "win",
-        "slots",
-        "fun",
-        "prizes"
-      ],
+      "tags": ["spin", "win", "slots", "fun", "prizes"],
       "homeUrl": "https://betrmint.fun/",
       "iconUrl": "https://betrmint.fun/images/app-icon.png",
       "imageUrl": "https://betrmint.fun/images/fc-image.png",
@@ -695,7 +639,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a9e5012-210c-4d13-7f12-98052a699800/original",
         "bio": "Mint, Spin & Win in a mini app: http://betrmint.fun | Powered by $BETR. CA: 0x051024B653E8ec69E72693F776c41C2A9401FB07",
         "powerBadge": false,
-        "score": 0.73
+        "score": 0.74
       },
       "indexedAt": 1746911891
     },
@@ -755,11 +699,7 @@
       "subtitle": "",
       "description": "",
       "category": "games",
-      "tags": [
-        "crosswords",
-        "puzzles",
-        "social"
-      ],
+      "tags": ["crosswords", "puzzles", "social"],
       "homeUrl": "https://miniword.livediagonal.com",
       "iconUrl": "https://miniword.livediagonal.com/logo.png",
       "imageUrl": "https://miniword.livediagonal.com/miniword-cover.png",
@@ -982,7 +922,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6dbdcfa2-e31f-46b7-f646-9fb0992b8200/rectcrop3",
         "bio": "host @acidtest",
         "powerBadge": true,
-        "score": 1
+        "score": 0.99
       },
       "indexedAt": 1746911891
     },
@@ -1006,7 +946,7 @@
         "pfpUrl": "https://i.imgur.com/dwDm3cP.jpg",
         "bio": "crafting farcaster.in + terminal.co + @usetab",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.96
       },
       "indexedAt": 1746911891
     },
@@ -1018,20 +958,12 @@
       "subtitle": "Spin and Win Crypto Rewards",
       "description": "🎰 MonadSpin: Spin to win real crypto on Monad chain! Onchain luck, Farcaster vibes, scrypto rewards, leaderboard & more! 🚀🪙",
       "category": "games",
-      "tags": [
-        "crypto",
-        "rewards",
-        "blockchain",
-        "monad",
-        "game"
-      ],
+      "tags": ["crypto", "rewards", "blockchain", "monad", "game"],
       "homeUrl": "https://monadspin.xyz",
       "iconUrl": "https://monadspin.xyz/icon.png",
       "imageUrl": "https://monadspin.xyz/Banner.png",
       "framesUrl": "https://monadspin.xyz",
-      "screenshotUrls": [
-        "https://monadspin.xyz/Banner.png"
-      ],
+      "screenshotUrls": ["https://monadspin.xyz/Banner.png"],
       "backgroundColor": "#191970",
       "author": {
         "fid": 537378,
@@ -1087,7 +1019,7 @@
         "pfpUrl": "https://i.imgur.com/1nHPsNJ.jpg",
         "bio": "I like building crypto apps and learning new things. \n\nvmathur.com",
         "powerBadge": true,
-        "score": 0.93
+        "score": 0.92
       },
       "indexedAt": 1746911891
     },
@@ -1122,13 +1054,10 @@
       "subtitle": "",
       "description": "Look back at your memories on Farcaster",
       "category": "social",
-      "tags": [
-        "social",
-        "memories",
-        "community"
-      ],
+      "tags": ["social", "memories", "community"],
       "homeUrl": "https://memories.nexth.dev",
       "iconUrl": "https://memories.nexth.dev/icon.png",
+      "imageUrl": "https://memories.nexth.dev/image.png",
       "framesUrl": "https://memories.nexth.dev",
       "backgroundColor": "#f0ebff",
       "author": {
@@ -1138,7 +1067,7 @@
         "pfpUrl": "https://i.imgur.com/CPypC2f.jpg",
         "bio": "Events @Ethereum 🦄 Indie Hacker 🛠️",
         "powerBadge": true,
-        "score": 0.94
+        "score": 0.93
       },
       "indexedAt": 1746911891
     },
@@ -1184,7 +1113,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
-        "score": 0.84
+        "score": 0.95
       },
       "indexedAt": 1746911891
     },
@@ -1299,7 +1228,7 @@
         "pfpUrl": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
         "bio": "",
         "powerBadge": true,
-        "score": 0.98
+        "score": 0.97
       },
       "indexedAt": 1746911891
     },
@@ -1398,7 +1327,7 @@
     {
       "version": "next",
       "id": "appreciation.lat",
-      "index": 55,
+      "index": 54,
       "title": "Appreciation",
       "subtitle": "",
       "description": "",
@@ -1423,7 +1352,7 @@
       "id": "tipopolis.hamst.art",
       "index": 52,
       "title": "Tipopolis",
-      "subtitle": "",
+      "subtitle": "Tipopolis",
       "description": "Tip allowances and frames",
       "homeUrl": "https://tipopolis.hamst.art/",
       "iconUrl": "https://tipopolis.hamst.art/tipopolis/icon.png",
@@ -1439,7 +1368,10 @@
         "powerBadge": true,
         "score": 0.88
       },
-      "indexedAt": 1746911891
+      "indexedAt": 1746911891,
+      "category": "utility",
+      "tags": ["degen", "tips", "farcaster", "miniapp", "notifications"],
+      "screenshotUrls": []
     },
     {
       "version": "next",
@@ -1495,13 +1427,7 @@
       "subtitle": "Footy fun in farcaster",
       "description": "⚽️ match previews, summaries, Farcaster fantasy league, money games & onchain fan experiences",
       "category": "entertainment",
-      "tags": [
-        "sports",
-        "soccer",
-        "football",
-        "fantasy",
-        "games"
-      ],
+      "tags": ["sports", "soccer", "football", "fantasy", "games"],
       "homeUrl": "https://fc-footy.vercel.app",
       "iconUrl": "https://fc-footy.vercel.app/512.png",
       "framesUrl": "https://fc-footy.vercel.app",
@@ -1509,7 +1435,7 @@
       "author": {
         "fid": 4163,
         "username": "kmacb.eth",
-        "displayName": "KMac🍌 ⏩",
+        "displayName": "KMac",
         "pfpUrl": "https://images.colorino.site/cc214ccf3914a741130fbae423610b69406f9c7052751bd24bd0703e6d604686.png",
         "bio": "Ethereum builder & people connector. Juicebox, Revnet, Defifa & Footy App",
         "powerBadge": true,
@@ -1548,20 +1474,12 @@
       "subtitle": "Get paid when friends post",
       "description": "Get paid when friends post",
       "category": "utility",
-      "tags": [
-        "Social",
-        "Earn",
-        "Advertising",
-        "Ads",
-        "USDC"
-      ],
+      "tags": ["Social", "Earn", "Advertising", "Ads", "USDC"],
       "homeUrl": "https://amps.fun",
       "iconUrl": "https://amps.fun/icon.png",
       "imageUrl": "https://amps.fun/icon.png",
       "framesUrl": "https://amps.fun",
-      "screenshotUrls": [
-        "https://amps.fun/amps-screenshot-1.png"
-      ],
+      "screenshotUrls": ["https://amps.fun/amps-screenshot-1.png"],
       "backgroundColor": "#1A1623",
       "author": {
         "fid": 980410,
@@ -1653,20 +1571,12 @@
       "subtitle": "Track Farcaster score and info",
       "description": "🚀 Track your airdrop, flex your Farcaster score & wallet, and join the leaderboard! Claim your spot in the Farcaster fam! 💜🟦",
       "category": "social",
-      "tags": [
-        "analytics",
-        "wallet",
-        "score",
-        "farcaster",
-        "metrics"
-      ],
+      "tags": ["analytics", "wallet", "score", "farcaster", "metrics"],
       "homeUrl": "https://farrank.info",
       "iconUrl": "https://farrank.info/icon.png",
       "imageUrl": "https://farrank.info/Banner.png",
       "framesUrl": "https://farrank.info",
-      "screenshotUrls": [
-        "https://farrank.info/Banner.png"
-      ],
+      "screenshotUrls": ["https://farrank.info/Banner.png"],
       "backgroundColor": "#fafaff",
       "author": {
         "fid": 537378,
@@ -1697,7 +1607,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
-        "score": 0.84
+        "score": 0.95
       },
       "indexedAt": 1746911891
     },
@@ -1799,7 +1709,7 @@
       "id": "f.bracket.game",
       "index": 64,
       "title": "Bracket",
-      "subtitle": "",
+      "subtitle": "Trade Live Sports",
       "description": "Real-time Social Markets for sports & live events",
       "category": "social",
       "homeUrl": "https://f.bracket.game",
@@ -1816,7 +1726,8 @@
         "powerBadge": false,
         "score": 0.98
       },
-      "indexedAt": 1746911891
+      "indexedAt": 1746911891,
+      "tags": ["sports", "prediction", "market", "agent", "trade"]
     },
     {
       "version": "next",
@@ -1826,13 +1737,7 @@
       "subtitle": "A provable fair lottery game.",
       "description": "A provable fair Pool. Generated by `create-onchain --mini`, a Next.js template for MiniKit",
       "category": "games",
-      "tags": [
-        "lottery",
-        "onchain",
-        "base",
-        "pool",
-        "draw"
-      ],
+      "tags": ["lottery", "onchain", "base", "pool", "draw"],
       "homeUrl": "https://basepool.miniapps.zone",
       "iconUrl": "https://basepool.miniapps.zone/splash.png",
       "imageUrl": "https://basepool.miniapps.zone/basePool_New.png",
@@ -1978,13 +1883,7 @@
       "subtitle": "",
       "description": "Listen & Watch NFTs on PODPLAYR",
       "category": "entertainment",
-      "tags": [
-        "music",
-        "nft",
-        "audio",
-        "player",
-        "web3"
-      ],
+      "tags": ["music", "nft", "audio", "player", "web3"],
       "homeUrl": "https://podplayr.xyz",
       "iconUrl": "https://podplayr.xyz/icon.png",
       "imageUrl": "https://podplayr.xyz/image.png",
@@ -2056,13 +1955,7 @@
       "subtitle": "An onchain bird watching game",
       "description": "An onchain bird watching game",
       "category": "games",
-      "tags": [
-        "nfts",
-        "pfps",
-        "birdwatching",
-        "birds",
-        "gaming"
-      ],
+      "tags": ["nfts", "pfps", "birdwatching", "birds", "gaming"],
       "homeUrl": "https://songbirdz.cc",
       "iconUrl": "https://songbirdz.cc/android-chrome-192x192.png",
       "imageUrl": "https://songbirdz.cc/android-chrome-192x192.png",
@@ -2126,7 +2019,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52233f0e-19bf-4a35-6e29-686520c43000/rectcrop3",
         "bio": "Mini apps will eat the internet | Latest drop: /clankermon | Building : /miniapps /large /fctrivia /flappycaster /jeeves /source @degentip @playsource /jump",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.98
       },
       "indexedAt": 1746911891
     },
@@ -2230,13 +2123,7 @@
       "subtitle": "Solve daily math puzzles",
       "description": "Daily math quiz",
       "category": "games",
-      "tags": [
-        "math",
-        "puzzle",
-        "trivia",
-        "quiz",
-        "game"
-      ],
+      "tags": ["math", "puzzle", "trivia", "quiz", "game"],
       "homeUrl": "https://mathcast.xyz",
       "iconUrl": "https://mathcast.xyz/icon.png",
       "imageUrl": "https://mathcast.xyz/image.png",
@@ -2254,7 +2141,7 @@
         "pfpUrl": "https://i.imgur.com/cu46hik.jpg",
         "bio": "Builder: drawcast.xyz, mathcast.xyz,  onchainbits.xyz, BA5ED Merch, basedyear.com and more | Surgeon @ Archive Protocol | Host @ Based Budapest",
         "powerBadge": false,
-        "score": 0.98
+        "score": 0.97
       },
       "indexedAt": 1746911891
     },
@@ -2266,13 +2153,7 @@
       "subtitle": "",
       "description": "Turn Healty Habits Into Rewards",
       "category": "health-fitness",
-      "tags": [
-        "health",
-        "biohacking",
-        "wearables",
-        "blockchain",
-        "challenges"
-      ],
+      "tags": ["health", "biohacking", "wearables", "blockchain", "challenges"],
       "homeUrl": "https://app.livmore.life",
       "iconUrl": "https://app.livmore.life/icon.png",
       "imageUrl": "https://app.livmore.life/frameImage.jpg",
@@ -2355,7 +2236,7 @@
         "pfpUrl": "https://i.imgur.com/YZRdO5m.jpg",
         "bio": "Onchain Record Label - cooprecs.fun",
         "powerBadge": true,
-        "score": 0.9
+        "score": 0.91
       },
       "indexedAt": 1746911891
     },
@@ -2423,7 +2304,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f81e142-0a72-49af-6676-1266d7a07f00/original",
         "bio": "lets get to the best version faster - follow @1dolinski · challenge your habits · click to say hi to my ai https://getfirstresponder.com/talk/1dolinski",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.98
       },
       "indexedAt": 1746911891
     },
@@ -2551,11 +2432,7 @@
       "subtitle": "Crypto Crowdfunding",
       "description": "Shape the fate of the realm",
       "category": "finance",
-      "tags": [
-        "social",
-        "funding",
-        "daos"
-      ],
+      "tags": ["social", "funding", "daos"],
       "homeUrl": "https://fundraiser.farcastle.net",
       "iconUrl": "https://fundraiser.farcastle.net/icon.png",
       "imageUrl": "https://fundraiser.farcastle.net/image.png",
@@ -2619,7 +2496,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911892
     },
@@ -2825,7 +2702,7 @@
         "pfpUrl": "https://i.imgur.com/rN8bPzF.jpg",
         "bio": "Software Engineer @megaphone-hq\n\nPrev: @0xproject",
         "powerBadge": false,
-        "score": 0.86
+        "score": 0.87
       },
       "indexedAt": 1746911892
     },
@@ -2837,13 +2714,7 @@
       "subtitle": "",
       "description": "Own stunning onchain art every month. Collect art NFTs at your own pace and discover global creators monthly!",
       "category": "art-creativity",
-      "tags": [
-        "artists",
-        "art",
-        "monthly",
-        "nft",
-        "culture"
-      ],
+      "tags": ["artists", "art", "monthly", "nft", "culture"],
       "homeUrl": "https://collectr.live",
       "iconUrl": "https://collectr.live/images/collectr-logo.webp",
       "framesUrl": "https://collectr.live",
@@ -2891,13 +2762,7 @@
       "subtitle": "Explore videos on Farcaster",
       "description": "Explore videos on Farcaster.",
       "category": "entertainment",
-      "tags": [
-        "video",
-        "watch",
-        "tiktok",
-        "reels",
-        "shorts"
-      ],
+      "tags": ["video", "watch", "tiktok", "reels", "shorts"],
       "homeUrl": "https://dash.bnbs.dev",
       "iconUrl": "https://dash.bnbs.dev/icon.png",
       "imageUrl": "https://dash.bnbs.dev/opengraph-image.png",
@@ -2996,11 +2861,7 @@
       "subtitle": "",
       "description": "Design your clock",
       "category": "utility",
-      "tags": [
-        "clock",
-        "time",
-        "utility"
-      ],
+      "tags": ["clock", "time", "utility"],
       "homeUrl": "https://ticktock.fun",
       "iconUrl": "https://ticktock.fun/favicon.png",
       "imageUrl": "https://ticktock.fun/farcaster-icon.png",
@@ -3061,7 +2922,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/13da76bf-d847-469a-5e33-0567e2d83300/original",
         "bio": "Designing the Next Brands Together \n | /brand3 /fartone /odegen /mem3 /smiles /brnd /superblank wearefloc.com",
         "powerBadge": true,
-        "score": 0.99
+        "score": 0.98
       },
       "indexedAt": 1746911892
     },
@@ -3073,11 +2934,7 @@
       "subtitle": "i don't kwow what i am doing",
       "description": "A demo frame for Farcaster, deployed as a sub-app.",
       "category": "social",
-      "tags": [
-        "farcaster",
-        "miniapp",
-        "social"
-      ],
+      "tags": ["farcaster", "miniapp", "social"],
       "homeUrl": "https://farfromaframer.ionoi.eth.limo",
       "iconUrl": "https://farfromaframer.ionoi.eth.limo/icon.png",
       "imageUrl": "https://farfromaframer.ionoi.eth.limo/image.png",
@@ -3113,7 +2970,7 @@
       "author": {
         "fid": 4163,
         "username": "kmacb.eth",
-        "displayName": "KMac🍌 ⏩",
+        "displayName": "KMac",
         "pfpUrl": "https://images.colorino.site/cc214ccf3914a741130fbae423610b69406f9c7052751bd24bd0703e6d604686.png",
         "bio": "Ethereum builder & people connector. Juicebox, Revnet, Defifa & Footy App",
         "powerBadge": true,
@@ -3129,12 +2986,7 @@
       "subtitle": "creators • coins • communities",
       "description": "creators, coins, communities",
       "category": "social",
-      "tags": [
-        "social",
-        "creators",
-        "coins",
-        "communities"
-      ],
+      "tags": ["social", "creators", "coins", "communities"],
       "homeUrl": "https://fastjpeg.com/",
       "iconUrl": "https://fastjpeg.com/images/favicon.png",
       "imageUrl": "https://fastjpeg.com/images/og/open-graph.png",
@@ -3259,11 +3111,7 @@
       "subtitle": "i don't kwow what i am doing",
       "description": "A project showcasing why ionoi.eth sucks.",
       "category": "social",
-      "tags": [
-        "farcaster",
-        "miniapp",
-        "social"
-      ],
+      "tags": ["farcaster", "miniapp", "social"],
       "homeUrl": "https://ionoi.eth.sucks",
       "iconUrl": "https://ionoi.eth.sucks/icon.png",
       "imageUrl": "https://ionoi.eth.sucks/image.png",
@@ -3363,13 +3211,7 @@
       "subtitle": "Draw and challenge friends",
       "description": "Draw something and challenge friends",
       "category": "games",
-      "tags": [
-        "drawing",
-        "draw",
-        "sketch",
-        "doodle",
-        "fun"
-      ],
+      "tags": ["drawing", "draw", "sketch", "doodle", "fun"],
       "homeUrl": "https://drawcast.xyz",
       "iconUrl": "https://drawcast.xyz/icon.png",
       "imageUrl": "https://drawcast.xyz/image.png",
@@ -3387,7 +3229,7 @@
         "pfpUrl": "https://i.imgur.com/cu46hik.jpg",
         "bio": "Builder: drawcast.xyz, mathcast.xyz,  onchainbits.xyz, BA5ED Merch, basedyear.com and more | Surgeon @ Archive Protocol | Host @ Based Budapest",
         "powerBadge": false,
-        "score": 0.98
+        "score": 0.97
       },
       "indexedAt": 1746911892
     },
@@ -3419,7 +3261,7 @@
       "id": "meco.ham.cooking",
       "index": 50,
       "title": "Memes",
-      "subtitle": "",
+      "subtitle": "Meme Economy",
       "description": "Manage your meme token creation subscriptions.",
       "category": "finance",
       "homeUrl": "https://meco.ham.cooking/",
@@ -3435,7 +3277,9 @@
         "powerBadge": true,
         "score": 0.88
       },
-      "indexedAt": 1746911892
+      "indexedAt": 1746911892,
+      "tags": ["clanker", "notifications", "watch", "first", "raffle"],
+      "screenshotUrls": []
     },
     {
       "version": "next",
@@ -3504,7 +3348,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
-        "score": 0.84
+        "score": 0.95
       },
       "indexedAt": 1746911892
     },
@@ -3551,7 +3395,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fafedb0e-28c6-4e5c-e744-f81a37baa000/original",
         "bio": "Tokenized revenues and fundraises. 100% autonomous. \n$REV collects revenues from ecosystem activity, see the $REV revnet at https://app.revnet.eth.sucks/eth:3",
         "powerBadge": false,
-        "score": 0.71
+        "score": 0.69
       },
       "indexedAt": 1746911892
     },
@@ -3574,7 +3418,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4342e5c7-a9b0-447b-91e9-da00af0af100/rectcrop3",
         "bio": "Building baes.so, punk.town, cartridge.so, and deep.af",
         "powerBadge": false,
-        "score": 0.92
+        "score": 0.93
       },
       "indexedAt": 1746911892
     },
@@ -3619,7 +3463,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8374610-edfc-4654-2070-8c7f9517ec00/original",
         "bio": "Creator of Quick Intel - A security project for the people, giving power back to every Web3 user.\n\nDeveloper, Tech Nerd, Crypto Enthusiast",
         "powerBadge": false,
-        "score": 0.66
+        "score": 0.65
       },
       "indexedAt": 1746911892
     },
@@ -3665,7 +3509,7 @@
         "pfpUrl": "https://i.imgur.com/fBlcoMK.jpg",
         "bio": "",
         "powerBadge": false,
-        "score": 0.75
+        "score": 0.76
       },
       "indexedAt": 1746911892
     },
@@ -3736,7 +3580,7 @@
         "pfpUrl": "https://i.imgur.com/Bo8e8Jl.jpg",
         "bio": "engineer @artemisxyz • crystaltai.xyz • building onbase.dev",
         "powerBadge": false,
-        "score": 0.93
+        "score": 0.89
       },
       "indexedAt": 1746911892
     },
@@ -3760,7 +3604,7 @@
         "pfpUrl": "https://arweave.net/zU8HNIqFXJxt9-mXRMfJJ9KpioXD5FYbbjjfgwZw318/",
         "bio": "idesign | icode| iModerate",
         "powerBadge": true,
-        "score": 0.89
+        "score": 0.91
       },
       "indexedAt": 1746911892
     },
@@ -3795,13 +3639,7 @@
       "subtitle": "",
       "description": "A connect the dots mini app for Farcaster",
       "category": "games",
-      "tags": [
-        "farcaster",
-        "miniapp",
-        "connect",
-        "dots",
-        "game"
-      ],
+      "tags": ["farcaster", "miniapp", "connect", "dots", "game"],
       "homeUrl": "https://points.jhon.codes",
       "iconUrl": "https://points.jhon.codes/images/icon.png",
       "imageUrl": "https://points.jhon.codes/images/feed.png",
@@ -3827,12 +3665,7 @@
       "subtitle": "",
       "description": "",
       "category": "utility",
-      "tags": [
-        "channel",
-        "channels",
-        "social",
-        "farcaster"
-      ],
+      "tags": ["channel", "channels", "social", "farcaster"],
       "homeUrl": "https://channelizer.labfire.com/",
       "iconUrl": "https://channelizer.labfire.com/images/frame-square.png",
       "imageUrl": "https://channelizer.labfire.com/images/frame-32.png",
@@ -3857,11 +3690,7 @@
       "subtitle": "",
       "description": "Enter the yellow world with transformation based on your casts.",
       "category": "entertainment",
-      "tags": [
-        "yellow",
-        "analyse",
-        "roast"
-      ],
+      "tags": ["yellow", "analyse", "roast"],
       "homeUrl": "https://yellowme.xyz/",
       "iconUrl": "https://yellowme.xyz/icon.jpg",
       "framesUrl": "https://yellowme.xyz/",
@@ -3931,13 +3760,7 @@
       "subtitle": "",
       "description": "Bet on sports, improve your position in the leaderboard, share your bets, and earn fees on Base! 💥",
       "category": "entertainment",
-      "tags": [
-        "sport",
-        "bet",
-        "social",
-        "prediction",
-        "formula"
-      ],
+      "tags": ["sport", "bet", "social", "prediction", "formula"],
       "homeUrl": "https://betttr.xyz",
       "iconUrl": "https://betttr.xyz/images/icon.png",
       "framesUrl": "https://betttr.xyz",
@@ -4043,7 +3866,7 @@
         "pfpUrl": "https://arweave.net/zU8HNIqFXJxt9-mXRMfJJ9KpioXD5FYbbjjfgwZw318/",
         "bio": "idesign | icode| iModerate",
         "powerBadge": true,
-        "score": 0.89
+        "score": 0.91
       },
       "indexedAt": 1746911892
     },
@@ -4113,7 +3936,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
-        "score": 0.84
+        "score": 0.95
       },
       "indexedAt": 1746911892
     },
@@ -4136,7 +3959,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7513886b-6a6b-40d4-0dd6-28b50a8a1400/rectcrop3",
         "bio": "confident in the path I chose ✨",
         "powerBadge": false,
-        "score": 0.51
+        "score": 0.5
       },
       "indexedAt": 1746911892
     },
@@ -4182,7 +4005,7 @@
         "pfpUrl": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
         "bio": "",
         "powerBadge": true,
-        "score": 0.98
+        "score": 0.97
       },
       "indexedAt": 1746911892
     },
@@ -4251,7 +4074,7 @@
         "pfpUrl": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
         "bio": "bringing mini apps to 1B users @base              dylansteck.com",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.99
       },
       "indexedAt": 1746911892
     },
@@ -4263,12 +4086,7 @@
       "subtitle": "",
       "description": "Merging GitHub into Farcaster",
       "category": "developer-tools",
-      "tags": [
-        "developers",
-        "github",
-        "social",
-        "programming"
-      ],
+      "tags": ["developers", "github", "social", "programming"],
       "homeUrl": "https://gitcast.dev",
       "iconUrl": "https://gitcast.dev/icon.png",
       "imageUrl": "https://gitcast.dev/frame.png",
@@ -4304,7 +4122,7 @@
         "pfpUrl": "https://i.imgur.com/wcRmcUe.gif",
         "bio": "Learning and building on 🔵",
         "powerBadge": false,
-        "score": 0.74
+        "score": 0.77
       },
       "indexedAt": 1746911892
     },
@@ -4442,7 +4260,7 @@
         "pfpUrl": "https://i.imgur.com/dwDm3cP.jpg",
         "bio": "crafting farcaster.in + terminal.co + @usetab",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.96
       },
       "indexedAt": 1746911892
     },
@@ -4489,7 +4307,7 @@
         "pfpUrl": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
         "bio": "",
         "powerBadge": true,
-        "score": 0.98
+        "score": 0.97
       },
       "indexedAt": 1746911892
     },
@@ -4531,7 +4349,7 @@
       "author": {
         "fid": 11124,
         "username": "ds8",
-        "displayName": "dusan.framedl.eth 🎩",
+        "displayName": "dusan",
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cfc6af7-1eb5-4287-5818-afd214f45b00/original",
         "bio": "fortune cookie casts, memes, parenting, building frames, /framedl, /framedl-pro & /calmer",
         "powerBadge": true,
@@ -4628,7 +4446,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c709f879-d466-46a5-d3f9-47c79a289900/original",
         "bio": "therealharpaljadeja on GitHub ",
         "powerBadge": true,
-        "score": 0.99
+        "score": 1
       },
       "indexedAt": 1746911892
     },
@@ -4640,11 +4458,7 @@
       "subtitle": "Your Tator Trader dashboard",
       "description": "Track and manage your Tator interactions",
       "category": "social",
-      "tags": [
-        "tator",
-        "farcaster",
-        "social"
-      ],
+      "tags": ["tator", "farcaster", "social"],
       "homeUrl": "https://tatortrader.quickintel.io/dashboard",
       "iconUrl": "https://tatortrader.quickintel.io/images/tator-thumbs-up.png",
       "framesUrl": "https://tatortrader.quickintel.io/dashboard",
@@ -4656,7 +4470,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8374610-edfc-4654-2070-8c7f9517ec00/original",
         "bio": "Creator of Quick Intel - A security project for the people, giving power back to every Web3 user.\n\nDeveloper, Tech Nerd, Crypto Enthusiast",
         "powerBadge": false,
-        "score": 0.66
+        "score": 0.65
       },
       "indexedAt": 1746911892
     },
@@ -4750,7 +4564,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911892
     },
@@ -4809,13 +4623,7 @@
       "subtitle": "Coin prediction game",
       "description": "Play BattleCast",
       "category": "games",
-      "tags": [
-        "coins",
-        "predictions",
-        "rewards",
-        "leaderboard",
-        "competition"
-      ],
+      "tags": ["coins", "predictions", "rewards", "leaderboard", "competition"],
       "homeUrl": "https://battlecast.meme",
       "iconUrl": "https://battlecast.meme/images/icon.png",
       "imageUrl": "https://battlecast.meme/images/battlecast.png",
@@ -4899,7 +4707,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
-        "score": 0.84
+        "score": 0.95
       },
       "indexedAt": 1746911892
     },
@@ -4921,7 +4729,7 @@
         "pfpUrl": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
         "bio": "bringing mini apps to 1B users @base              dylansteck.com",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.99
       },
       "indexedAt": 1746911892
     },
@@ -4968,7 +4776,7 @@
         "pfpUrl": "https://arweave.net/zU8HNIqFXJxt9-mXRMfJJ9KpioXD5FYbbjjfgwZw318/",
         "bio": "idesign | icode| iModerate",
         "powerBadge": true,
-        "score": 0.89
+        "score": 0.91
       },
       "indexedAt": 1746911892
     },
@@ -5073,13 +4881,7 @@
       "subtitle": "",
       "description": "Weave the stars.  Forge Empires.  Uncover the truth.",
       "category": "games",
-      "tags": [
-        "rpg",
-        "gaming",
-        "scifi",
-        "multiplayer",
-        "tavern"
-      ],
+      "tags": ["rpg", "gaming", "scifi", "multiplayer", "tavern"],
       "homeUrl": "https://playstarforge.com",
       "iconUrl": "https://playstarforge.com/.assets/logo.png",
       "framesUrl": "https://playstarforge.com",
@@ -5091,7 +4893,7 @@
         "pfpUrl": "https://i.imgur.com/ekHKNAC.jpg",
         "bio": "Maker of stuff, and things.",
         "powerBadge": false,
-        "score": 0.76
+        "score": 0.78
       },
       "indexedAt": 1746911892
     },
@@ -5103,13 +4905,7 @@
       "subtitle": "",
       "description": "Quick-start scaffold for Farcaster Mini Apps with authentication, notifications, and data persistence",
       "category": "developer-tools",
-      "tags": [
-        "scaffold",
-        "boilerplate",
-        "auth",
-        "notifications",
-        "supabase"
-      ],
+      "tags": ["scaffold", "boilerplate", "auth", "notifications", "supabase"],
       "homeUrl": "https://www.scaffold.wiki/",
       "iconUrl": "https://www.scaffold.wiki/images/scaffolding-icon.png",
       "imageUrl": "https://www.scaffold.wiki/images/miniapp-scaffolding.png",
@@ -5122,7 +4918,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2105bfa3-6d2c-414e-2eeb-fe8501112200/original",
         "bio": "Creator of: 🌐 /minimap 🐔 /tappy",
         "powerBadge": false,
-        "score": 0.96
+        "score": 0.97
       },
       "indexedAt": 1746911892
     },
@@ -5240,7 +5036,7 @@
         "pfpUrl": "https://i.imgur.com/eQMkpKZ.png",
         "bio": "Founder /songs-tools\n- open internet - code - product - mixed arts - music ::: Love building sovereign products :::\nhttps://gordo.design ☆ ☱ ⛋",
         "powerBadge": false,
-        "score": 0.92
+        "score": 0.93
       },
       "indexedAt": 1746911892
     },
@@ -5263,7 +5059,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b439ca50-d3d8-4c63-d9f6-a73c16b67900/original",
         "bio": "#Jeweler 💎 Code ₿ ⛏️ 🇨🇴 Digital Artist 💻🎨#Dev 🟧 \n🤖🧠 Building on base & Bitcoin\n\nFounder/CEO BitxelRoads.twitter",
         "powerBadge": false,
-        "score": 0.53
+        "score": 0.55
       },
       "indexedAt": 1746911892
     },
@@ -5298,13 +5094,7 @@
       "subtitle": "Market-powered news feed",
       "description": "TrueCast",
       "category": "news-media",
-      "tags": [
-        "prediction",
-        "news",
-        "betting",
-        "infofinance",
-        "social"
-      ],
+      "tags": ["prediction", "news", "betting", "infofinance", "social"],
       "homeUrl": "https://true-cast.vercel.app",
       "iconUrl": "https://true-cast.vercel.app/trueCast.png",
       "imageUrl": "https://true-cast.vercel.app/trueCast.png",
@@ -5368,7 +5158,7 @@
         "pfpUrl": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
         "bio": "bringing mini apps to 1B users @base              dylansteck.com",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.99
       },
       "indexedAt": 1746911892
     },
@@ -5437,7 +5227,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911892
     },
@@ -5889,11 +5679,7 @@
       "subtitle": "",
       "description": "Discover your random NFT",
       "category": "social",
-      "tags": [
-        "monad",
-        "farcaster",
-        "miniapp"
-      ],
+      "tags": ["monad", "farcaster", "miniapp"],
       "homeUrl": "https://monad-vibes-sdf.vercel.app",
       "iconUrl": "https://monad-vibes-sdf.vercel.app/images/icon.png",
       "imageUrl": "https://monad-vibes-sdf.vercel.app/images/feed.png",
@@ -5906,7 +5692,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/31f46ec7-bab4-46e1-7897-4fda0bab2f00/rectcrop3",
         "bio": "Dev.",
         "powerBadge": false,
-        "score": 0.26
+        "score": 0.28
       },
       "indexedAt": 1746911892
     },
@@ -5929,7 +5715,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/de086081-08bb-4e15-6a44-4a7de786e000/rectcrop3",
         "bio": "eng @base | continuously learning & shipping | currently building https://onchainsite.xyz",
         "powerBadge": false,
-        "score": 0.91
+        "score": 0.92
       },
       "indexedAt": 1746911892
     },
@@ -6034,12 +5820,7 @@
       "subtitle": "JustCoinIt",
       "description": "Create your content coins and manage your tokens",
       "category": "finance",
-      "tags": [
-        "crypto",
-        "miniapp",
-        "coinbasewallet",
-        "base"
-      ],
+      "tags": ["crypto", "miniapp", "coinbasewallet", "base"],
       "homeUrl": "https://justcoinit.vercel.app",
       "iconUrl": "https://justcoinit.vercel.app/app.png",
       "imageUrl": "https://justcoinit.vercel.app/app-frame.png",
@@ -6057,7 +5838,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/480261af-7e26-4617-48d5-c8fa8f5da600/rectcrop3",
         "bio": "Ceo & Founder of MySPHEREai 💠  \n\nmysphere.fun 👈\n\nBase Builder",
         "powerBadge": false,
-        "score": 0.5
+        "score": 0.48
       },
       "indexedAt": 1746911892
     },
@@ -6081,7 +5862,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2105bfa3-6d2c-414e-2eeb-fe8501112200/original",
         "bio": "Creator of: 🌐 /minimap 🐔 /tappy",
         "powerBadge": false,
-        "score": 0.96
+        "score": 0.97
       },
       "indexedAt": 1746911892
     },
@@ -6223,7 +6004,7 @@
         "pfpUrl": "https://i.imgur.com/xowTBBM.jpg",
         "bio": "Here for the art, tech and culture bonanza.wtf",
         "powerBadge": false,
-        "score": 0.76
+        "score": 0.77
       },
       "indexedAt": 1746911892
     },
@@ -6235,12 +6016,7 @@
       "subtitle": "",
       "description": "Match tech company logos and find Rosebud AI for a bonus!",
       "category": "games",
-      "tags": [
-        "memory",
-        "game",
-        "logos",
-        "matching"
-      ],
+      "tags": ["memory", "game", "logos", "matching"],
       "homeUrl": "https://warp-frame.vercel.app/",
       "iconUrl": "https://warp-frame.vercel.app/icon.png",
       "framesUrl": "https://warp-frame.vercel.app/",
@@ -6264,11 +6040,7 @@
       "subtitle": "",
       "description": "A Farcaster Frame powered by frames.js",
       "category": "developer-tools",
-      "tags": [
-        "poll",
-        "demo",
-        "frames"
-      ],
+      "tags": ["poll", "demo", "frames"],
       "homeUrl": "https://mini-app-lilac-kappa.vercel.app",
       "iconUrl": "https://mini-app-lilac-kappa.vercel.app/poll.png",
       "framesUrl": "https://mini-app-lilac-kappa.vercel.app",
@@ -6340,13 +6112,7 @@
       "subtitle": "Image to Video AI Creator",
       "description": "Transform images into amazing videos using AI",
       "category": "art-creativity",
-      "tags": [
-        "ai",
-        "video",
-        "image",
-        "creation",
-        "base"
-      ],
+      "tags": ["ai", "video", "image", "creation", "base"],
       "homeUrl": "https://mini-tv.app",
       "iconUrl": "https://mini-tv.app/miniicon.png",
       "imageUrl": "https://mini-tv.app/splash.png",
@@ -6359,7 +6125,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/480261af-7e26-4617-48d5-c8fa8f5da600/rectcrop3",
         "bio": "Ceo & Founder of MySPHEREai 💠  \n\nmysphere.fun 👈\n\nBase Builder",
         "powerBadge": false,
-        "score": 0.5
+        "score": 0.48
       },
       "indexedAt": 1746911892
     },
@@ -6430,7 +6196,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911892
     },
@@ -6567,7 +6333,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
-        "score": 0.84
+        "score": 0.95
       },
       "indexedAt": 1746911892
     },
@@ -6614,7 +6380,7 @@
         "pfpUrl": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
         "bio": "",
         "powerBadge": true,
-        "score": 0.98
+        "score": 0.97
       },
       "indexedAt": 1746911892
     },
@@ -6659,7 +6425,7 @@
         "pfpUrl": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
         "bio": "bringing mini apps to 1B users @base              dylansteck.com",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.99
       },
       "indexedAt": 1746911892
     },
@@ -6707,7 +6473,7 @@
         "pfpUrl": "https://i.imgur.com/mbIwmRg.jpg",
         "bio": "mago hacker 🇧🇷🏴‍☠️ building /gnars and /nounspace",
         "powerBadge": false,
-        "score": 0.84
+        "score": 0.85
       },
       "indexedAt": 1746911892
     },
@@ -6966,7 +6732,7 @@
         "pfpUrl": "https://tba-mobile.mypinata.cloud/ipfs/QmQJsc3KKFuKLAgD7f7Zp4CdsHNG7jjwxiLub5RRNyH5RA?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
         "bio": "software @coinbase",
         "powerBadge": false,
-        "score": 0.5
+        "score": 0.53
       },
       "indexedAt": 1746911892
     },
@@ -7035,7 +6801,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911892
     },
@@ -7105,7 +6871,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2105bfa3-6d2c-414e-2eeb-fe8501112200/original",
         "bio": "Creator of: 🌐 /minimap 🐔 /tappy",
         "powerBadge": false,
-        "score": 0.96
+        "score": 0.97
       },
       "indexedAt": 1746911892
     },
@@ -7403,7 +7169,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -7449,7 +7215,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/480261af-7e26-4617-48d5-c8fa8f5da600/rectcrop3",
         "bio": "Ceo & Founder of MySPHEREai 💠  \n\nmysphere.fun 👈\n\nBase Builder",
         "powerBadge": false,
-        "score": 0.5
+        "score": 0.48
       },
       "indexedAt": 1746911893
     },
@@ -7529,13 +7295,7 @@
       "subtitle": "Music Social Tokens",
       "description": "Create, trade, and collect social tokens for music artists",
       "category": "music",
-      "tags": [
-        "music",
-        "tokens",
-        "social",
-        "artists",
-        "web3"
-      ],
+      "tags": ["music", "tokens", "social", "artists", "web3"],
       "homeUrl": "https://songcast.vercel.app/miniapp",
       "iconUrl": "https://songcast.vercel.app/icon.png",
       "imageUrl": "https://songcast.vercel.app/image.png",
@@ -7596,7 +7356,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c84463b-21f9-46c6-e336-65d2deb9b200/original",
         "bio": "Investing in new ideas",
         "powerBadge": false,
-        "score": 0.82
+        "score": 0.89
       },
       "indexedAt": 1746911893
     },
@@ -7691,7 +7451,7 @@
         "pfpUrl": "https://i.imgur.com/GfaScaF.png",
         "bio": "FID 899 | founder/ycombinator alum\n\nbwl.gg\n\nbuilding @precoin and more\n\nbuilt: lunchbreak.com ketl.xyz, eggs.fun, @sealcaster (1st anon casting tool), and more",
         "powerBadge": true,
-        "score": 1
+        "score": 0.99
       },
       "indexedAt": 1746911893
     },
@@ -7784,7 +7544,7 @@
         "pfpUrl": "https://i.imgur.com/Ok8FM29.jpg",
         "bio": "New protocol on the Base blockchain!\n\nHow far can you ride the bus? 🚌\n\nhttps://www.ridethebus.xyz",
         "powerBadge": false,
-        "score": 0.77
+        "score": 0.79
       },
       "indexedAt": 1746911893
     },
@@ -7807,7 +7567,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52233f0e-19bf-4a35-6e29-686520c43000/rectcrop3",
         "bio": "Mini apps will eat the internet | Latest drop: /clankermon | Building : /miniapps /large /fctrivia /flappycaster /jeeves /source @degentip @playsource /jump",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.98
       },
       "indexedAt": 1746911893
     },
@@ -7842,13 +7602,7 @@
       "subtitle": "",
       "description": "A joyful experience: play games, create art, and make a difference with donations.",
       "category": "games",
-      "tags": [
-        "monad",
-        "farcaster",
-        "miniapp",
-        "games",
-        "art"
-      ],
+      "tags": ["monad", "farcaster", "miniapp", "games", "art"],
       "homeUrl": "https://chrismini.netlify.app",
       "iconUrl": "https://chrismini.netlify.app/images/icon.jpeg",
       "imageUrl": "https://chrismini.netlify.app/images/feed.png",
@@ -7862,7 +7616,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/14302d5e-d8dd-46da-dc5f-54134bc99300/original",
         "bio": "dev, degen, community manager\nchriswilder.xyz",
         "powerBadge": false,
-        "score": 0.44
+        "score": 0.64
       },
       "indexedAt": 1746911893
     },
@@ -7910,7 +7664,7 @@
         "pfpUrl": "https://i.imgur.com/xowTBBM.jpg",
         "bio": "Here for the art, tech and culture bonanza.wtf",
         "powerBadge": false,
-        "score": 0.76
+        "score": 0.77
       },
       "indexedAt": 1746911893
     },
@@ -7980,7 +7734,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -8003,7 +7757,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3fd0b04-4f81-4778-9c39-d79b23fdc400/original",
         "bio": "Creative Director | Web3 artist | dApp dev | /thepod | opensea.io/GoldiesNFTart | @podplayr",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.92
       },
       "indexedAt": 1746911893
     },
@@ -8070,7 +7824,7 @@
         "pfpUrl": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
         "bio": "bringing mini apps to 1B users @base              dylansteck.com",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.99
       },
       "indexedAt": 1746911893
     },
@@ -8211,7 +7965,7 @@
         "pfpUrl": "https://arweave.net/zU8HNIqFXJxt9-mXRMfJJ9KpioXD5FYbbjjfgwZw318/",
         "bio": "idesign | icode| iModerate",
         "powerBadge": true,
-        "score": 0.89
+        "score": 0.91
       },
       "indexedAt": 1746911893
     },
@@ -8305,7 +8059,7 @@
         "pfpUrl": "https://i.imgur.com/xowTBBM.jpg",
         "bio": "Here for the art, tech and culture bonanza.wtf",
         "powerBadge": false,
-        "score": 0.76
+        "score": 0.77
       },
       "indexedAt": 1746911893
     },
@@ -8421,7 +8175,7 @@
         "pfpUrl": "https://i.imgur.com/3d6fFAI.png",
         "bio": "A Farcaster client.",
         "powerBadge": true,
-        "score": 0.83
+        "score": 0.82
       },
       "indexedAt": 1746911893
     },
@@ -8468,7 +8222,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a465df1-6490-4357-8259-862ed29c9600/original",
         "bio": "your favorite software dev • crypto degen • miniapps lover • full time warpcast caster",
         "powerBadge": false,
-        "score": 0.92
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -8607,7 +8361,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e707fcd9-2d4d-4306-7b30-c43a75889100/rectcrop3",
         "bio": "bitflick",
         "powerBadge": true,
-        "score": 0.98
+        "score": 0.97
       },
       "indexedAt": 1746911893
     },
@@ -8631,7 +8385,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/480261af-7e26-4617-48d5-c8fa8f5da600/rectcrop3",
         "bio": "Ceo & Founder of MySPHEREai 💠  \n\nmysphere.fun 👈\n\nBase Builder",
         "powerBadge": false,
-        "score": 0.5
+        "score": 0.48
       },
       "indexedAt": 1746911893
     },
@@ -8761,13 +8515,7 @@
       "subtitle": "The OG NFT Community",
       "description": "Unstoppable",
       "category": "social",
-      "tags": [
-        "nft",
-        "art",
-        "collectibles",
-        "community",
-        "music"
-      ],
+      "tags": ["nft", "art", "collectibles", "community", "music"],
       "homeUrl": "https://www.fameladysociety.com/~/blu/funknlove",
       "iconUrl": "https://www.fameladysociety.com/images/app.png",
       "framesUrl": "https://www.fameladysociety.com/~/blu/funknlove",
@@ -8838,12 +8586,7 @@
       "subtitle": "",
       "description": "A Farcaster Mini App with authentication, notifications, and Supabase integration",
       "category": "developer-tools",
-      "tags": [
-        "demo",
-        "auth",
-        "notifications",
-        "supabase"
-      ],
+      "tags": ["demo", "auth", "notifications", "supabase"],
       "homeUrl": "https://www.dollarchain.xyz/",
       "iconUrl": "https://www.dollarchain.xyz/images/dollarchain-logo.png",
       "imageUrl": "https://www.dollarchain.xyz/images/dollarchain-logo.png",
@@ -8856,7 +8599,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2105bfa3-6d2c-414e-2eeb-fe8501112200/original",
         "bio": "Creator of: 🌐 /minimap 🐔 /tappy",
         "powerBadge": false,
-        "score": 0.96
+        "score": 0.97
       },
       "indexedAt": 1746911893
     },
@@ -8924,7 +8667,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f8231a0-95d2-4d12-2394-f491cfb38a00/original",
         "bio": "",
         "powerBadge": false,
-        "score": 0.93
+        "score": 0.94
       },
       "indexedAt": 1746911893
     },
@@ -8995,7 +8738,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3fd0b04-4f81-4778-9c39-d79b23fdc400/original",
         "bio": "Creative Director | Web3 artist | dApp dev | /thepod | opensea.io/GoldiesNFTart | @podplayr",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.92
       },
       "indexedAt": 1746911893
     },
@@ -9251,7 +8994,7 @@
         "pfpUrl": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
         "bio": "bringing mini apps to 1B users @base              dylansteck.com",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.99
       },
       "indexedAt": 1746911893
     },
@@ -9298,7 +9041,7 @@
         "pfpUrl": "https://i.imgur.com/3d6fFAI.png",
         "bio": "A Farcaster client.",
         "powerBadge": true,
-        "score": 0.83
+        "score": 0.82
       },
       "indexedAt": 1746911893
     },
@@ -9389,7 +9132,7 @@
         "pfpUrl": "https://i.imgur.com/1nHPsNJ.jpg",
         "bio": "I like building crypto apps and learning new things. \n\nvmathur.com",
         "powerBadge": true,
-        "score": 0.93
+        "score": 0.92
       },
       "indexedAt": 1746911893
     },
@@ -9435,7 +9178,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2105bfa3-6d2c-414e-2eeb-fe8501112200/original",
         "bio": "Creator of: 🌐 /minimap 🐔 /tappy",
         "powerBadge": false,
-        "score": 0.96
+        "score": 0.97
       },
       "indexedAt": 1746911893
     },
@@ -9447,13 +9190,7 @@
       "subtitle": "",
       "description": "Happy World App - just vote",
       "category": "social",
-      "tags": [
-        "farcaster",
-        "miniapp",
-        "vote",
-        "mood",
-        "monad"
-      ],
+      "tags": ["farcaster", "miniapp", "vote", "mood", "monad"],
       "homeUrl": "https://mon-far-app.vercel.app",
       "iconUrl": "https://mon-far-app.vercel.app/images/icon.png",
       "imageUrl": "https://mon-far-app.vercel.app/images/feed.png",
@@ -9489,7 +9226,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0eef6f5d-238e-4a69-3b32-46afea186c00/rectcrop3",
         "bio": "Hey! I'm a cofounder of the PageDAO [ https://pagedao.org ] also: PhD student in neuroscience. Tipping $.05 with likes via @tipn\n\nhttps://epicdylan.com",
         "powerBadge": false,
-        "score": 0.67
+        "score": 0.65
       },
       "indexedAt": 1746911893
     },
@@ -9498,16 +9235,10 @@
       "id": "versus-test.netlify.app",
       "index": 90,
       "title": "Versus",
-      "subtitle": "",
+      "subtitle": "Stay tuned for the updates",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
       "category": "social",
-      "tags": [
-        "game",
-        "miniapp",
-        "mech",
-        "tower",
-        "wreckleague"
-      ],
+      "tags": ["game", "miniapp", "mech", "tower", "wreckleague"],
       "homeUrl": "https://versus-test.netlify.app",
       "iconUrl": "https://versus.wreckleague.xyz/images/logo.png",
       "imageUrl": "https://versus.wreckleague.xyz/imgaes/thumb.png",
@@ -9567,7 +9298,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/de086081-08bb-4e15-6a44-4a7de786e000/rectcrop3",
         "bio": "eng @base | continuously learning & shipping | currently building https://onchainsite.xyz",
         "powerBadge": false,
-        "score": 0.91
+        "score": 0.92
       },
       "indexedAt": 1746911893
     },
@@ -9613,7 +9344,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36d93bb3-f4e0-4ca6-739d-5b6639304f00/rectcrop3",
         "bio": "Web3 developer with Ethereum expertise exploring zk\n\nhttps://bento.me/avinashnayak",
         "powerBadge": false,
-        "score": 0.82
+        "score": 0.77
       },
       "indexedAt": 1746911893
     },
@@ -9683,7 +9414,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c84463b-21f9-46c6-e336-65d2deb9b200/original",
         "bio": "Investing in new ideas",
         "powerBadge": false,
-        "score": 0.82
+        "score": 0.89
       },
       "indexedAt": 1746911893
     },
@@ -9800,7 +9531,7 @@
         "pfpUrl": "https://images.colorino.site/d1f8d96e8697e93ef45fd40f491c47e179798fe3e28bfb3b7805a3888cb31f28.png",
         "bio": "Working on a few projects 👷\n\n- FPLBets (sunset 🌇)\n- The Ponz\n\nhttps://github.com/AlexanderCGKarlsson",
         "powerBadge": false,
-        "score": 0.78
+        "score": 0.79
       },
       "indexedAt": 1746911893
     },
@@ -9847,7 +9578,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -9870,7 +9601,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -9893,7 +9624,7 @@
         "pfpUrl": "https://i.imgur.com/xowTBBM.jpg",
         "bio": "Here for the art, tech and culture bonanza.wtf",
         "powerBadge": false,
-        "score": 0.76
+        "score": 0.77
       },
       "indexedAt": 1746911893
     },
@@ -9916,7 +9647,7 @@
         "pfpUrl": "https://i.imgur.com/EwZbyYy.jpg",
         "bio": "• Building Web3\n• Proud member of the CryptoGirls\n• AI addict\n\nImagine enjoying life ",
         "powerBadge": false,
-        "score": 0.4
+        "score": 0.39
       },
       "indexedAt": 1746911893
     },
@@ -9939,7 +9670,7 @@
         "pfpUrl": "https://ipfs.decentralized-content.com/ipfs/QmQaYjeqD9PVQfTtkP9aUthRTzt5p45RZnTbNM3eNNjanp",
         "bio": "Pushing the boundaries of tradition.",
         "powerBadge": false,
-        "score": 0.8
+        "score": 0.86
       },
       "indexedAt": 1746911893
     },
@@ -9962,7 +9693,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70382eba-563f-4ead-54d1-9cde63299100/rectcrop3",
         "bio": "building @inkonchain @krakenfx",
         "powerBadge": false,
-        "score": 0.58
+        "score": 0.6
       },
       "indexedAt": 1746911893
     },
@@ -10099,7 +9830,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0f8a612-6bfd-47e9-3383-6942e3469600/original",
         "bio": "Dev is Bullish Building Onchain Calorie Tracking AI on \n@Base\n Documenting the build journey day by day, from complete noob in AI to AI chad",
         "powerBadge": false,
-        "score": 0.5
+        "score": 0.51
       },
       "indexedAt": 1746911893
     },
@@ -10192,7 +9923,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecffc1f3-9451-4050-08ce-e5b25f9eb600/original",
         "bio": "Polyhedric Blockchain Developer",
         "powerBadge": false,
-        "score": 0.57
+        "score": 0.58
       },
       "indexedAt": 1746911893
     },
@@ -10216,7 +9947,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -10472,7 +10203,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -10495,7 +10226,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -10734,7 +10465,7 @@
     {
       "version": "next",
       "id": "decashback.xyz",
-      "index": 48,
+      "index": 31,
       "title": "Decashback",
       "subtitle": "",
       "description": "Decashback - Optimize your crypto trading rewards",
@@ -10843,7 +10574,7 @@
         "pfpUrl": "https://images.mirror-media.xyz/publication-images/d87cb68f-b1c1-4823-afef-634cddc7758b.gif?height=250&width=250",
         "bio": "cooking?\nsoon mentalpoker.xyz\nbasedchess.xyz\njgresham.xyz",
         "powerBadge": false,
-        "score": 1
+        "score": 0.99
       },
       "indexedAt": 1746911893
     },
@@ -10866,7 +10597,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/312c2e74-aae5-487b-509b-50f45580eb00/rectcrop3",
         "bio": "valar morghulis || megabyte0x.xyz || building @yourreplyguy",
         "powerBadge": false,
-        "score": 0.8
+        "score": 0.77
       },
       "indexedAt": 1746911893
     },
@@ -10948,12 +10679,7 @@
       "subtitle": "",
       "description": "",
       "category": "social",
-      "tags": [
-        "Fun",
-        "Meme",
-        "warpcast",
-        "earn"
-      ],
+      "tags": ["Fun", "Meme", "warpcast", "earn"],
       "homeUrl": "https://meme-vibe.vercel.app",
       "iconUrl": "https://meme-vibe.vercel.app/logo.png",
       "imageUrl": "https://meme-vibe.vercel.app/image.png",
@@ -11163,13 +10889,7 @@
       "subtitle": "Your content. Your price",
       "description": "Upload, share, earn instantly",
       "category": "social",
-      "tags": [
-        "Social",
-        "Entertainment",
-        "Exclusive",
-        "Content",
-        "Media"
-      ],
+      "tags": ["Social", "Entertainment", "Exclusive", "Content", "Media"],
       "homeUrl": "https://www.paperview.media",
       "iconUrl": "https://www.paperview.media/logo-bg-dark.png",
       "framesUrl": "https://www.paperview.media",
@@ -11181,7 +10901,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/00c5455a-33f4-4287-28f8-2537443c0000/original",
         "bio": "Exclusive content from 1¢ to $1M | paperview.media",
         "powerBadge": false,
-        "score": 0.65
+        "score": 0.66
       },
       "indexedAt": 1746911893
     },
@@ -11252,7 +10972,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2dfde02b-f002-42fa-c7a0-a477379c6700/rectcrop3",
         "bio": "cofounder @canvas, prev @common, raymond.xyz",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.96
       },
       "indexedAt": 1746911893
     },
@@ -11300,7 +11020,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2105bfa3-6d2c-414e-2eeb-fe8501112200/original",
         "bio": "Creator of: 🌐 /minimap 🐔 /tappy",
         "powerBadge": false,
-        "score": 0.96
+        "score": 0.97
       },
       "indexedAt": 1746911893
     },
@@ -11416,7 +11136,7 @@
         "pfpUrl": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
         "bio": "bringing mini apps to 1B users @base              dylansteck.com",
         "powerBadge": true,
-        "score": 0.97
+        "score": 0.99
       },
       "indexedAt": 1746911893
     },
@@ -11579,7 +11299,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/312c2e74-aae5-487b-509b-50f45580eb00/rectcrop3",
         "bio": "valar morghulis || megabyte0x.xyz || building @yourreplyguy",
         "powerBadge": false,
-        "score": 0.8
+        "score": 0.77
       },
       "indexedAt": 1746911893
     },
@@ -12242,12 +11962,7 @@
       "subtitle": "",
       "description": "A memory game mini-app for Farcaster",
       "category": "games",
-      "tags": [
-        "farcaster",
-        "miniapp",
-        "memory",
-        "game"
-      ],
+      "tags": ["farcaster", "miniapp", "memory", "game"],
       "homeUrl": "https://mine.jhon.codes",
       "iconUrl": "https://mine.jhon.codes/images/icon.png",
       "imageUrl": "https://mine.jhon.codes/images/feed.png",
@@ -12330,7 +12045,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -12434,12 +12149,7 @@
       "subtitle": "Bringing football onchain",
       "description": "Onchain football publication bringing the beautiful game onchain.",
       "category": "entertainment",
-      "tags": [
-        "sport",
-        "football",
-        "games",
-        "media"
-      ],
+      "tags": ["sport", "football", "games", "media"],
       "homeUrl": "https://www.thefalsenine.xyz",
       "iconUrl": "https://www.thefalsenine.xyz/tfnlogo5.png",
       "imageUrl": "https://www.thefalsenine.xyz/opengraph-image",
@@ -12464,13 +12174,7 @@
       "subtitle": "Airdrop Extravaganza",
       "description": "Airdrop anything to your favorite casters and contracts!",
       "category": "utility",
-      "tags": [
-        "rewards",
-        "airdrop",
-        "farcaster",
-        "disperse",
-        "raffle"
-      ],
+      "tags": ["rewards", "airdrop", "farcaster", "disperse", "raffle"],
       "homeUrl": "https://airdrop.ham.cooking/",
       "iconUrl": "https://airdrop.ham.cooking/airdrop/icon.png",
       "framesUrl": "https://airdrop.ham.cooking/",
@@ -12646,7 +12350,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/451c0a54-dca8-48ff-d43a-43119ee38600/original",
         "bio": "part reflecting whole",
         "powerBadge": true,
-        "score": 0.91
+        "score": 0.9
       },
       "indexedAt": 1746911893
     },
@@ -12681,13 +12385,7 @@
       "subtitle": "Cast threads as realtime chat",
       "description": "Mini client in a frame to enjoy live events on Farcaster.",
       "category": "social",
-      "tags": [
-        "live",
-        "sports",
-        "chat",
-        "cast",
-        "client"
-      ],
+      "tags": ["live", "sports", "chat", "cast", "client"],
       "homeUrl": "https://livecaster.vercel.app",
       "iconUrl": "https://livecaster.vercel.app/icon.png",
       "imageUrl": "https://livecaster.vercel.app/opengraph-image",
@@ -12840,7 +12538,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e5e30e39-25e5-4152-c0bb-1ccf8a278d00/original",
         "bio": "Web3 Experimenter. Building /blueprint. Building /dragverse.",
         "powerBadge": false,
-        "score": 0.85
+        "score": 0.84
       },
       "indexedAt": 1746911893
     },
@@ -12863,7 +12561,7 @@
         "pfpUrl": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
         "bio": "",
         "powerBadge": true,
-        "score": 0.98
+        "score": 0.97
       },
       "indexedAt": 1746911893
     },
@@ -13016,12 +12714,7 @@
       "subtitle": "Meet the right people",
       "description": "intori - Your data, connected.",
       "category": "social",
-      "tags": [
-        "rewards",
-        "friends",
-        "social",
-        "discover"
-      ],
+      "tags": ["rewards", "friends", "social", "discover"],
       "homeUrl": "https://frame.intori.co",
       "iconUrl": "https://frame.intori.co/images/logo.png",
       "imageUrl": "https://frame.intori.co/images/imageUrl.png",
@@ -13035,7 +12728,7 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c54702a6-4a8d-4d9a-c86c-8d6d1edb9a00/original",
         "bio": "Meet the Right People on Farcaster | Answer questions. Unlock insights. Give gifts. Make connections /intori",
         "powerBadge": false,
-        "score": 0.86
+        "score": 0.88
       },
       "indexedAt": 1746911893
     },
@@ -13092,13 +12785,7 @@
       "subtitle": "",
       "description": "Document your builder journey on Monad blockchain as NFTs",
       "category": "productivity",
-      "tags": [
-        "journaling",
-        "building",
-        "blockchain",
-        "NFT",
-        "Monad"
-      ],
+      "tags": ["journaling", "building", "blockchain", "NFT", "Monad"],
       "homeUrl": "https://monad-journal-mqt9.vercel.app",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/8289/8289250.png",
       "imageUrl": "https://cdn-icons-png.flaticon.com/512/8289/8289250.png",
