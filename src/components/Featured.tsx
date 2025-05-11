@@ -73,25 +73,25 @@ export function FeaturedSlider({ apps }: { apps: App[] }) {
             style={{ scrollSnapAlign: "center" }}
           >
             <div className="card bg-base-300 shadow-md w-full">
-              {app.imageUrl && (
-                <figure className="w-full aspect-[3/2.1] relative overflow-hidden">
-                  <img
-                    src={app.imageUrl}
-                    alt={app.title}
-                    className="w-full h-full object-cover"
-                  />
-                  <div className="absolute bottom-0 left-0 w-full h-32 pointer-events-none bg-gradient-to-t from-base-300/100 via-base-300/80 to-transparent" />
-                </figure>
-              )}
+              <figure className="w-full aspect-[3/2.1] relative overflow-hidden">
+                <img
+                  src={app.imageUrl ?? app.iconUrl}
+                  alt={app.title}
+                  className="w-full h-full object-cover"
+                />
+                <div className="absolute bottom-0 left-0 w-full h-32 pointer-events-none bg-gradient-to-t from-base-300/100 via-base-300/80 to-transparent" />
+              </figure>
               <div className="card-body -mt-12 relative z-10">
                 <h3 className="card-title text-2xl">{app.title}</h3>
                 <div className="flex items-center mt-4 justify-between gap-2">
                   <div className="flex items-center">
-                    <img
-                      src={app.author.pfpUrl}
-                      alt={app.author.displayName}
-                      className="w-10 h-10 rounded-full mr-3"
-                    />
+                    <div className="w-10 h-10 rounded-full bg-base-200 flex items-center justify-center mr-3 overflow-hidden">
+                      <img
+                        src={app.author.pfpUrl}
+                        alt={app.author.displayName}
+                        className="w-full h-full object-cover"
+                      />
+                    </div>
                     <div>
                       <div className="font-semibold text-lg">
                         {app.author.displayName}

@@ -25,7 +25,7 @@ export function Hero() {
           {APP_DESCRIPTION}
         </p>
         <form
-          className="flex w-full max-w-md mx-auto mb-8"
+          className="w-full max-w-md mx-auto mb-8"
           onSubmit={(e) => {
             e.preventDefault();
             if (search.trim()) {
@@ -35,16 +35,36 @@ export function Hero() {
             }
           }}
         >
-          <input
-            type="text"
-            placeholder="Search apps…"
-            className="input input-bordered input-md w-full rounded-r-none"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-          />
-          <button className="btn btn-primary rounded-l-none" type="submit">
-            Search
-          </button>
+          <label className="input input-md w-full flex items-center gap-2 p-0">
+            <svg
+              className="h-5 w-5 opacity-50 ml-3"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <circle cx="11" cy="11" r="8" strokeWidth="2.5" />
+              <path
+                d="m21 21-4.3-4.3"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            <input
+              type="text"
+              placeholder="Search apps…"
+              className="flex-1 bg-transparent border-none focus:outline-none"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+            />
+            <button
+              className="btn btn-primary flex-shrink-0 rounded-l-none"
+              type="submit"
+            >
+              Search
+            </button>
+          </label>
         </form>
         <div className="flex flex-wrap gap-4 justify-center mx-8">
           {POPULAR_TAGS.map((tag) => (
