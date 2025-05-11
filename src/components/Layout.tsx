@@ -8,7 +8,7 @@ export function Layout(props: PropsWithChildren) {
       <header className="flex items-center justify-between p-4">
         <Link href="/">
           <span className="flex items-center gap-1">
-            <span className="text-xl font-bold text-base-content">Fapp</span>
+            <span className="text-xl font-bold">Fapp</span>
             <span className="text-xl font-bold px-2 rounded bg-primary text-base-100">
               Store
             </span>

@@ -18,10 +18,8 @@ export function Hero() {
       </div>
 
       <div className="relative z-10 flex flex-col items-center w-full max-w-2xl">
-        <h1 className="text-4xl md:text-6xl font-extrabold text-base-content mb-4">
-          {APP_NAME}
-        </h1>
-        <p className="text-lg md:text-xl text-base-content/70 mb-8">
+        <h1 className="text-4xl md:text-6xl font-extrabold mb-4">{APP_NAME}</h1>
+        <p className="text-lg md:text-xl text-base-content/60 mb-8">
           {APP_DESCRIPTION}
         </p>
         <form
