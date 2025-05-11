@@ -71,7 +71,7 @@ export function Hero() {
             <Link
               key={tag.id}
               href={`/c/${tag.id}`}
-              className={`badge badge-md ${tag.color} badge-outline hover:badge-soft font-medium opacity-80`}
+              className={`badge badge-md ${tag.color} badge-outline`}
             >
               {tag.name}
             </Link>

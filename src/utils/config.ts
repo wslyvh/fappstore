@@ -12,6 +12,7 @@ export const FEATURED_APPS = [
   "memories.nexth.dev",
   "app.farcaster-rpgf.com",
   "farville.farm",
+  "gigbot.xyz",
 ] as const;
 
 export const POPULAR_TAGS = [
@@ -19,7 +20,7 @@ export const POPULAR_TAGS = [
   { id: "games", name: "Games", color: "badge-secondary" },
   { id: "finance", name: "Finance", color: "badge-accent" },
   { id: "art-creativity", name: "Art & Creativity", color: "badge-info" },
-  { id: "entertainment", name: "Entertainment", color: "badge-success" },
+  { id: "entertainment", name: "Entertainment", color: "badge-error" },
 ];
 
 export const CATEGORIES = [
