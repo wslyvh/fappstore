@@ -1,7 +1,8 @@
 export const APP_EMOJI = "📱";
 export const APP_NAME = "Farcaster App Store";
 export const APP_DESCRIPTION = "Discover the best Apps on Farcaster";
-export const APP_URL = "https://fappstore.com";
+export const APP_DOMAIN = "fappstore.com";
+export const APP_URL = `https://${APP_DOMAIN}`;
 
 export const SOCIAL_TWITTER = "wslyvh";
 export const SOCIAL_FARCASTER = "wslyvh.eth";
