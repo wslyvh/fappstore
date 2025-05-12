@@ -27,6 +27,21 @@ export function Layout(props: PropsWithChildren) {
             </span>
           </span>
         </Link>
+        <div className="flex items-center gap-2">
+          <button
+            className="btn btn-xs btn-soft"
+            onClick={async () => {
+              try {
+                console.log("Adding frame..");
+                await sdk.actions.addFrame();
+              } catch (error) {
+                console.error(error);
+              }
+            }}
+          >
+            Add
+          </button>
+        </div>
       </header>
 
       <main className="flex flex-col flex-1 container mx-auto px-4 gap-8">
