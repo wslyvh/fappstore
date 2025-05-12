@@ -1,6 +1,11 @@
 import { PropsWithChildren } from "react";
 import { QueryProvider } from "./Query";
+import { AnalyticsProvider } from "./Analytics";
 
 export function Providers(props: PropsWithChildren) {
-  return <QueryProvider>{props.children}</QueryProvider>;
+  return (
+    <AnalyticsProvider>
+      <QueryProvider>{props.children}</QueryProvider>
+    </AnalyticsProvider>
+  );
 }
