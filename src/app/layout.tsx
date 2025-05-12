@@ -42,6 +42,7 @@ export const metadata: Metadata = {
         action: {
           type: "launch_frame",
           name: APP_NAME,
+          url: APP_URL,
         },
       },
     }),
