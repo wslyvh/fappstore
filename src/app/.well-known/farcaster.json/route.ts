@@ -12,7 +12,7 @@ export async function GET() {
       name: APP_NAME,
       homeUrl: APP_URL,
       iconUrl: `${APP_URL}/icon.png`,
-      imageUrl: `${APP_URL}/image.png`,
+      imageUrl: `${APP_URL}/og.png`,
       webhookUrl: `${APP_URL}/api/webhook`,
       primaryCategory: "utility",
       tags: ["app", "store", "farcaster"],
