@@ -33,6 +33,18 @@ export const metadata: Metadata = {
     description: APP_DESCRIPTION,
     images: "/og.png",
   },
+  other: {
+    "fc:frame": JSON.stringify({
+      version: "next",
+      imageUrl: `${APP_URL}/image.png`,
+      button: {
+        title: `fapp fapp fapp`,
+        action: {
+          type: "launch_frame",
+        },
+      },
+    }),
+  },
 };
 
 export const viewport: Viewport = {
