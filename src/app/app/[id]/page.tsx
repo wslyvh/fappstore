@@ -1,5 +1,6 @@
 import { getCatalogData } from "@/clients/neynar";
 import AppDetails from "@/components/AppDetails";
+import { Suspense } from "react";
 
 export default async function Page({
   params,
@@ -14,5 +15,9 @@ export default async function Page({
     return <div>App not found</div>;
   }
 
-  return <AppDetails app={app} />;
+  return (
+    <Suspense>
+      <AppDetails app={app} />
+    </Suspense>
+  );
 }

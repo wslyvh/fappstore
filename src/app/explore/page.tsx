@@ -1,5 +1,6 @@
 import { Explorer } from "@/components/Explorer";
 import { getCatalogData } from "@/clients/neynar";
+import { Suspense } from "react";
 
 export default async function Page() {
   const catalog = await getCatalogData();
@@ -21,7 +22,9 @@ export default async function Page() {
         </span>
       </div>
 
-      <Explorer initialData={catalog} />
+      <Suspense>
+        <Explorer initialData={catalog} />
+      </Suspense>
     </div>
   );
 }

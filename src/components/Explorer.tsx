@@ -29,8 +29,10 @@ export function Explorer({ initialData, category }: ExplorerProps) {
 
   // Get all parameters from URL
   const searchQuery = searchParams.get("search") || "";
-  const selectedCategories =
-    searchParams.get("categories")?.split(",").filter(Boolean) || [];
+  const selectedCategories = useMemo(
+    () => searchParams.get("categories")?.split(",").filter(Boolean) || [],
+    [searchParams]
+  );
   const selectedSort = searchParams.get("sort") || "popular";
   const currentPage = parseInt(searchParams.get("page") || "1", 10);
   const showPowerUsersOnly = searchParams.get("power") === "true";
@@ -104,21 +106,11 @@ export function Explorer({ initialData, category }: ExplorerProps) {
     if (category) {
       updateUrl({ categories: category });
     }
-  }, [category]);
-
-  if (isLoading)
-    return (
-      <div className="flex justify-center items-center min-h-[400px]">
-        <span className="loading loading-spinner loading-lg"></span>
-      </div>
-    );
-
-  if (error)
-    return <div className="alert alert-error">Error loading catalog</div>;
-
-  if (!data) return <div className="alert">No data available</div>;
+  }, [category, updateUrl]);
 
   const filteredApps = useMemo(() => {
+    if (!data) return [];
+
     let filtered = [...data.apps];
 
     // Apply search filter
@@ -171,13 +163,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
     }
 
     return filtered;
-  }, [
-    data.apps,
-    searchQuery,
-    selectedCategories,
-    selectedSort,
-    showPowerUsersOnly,
-  ]);
+  }, [data, searchQuery, selectedCategories, selectedSort, showPowerUsersOnly]);
 
   // Determine if any filter/search is active
   const isFilterActive =
@@ -197,7 +183,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
       const maxVisiblePages = 5;
       const halfVisible = Math.floor(maxVisiblePages / 2);
       let startPage = Math.max(1, currentPage - halfVisible);
-      let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+      const endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
       if (endPage - startPage + 1 < maxVisiblePages) {
         startPage = Math.max(1, endPage - maxVisiblePages + 1);
       }
@@ -249,6 +235,18 @@ export function Explorer({ initialData, category }: ExplorerProps) {
       </div>
     );
   };
+
+  if (isLoading)
+    return (
+      <div className="flex justify-center items-center min-h-[400px]">
+        <span className="loading loading-spinner loading-lg"></span>
+      </div>
+    );
+
+  if (error)
+    return <div className="alert alert-error">Error loading catalog</div>;
+
+  if (!data) return <div className="alert">No data available</div>;
 
   return (
     <div className="flex flex-col md:flex-row gap-8 w-full">

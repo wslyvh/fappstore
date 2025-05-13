@@ -1,6 +1,7 @@
 import { CATEGORIES } from "@/utils/config";
 import { Explorer } from "@/components/Explorer";
 import { getCatalogData } from "@/clients/neynar";
+import { Suspense } from "react";
 
 export default async function Page({
   params,
@@ -32,7 +33,9 @@ export default async function Page({
         </span>
       </div>
 
-      <Explorer initialData={catalog} category={category.id} />
+      <Suspense>
+        <Explorer initialData={catalog} category={category.id} />
+      </Suspense>
     </div>
   );
 }
