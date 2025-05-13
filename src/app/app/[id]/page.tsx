@@ -1,5 +1,5 @@
 import { getCatalogData } from "@/clients/neynar";
-import AppDetailClient from "@/components/AppDetailClient";
+import AppDetails from "@/components/AppDetails";
 
 export default async function Page({
   params,
@@ -10,5 +10,9 @@ export default async function Page({
   const catalog = await getCatalogData();
   const app = catalog.apps.find((app) => app.id === id);
 
-  return <AppDetailClient app={app} />;
+  if (!app) {
+    return <div>App not found</div>;
+  }
+
+  return <AppDetails app={app} />;
 }

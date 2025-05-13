@@ -4,7 +4,7 @@ import { CATEGORIES } from "@/utils/config";
 export function Categories() {
   return (
     <section>
-      <h1 className="text-2xl font-medium mb-6">Explore Categories</h1>
+      <h3 className="text-2xl font-medium mb-6">Explore Categories</h3>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
         {CATEGORIES.map((category) => (
           <Link key={category.id} href={`/c/${category.id}`} className="group">

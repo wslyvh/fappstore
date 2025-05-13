@@ -45,7 +45,7 @@ export function Showcase() {
           href="/explore"
           className="text-primary font-semibold text-sm hover:underline ml-auto"
         >
-          View all &raquo;
+          All Apps &raquo;
         </a>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">

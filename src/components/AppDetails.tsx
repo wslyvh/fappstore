@@ -1,20 +1,32 @@
 "use client";
 
 import { useCallback, useState } from "react";
+import { APP_URL } from "@/utils/config";
+import { App } from "@/utils/types";
 import Image from "next/image";
 import dayjs from "dayjs";
+import Link from "next/link";
+import sdk from "@farcaster/frame-sdk";
 
-interface AppDetailClientProps {
-  app: any;
+interface AppDetailProps {
+  app: App;
 }
 
-export default function AppDetailClient({ app }: AppDetailClientProps) {
+export default function AppDetails({ app }: AppDetailProps) {
   const [copied, setCopied] = useState(false);
   const handleShare = useCallback(async () => {
-    if (navigator?.clipboard) {
-      await navigator.clipboard.writeText(window.location.href);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 1000);
+    const context = await sdk.context;
+    if (context?.user) {
+      await sdk.actions.composeCast({
+        text: `Check out this App by ${app.author.username}`,
+        embeds: [app.framesUrl ?? `${APP_URL}/app/${app.id}`],
+      });
+    } else {
+      if (navigator?.clipboard) {
+        await navigator.clipboard.writeText(window.location.href);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 1000);
+      }
     }
   }, []);
 
@@ -56,7 +68,7 @@ export default function AppDetailClient({ app }: AppDetailClientProps) {
           </div>
         )}
         <div className="flex-1 flex flex-col justify-center w-full">
-          <h1 className="text-3xl font-bold leading-tight">{app.title}</h1>
+          <h2 className="text-3xl font-bold leading-tight">{app.title}</h2>
           {app.subtitle && (
             <p className="text-base-content/60 text-lg mt-1">{app.subtitle}</p>
           )}
@@ -69,6 +81,7 @@ export default function AppDetailClient({ app }: AppDetailClientProps) {
               ))}
             </div>
           )}
+
           {/* Buttons */}
           <div className="flex flex-col md:flex-row items-stretch md:items-center gap-4 mt-4 w-full justify-center md:justify-start">
             {app.framesUrl && (
@@ -93,9 +106,13 @@ export default function AppDetailClient({ app }: AppDetailClientProps) {
                 Website
               </a>
             )}
+
             {/* Share */}
             <div
-              className="flex items-center gap-2 text-primary hover:opacity-80 cursor-pointer select-none mx-auto md:ml-2"
+              className={`flex items-center justify-center gap-2 text-primary cursor-pointer tooltip tooltip-bottom ${
+                copied ? " tooltip-open" : ""
+              }`}
+              data-tip="Copied!"
               onClick={handleShare}
               tabIndex={0}
               role="button"
@@ -110,28 +127,21 @@ export default function AppDetailClient({ app }: AppDetailClientProps) {
               >
                 <path d="M 23 3 A 4 4 0 0 0 19 7 A 4 4 0 0 0 19.09375 7.8359375 L 10.011719 12.376953 A 4 4 0 0 0 7 11 A 4 4 0 0 0 3 15 A 4 4 0 0 0 7 19 A 4 4 0 0 0 10.013672 17.625 L 19.089844 22.164062 A 4 4 0 0 0 19 23 A 4 4 0 0 0 23 27 A 4 4 0 0 0 27 23 A 4 4 0 0 0 23 19 A 4 4 0 0 0 19.986328 20.375 L 10.910156 15.835938 A 4 4 0 0 0 11 15 A 4 4 0 0 0 10.90625 14.166016 L 19.988281 9.625 A 4 4 0 0 0 23 11 A 4 4 0 0 0 27 7 A 4 4 0 0 0 23 3 z" />
               </svg>
-              <span
-                className={`font-medium transition-all duration-200 ${
-                  copied ? "opacity-80" : ""
-                }`}
-              >
+              <span className={`font-medium transition-all duration-200`}>
                 Share
-              </span>
-              <span
-                className={`ml-2 text-xs text-accent font-medium transition-opacity duration-300 ${
-                  copied ? "opacity-100" : "opacity-0"
-                }`}
-              >
-                Copied
               </span>
             </div>
           </div>
         </div>
+
         {app.category && (
           <div className="absolute top-0 right-0">
-            <span className="badge badge-primary text-xs px-3 py-1">
+            <Link
+              href={`/c/${app.category}`}
+              className="badge badge-primary badge-soft text-xs px-3 py-1"
+            >
               {app.category}
-            </span>
+            </Link>
           </div>
         )}
       </div>
@@ -140,7 +150,7 @@ export default function AppDetailClient({ app }: AppDetailClientProps) {
 
       {/* About */}
       <div>
-        <h2 className="text-xl font-bold mb-4">About this App</h2>
+        <h3 className="text-xl font-bold mb-4">About this App</h3>
         <p className="leading-relaxed">{app.description}</p>
         {app.indexedAt && (
           <div className="text-sm text-base-content/60 mt-2">
@@ -149,9 +159,9 @@ export default function AppDetailClient({ app }: AppDetailClientProps) {
         )}
       </div>
 
-      {app.screenshotUrls?.length > 0 && (
+      {app.screenshotUrls && app.screenshotUrls.length > 0 && (
         <div>
-          <h2 className="text-xl font-bold mb-4">Screenshots</h2>
+          <h3 className="text-xl font-bold mb-4">Screenshots</h3>
           <div className="flex gap-4 overflow-x-auto pb-2">
             {app.screenshotUrls.map((url: string, idx: number) => (
               <div
@@ -173,7 +183,7 @@ export default function AppDetailClient({ app }: AppDetailClientProps) {
 
       {/* Developer Section */}
       <div>
-        <h2 className="text-xl font-bold mb-4">Developer</h2>
+        <h3 className="text-xl font-bold mb-4">Developer</h3>
         <div className="flex items-center gap-4 bg-base-200 rounded-xl shadow p-4">
           <div className="w-16 h-16 relative flex-shrink-0">
             <Image

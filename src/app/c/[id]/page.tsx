@@ -1,5 +1,5 @@
 import { CATEGORIES } from "@/utils/config";
-import { CatalogClient } from "@/components/CatalogClient";
+import { Explorer } from "@/components/Explorer";
 import { getCatalogData } from "@/clients/neynar";
 
 export default async function Page({
@@ -17,10 +17,22 @@ export default async function Page({
 
   return (
     <div>
-      <p className="text-2xl font-bold">{category.name}</p>
-      <p className="text-sm text-gray-500">{category.description}</p>
-      <p className="text-sm text-gray-500">{category.icon}</p>
-      <CatalogClient initialData={catalog} category={category.id} />;
+      <div className="relative flex items-center gap-8 p-8 mb-8 rounded-xl bg-base-200 shadow-lg overflow-hidden">
+        <div className="relative z-10">
+          <h2 className="text-3xl font-bold mb-2">{category.name}</h2>
+          <p className="text-base text-base-content/70">
+            {category.description}
+          </p>
+        </div>
+        <span
+          className="text-8xl opacity-20 absolute right-8 pointer-events-none select-none leading-none"
+          aria-hidden="true"
+        >
+          {category.icon}
+        </span>
+      </div>
+
+      <Explorer initialData={catalog} category={category.id} />
     </div>
   );
 }
