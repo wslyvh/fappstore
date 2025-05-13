@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo, useEffect } from "react";
+import { useState, useMemo } from "react";
 import { useCatalog } from "@/hooks/useCatalog";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Catalog } from "@/utils/types";
