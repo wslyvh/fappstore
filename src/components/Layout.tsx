@@ -35,7 +35,7 @@ export function Layout(props: PropsWithChildren) {
                 console.log("Adding frame..");
                 await sdk.actions.addFrame();
               } catch (error) {
-                console.error(error);
+                console.error("Error adding frame", error);
               }
             }}
           >
