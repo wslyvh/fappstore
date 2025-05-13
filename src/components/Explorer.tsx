@@ -26,25 +26,85 @@ export function Explorer({ initialData, category }: ExplorerProps) {
   const searchParams = useSearchParams();
   const { data, isLoading, error } = useCatalog(initialData);
   const router = useRouter();
-  const [searchQuery, setSearchQuery] = useState(
-    searchParams.get("search") || ""
-  );
-  const [selectedCategories, setSelectedCategories] = useState<string[]>(
-    category ? [category] : []
-  );
-  const [selectedSort, setSelectedSort] = useState("popular");
-  const [currentPage, setCurrentPage] = useState(1);
-  const [showPowerUsersOnly, setShowPowerUsersOnly] = useState(false);
-  const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
+
+  // Get all parameters from URL
+  const searchQuery = searchParams.get("search") || "";
+  const selectedCategories =
+    searchParams.get("categories")?.split(",").filter(Boolean) || [];
+  const selectedSort = searchParams.get("sort") || "popular";
+  const currentPage = parseInt(searchParams.get("page") || "1", 10);
+  const showPowerUsersOnly = searchParams.get("power") === "true";
+  const viewMode = (searchParams.get("view") || "grid") as "grid" | "list";
   const [sidebarOpen, setSidebarOpen] = useState(false);
+
+  // Update URL with new parameters
+  const updateUrl = (updates: Record<string, string | null>) => {
+    const params = new URLSearchParams(searchParams.toString());
+    Object.entries(updates).forEach(([key, value]) => {
+      if (value === null) {
+        params.delete(key);
+      } else {
+        params.set(key, value);
+      }
+    });
+
+    router.replace(`?${params.toString()}`);
+  };
+
+  // Update search
+  const handleSearchChange = (value: string) => {
+    updateUrl({ search: value || null, page: "1" });
+  };
+
+  // Update categories
+  const handleCategoryChange = (categoryId: string, checked: boolean) => {
+    const newCategories = checked
+      ? [...selectedCategories, categoryId]
+      : selectedCategories.filter((id) => id !== categoryId);
+    updateUrl({
+      categories: newCategories.length ? newCategories.join(",") : null,
+      page: "1",
+    });
+  };
+
+  // Update sort
+  const handleSortChange = (value: string) => {
+    updateUrl({ sort: value, page: "1" });
+  };
+
+  // Update power users filter
+  const handlePowerUsersChange = (checked: boolean) => {
+    updateUrl({ power: checked ? "true" : null, page: "1" });
+  };
+
+  // Update view mode
+  const handleViewModeChange = (mode: "grid" | "list") => {
+    updateUrl({ view: mode });
+  };
+
+  // Update page
+  const handlePageChange = (page: number) => {
+    updateUrl({ page: page.toString() });
+  };
+
+  // Clear all filters
+  const handleClearFilters = () => {
+    updateUrl({
+      search: null,
+      categories: null,
+      sort: "popular",
+      page: "1",
+      power: null,
+      view: "grid",
+    });
+    setSidebarOpen(false);
+  };
 
   useEffect(() => {
     if (category) {
-      setSelectedCategories([category]);
+      updateUrl({ categories: category });
     }
   }, [category]);
-
-  const resetPagination = () => setCurrentPage(1);
 
   if (isLoading)
     return (
@@ -61,7 +121,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
   const filteredApps = useMemo(() => {
     let filtered = [...data.apps];
 
-    // Apply search filter (match filterCatalog logic)
+    // Apply search filter
     if (searchQuery) {
       const searchLower = searchQuery.toLowerCase();
       filtered = filtered.filter((app) => {
@@ -159,7 +219,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
       <div className="flex justify-center mt-8 gap-2">
         <button
           className="btn btn-primary btn-sm transition-colors disabled:opacity-50"
-          onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+          onClick={() => handlePageChange(Math.max(1, currentPage - 1))}
           disabled={currentPage === 1}
         >
           Prev
@@ -171,7 +231,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
               className={`btn btn-sm transition-colors focus:outline-none ${
                 page === currentPage ? "btn-outline" : ""
               }`}
-              onClick={() => setCurrentPage(page)}
+              onClick={() => handlePageChange(page)}
             >
               {page}
             </button>
@@ -179,7 +239,9 @@ export function Explorer({ initialData, category }: ExplorerProps) {
         )}
         <button
           className="btn btn-primary btn-sm transition-colors disabled:opacity-50"
-          onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+          onClick={() =>
+            handlePageChange(Math.min(totalPages, currentPage + 1))
+          }
           disabled={currentPage === totalPages}
         >
           Next
@@ -204,10 +266,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
             placeholder="search..."
             className="input input-bordered w-full"
             value={searchQuery}
-            onChange={(e) => {
-              setSearchQuery(e.target.value);
-              resetPagination();
-            }}
+            onChange={(e) => handleSearchChange(e.target.value)}
             onKeyDown={(e) => {
               if (e.key === "Enter") {
                 setSidebarOpen(false);
@@ -227,14 +286,9 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                   type="checkbox"
                   className="checkbox checkbox-primary checkbox-sm"
                   checked={selectedCategories.includes(category.id)}
-                  onChange={() => {
-                    setSelectedCategories((prev) =>
-                      prev.includes(category.id)
-                        ? prev.filter((id) => id !== category.id)
-                        : [...prev, category.id]
-                    );
-                    resetPagination();
-                  }}
+                  onChange={(e) =>
+                    handleCategoryChange(category.id, e.target.checked)
+                  }
                 />
                 <span>{category.name}</span>
               </label>
@@ -248,10 +302,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
               type="checkbox"
               className="checkbox checkbox-primary checkbox-sm"
               checked={showPowerUsersOnly}
-              onChange={(e) => {
-                setShowPowerUsersOnly(e.target.checked);
-                resetPagination();
-              }}
+              onChange={(e) => handlePowerUsersChange(e.target.checked)}
             />
             <span>Power badge</span>
           </label>
@@ -262,19 +313,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
           <div className="mt-8 flex justify-center">
             <button
               className="link text-primary underline underline-offset-2 text-sm font-semibold"
-              onClick={() => {
-                setSearchQuery("");
-                setSelectedCategories([]);
-                setSelectedSort("popular");
-                setShowPowerUsersOnly(false);
-                resetPagination();
-                setSidebarOpen(false);
-
-                // Update URL to remove search parameter
-                const params = new URLSearchParams(searchParams.toString());
-                params.delete("search");
-                router.push(`?${params.toString()}`);
-              }}
+              onClick={handleClearFilters}
             >
               Clear
             </button>
@@ -301,7 +340,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                   viewMode === "grid" ? "btn-primary" : "btn-soft"
                 }`}
                 aria-label="Grid view"
-                onClick={() => setViewMode("grid")}
+                onClick={() => handleViewModeChange("grid")}
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -324,7 +363,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                   viewMode === "list" ? "btn-primary" : "btn-soft"
                 }`}
                 aria-label="List view"
-                onClick={() => setViewMode("list")}
+                onClick={() => handleViewModeChange("list")}
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -349,10 +388,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
             <select
               className="select select-sm w-28"
               value={selectedSort}
-              onChange={(e) => {
-                setSelectedSort(e.target.value);
-                resetPagination();
-              }}
+              onChange={(e) => handleSortChange(e.target.value)}
             >
               {SORT_OPTIONS.map((option) => (
                 <option key={option.id} value={option.id}>
