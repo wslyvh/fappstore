@@ -29,10 +29,14 @@ export function Explorer({ initialData, category }: ExplorerProps) {
 
   // Get all parameters from URL
   const searchQuery = searchParams.get("search") || "";
-  const selectedCategories = useMemo(
-    () => searchParams.get("categories")?.split(",").filter(Boolean) || [],
-    [searchParams]
-  );
+  const selectedCategories = useMemo(() => {
+    // If we're on a category page, use that category
+    if (category) {
+      return [category];
+    }
+    // Otherwise use the URL parameter
+    return searchParams.get("categories")?.split(",").filter(Boolean) || [];
+  }, [searchParams, category]);
   const selectedSort = searchParams.get("sort") || "popular";
   const currentPage = parseInt(searchParams.get("page") || "1", 10);
   const showPowerUsersOnly = searchParams.get("power") === "true";
@@ -42,15 +46,25 @@ export function Explorer({ initialData, category }: ExplorerProps) {
   // Update URL with new parameters
   const updateUrl = (updates: Record<string, string | null>) => {
     const params = new URLSearchParams(searchParams.toString());
+    let hasChanges = false;
+
     Object.entries(updates).forEach(([key, value]) => {
+      const currentValue = params.get(key);
       if (value === null) {
-        params.delete(key);
-      } else {
+        if (currentValue !== null) {
+          params.delete(key);
+          hasChanges = true;
+        }
+      } else if (currentValue !== value) {
         params.set(key, value);
+        hasChanges = true;
       }
     });
 
-    router.replace(`?${params.toString()}`);
+    // Only update URL if there are actual changes
+    if (hasChanges) {
+      router.push(`?${params.toString()}`);
+    }
   };
 
   // Update search
@@ -101,12 +115,6 @@ export function Explorer({ initialData, category }: ExplorerProps) {
     });
     setSidebarOpen(false);
   };
-
-  useEffect(() => {
-    if (category) {
-      updateUrl({ categories: category });
-    }
-  }, [category, updateUrl]);
 
   const filteredApps = useMemo(() => {
     if (!data) return [];
