@@ -2,7 +2,7 @@
 
 import { App, Catalog } from "@/utils/types";
 import { useQuery } from "@tanstack/react-query";
-import { useEffect, useState } from "react";
+import { useSearchParams } from "next/navigation";
 
 function filterCatalog(data: Catalog, category: string, search: string) {
   if (category) {
@@ -30,12 +30,8 @@ function filterCatalog(data: Catalog, category: string, search: string) {
 }
 
 export function useCatalog(initialData?: Catalog, category: string = "") {
-  const [search, setSearch] = useState("");
-
-  useEffect(() => {
-    const searchParams = new URLSearchParams(window.location.search);
-    setSearch(searchParams.get("search") || "");
-  }, []);
+  const searchParams = useSearchParams();
+  const search = searchParams.get("search") || "";
 
   return useQuery<Catalog>({
     queryKey: ["catalog", category, search],

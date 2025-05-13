@@ -269,6 +269,11 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                 setShowPowerUsersOnly(false);
                 resetPagination();
                 setSidebarOpen(false);
+
+                // Update URL to remove search parameter
+                const params = new URLSearchParams(searchParams.toString());
+                params.delete("search");
+                router.push(`?${params.toString()}`);
               }}
             >
               Clear
