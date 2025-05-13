@@ -3,7 +3,7 @@ import {
   deleteUserNotificationDetails,
 } from "@/clients/notification";
 import { sendFrameNotification } from "@/clients/notification-client";
-import { APP_NAME } from "@/utils/config";
+import { APP_DESCRIPTION, FAPP_NAME } from "@/utils/config";
 import { http } from "viem";
 import { createPublicClient } from "viem";
 import { optimism } from "viem/chains";
@@ -87,8 +87,8 @@ export async function POST(request: Request) {
         await setUserNotificationDetails(fid, event.notificationDetails);
         await sendFrameNotification({
           fid,
-          title: `Welcome to ${APP_NAME}`,
-          body: `Thank you for adding ${APP_NAME}`,
+          title: `Welcome to the ${FAPP_NAME}`,
+          body: APP_DESCRIPTION,
         });
       } else {
         await deleteUserNotificationDetails(fid);
@@ -105,8 +105,8 @@ export async function POST(request: Request) {
       await setUserNotificationDetails(fid, event.notificationDetails);
       await sendFrameNotification({
         fid,
-        title: `Welcome to ${APP_NAME}`,
-        body: `Thank you for enabling notifications for ${APP_NAME}`,
+        title: `Welcome to the ${FAPP_NAME}`,
+        body: APP_DESCRIPTION,
       });
 
       break;

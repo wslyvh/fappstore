@@ -1,4 +1,5 @@
 export const APP_EMOJI = "📱";
+export const FAPP_NAME = "Fapp Store";
 export const APP_NAME = "Farcaster App Store";
 export const APP_DESCRIPTION = "Discover the best Apps on Farcaster";
 export const APP_DOMAIN = "fappstore.com";
