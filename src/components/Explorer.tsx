@@ -6,6 +6,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { Catalog } from "@/utils/types";
 import { CATEGORIES } from "@/utils/config";
 import Image from "next/image";
+import { sdk } from "@farcaster/frame-sdk";
 
 const ITEMS_PER_PAGE = 12;
 
@@ -21,6 +22,22 @@ interface ExplorerProps {
   initialData: Catalog;
   category?: string;
 }
+
+const handleOpenUrl = async (url: string) => {
+  try {
+    const isMiniApp = await sdk.isInMiniApp();
+    if (isMiniApp) {
+      await sdk.actions.openUrl(url);
+    } else {
+      window.open(
+        `https://warpcast.com/?launchFrameUrl=${encodeURIComponent(url)}`,
+        "_blank"
+      );
+    }
+  } catch (error) {
+    console.error("Error opening URL:", error);
+  }
+};
 
 export function Explorer({ initialData, category }: ExplorerProps) {
   const searchParams = useSearchParams();
@@ -444,17 +461,15 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                     by {app.author.displayName}
                   </div>
                 </div>
-                <a
-                  href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-                    app.framesUrl ?? ""
-                  )}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handleOpenUrl(app.framesUrl ?? "");
+                  }}
                   className="btn btn-primary btn-xs ml-auto z-10"
-                  onClick={(e) => e.stopPropagation()}
                 >
                   Open
-                </a>
+                </button>
               </div>
             ))}
           </div>
@@ -493,17 +508,15 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                     {app.category}
                   </span>
                 )}
-                <a
-                  href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-                    app.framesUrl ?? ""
-                  )}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handleOpenUrl(app.framesUrl ?? "");
+                  }}
                   className="btn btn-primary btn-xs ml-auto z-10"
-                  onClick={(e) => e.stopPropagation()}
                 >
                   Open
-                </a>
+                </button>
               </div>
             ))}
           </div>

@@ -14,6 +14,22 @@ interface AppDetailProps {
   relatedApps: App[];
 }
 
+const handleOpenUrl = async (url: string) => {
+  try {
+    const isMiniApp = await sdk.isInMiniApp();
+    const frameUrl = `https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
+      url
+    )}`;
+    if (isMiniApp) {
+      await sdk.actions.openUrl(frameUrl);
+    } else {
+      window.open(frameUrl, "_blank");
+    }
+  } catch (error) {
+    console.error("Error opening URL:", error);
+  }
+};
+
 export default function AppDetails({ app, relatedApps }: AppDetailProps) {
   const [copied, setCopied] = useState(false);
   const handleShare = useCallback(async () => {
@@ -87,16 +103,12 @@ export default function AppDetails({ app, relatedApps }: AppDetailProps) {
           {/* Buttons */}
           <div className="flex flex-col md:flex-row items-stretch md:items-center gap-4 mt-4 w-full justify-center md:justify-start">
             {app.framesUrl && (
-              <a
-                href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-                  app.framesUrl
-                )}`}
-                target="_blank"
-                rel="noopener noreferrer"
+              <button
+                onClick={() => handleOpenUrl(app.framesUrl ?? "")}
                 className="btn btn-primary min-w-[120px]"
               >
                 Open
-              </a>
+              </button>
             )}
             {app.homeUrl && (
               <a

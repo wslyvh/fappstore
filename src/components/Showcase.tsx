@@ -4,6 +4,7 @@ import { useCatalog } from "@/hooks/useCatalog";
 import { useRouter, useSearchParams } from "next/navigation";
 import Image from "next/image";
 import { App } from "@/utils/types";
+import { sdk } from "@farcaster/frame-sdk";
 
 const itemsToShow = 12;
 
@@ -11,6 +12,22 @@ const FILTERS = [
   { id: "popular", label: "Popular" },
   { id: "newest", label: "New" },
 ];
+
+const handleOpenUrl = async (url: string) => {
+  try {
+    const isMiniApp = await sdk.isInMiniApp();
+    if (isMiniApp) {
+      await sdk.actions.openUrl(url);
+    } else {
+      window.open(
+        `https://warpcast.com/?launchFrameUrl=${encodeURIComponent(url)}`,
+        "_blank"
+      );
+    }
+  } catch (error) {
+    console.error("Error opening URL:", error);
+  }
+};
 
 export function Showcase() {
   const { data } = useCatalog();
@@ -93,17 +110,15 @@ export function AppGrid({ apps }: { apps: App[] }) {
               by {app.author.displayName}
             </div>
           </div>
-          <a
-            href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-              app.framesUrl ?? ""
-            )}`}
-            target="_blank"
-            rel="noopener noreferrer"
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              handleOpenUrl(app.framesUrl ?? "");
+            }}
             className="btn btn-primary btn-xs ml-auto z-10"
-            onClick={(e) => e.stopPropagation()}
           >
             Open
-          </a>
+          </button>
         </div>
       ))}
     </div>
