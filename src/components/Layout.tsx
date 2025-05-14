@@ -1,21 +1,8 @@
-"use client";
-
 import { SOCIAL_FARCASTER, SOCIAL_GITHUB } from "@/utils/config";
-import { PropsWithChildren, useEffect, useState } from "react";
-import { sdk } from "@farcaster/frame-sdk";
+import { PropsWithChildren } from "react";
 import Link from "next/link";
 
 export function Layout(props: PropsWithChildren) {
-  const [isFrameReady, setFrameReady] = useState(false);
-
-  useEffect(() => {
-    if (!isFrameReady) {
-      sdk.actions.ready().then(() => {
-        setFrameReady(true);
-      });
-    }
-  }, []);
-
   return (
     <div className="flex flex-col min-h-screen">
       <header className="flex items-center justify-between p-4">

@@ -154,7 +154,8 @@ export function Explorer({ initialData, category }: ExplorerProps) {
     // Apply sorting
     switch (selectedSort) {
       case "popular":
-        filtered.sort((a, b) => (b.index || 0) - (a.index || 0));
+        // don't filter. Default order is by popularity
+        // filtered.sort((a, b) => (b.index || 0) - (a.index || 0));
         break;
       case "newest":
         filtered.sort((a, b) => (b.indexedAt || 0) - (a.indexedAt || 0));
