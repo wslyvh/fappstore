@@ -9,7 +9,9 @@ export async function openFrame(
 
   if (isMiniApp) {
     try {
-      await sdk.actions.openUrl(`/~/frames/launch?url=${frameUrl}`);
+      await sdk.actions.openUrl(
+        `https://warpcast.com/~/frames/launch?url=${frameUrl}`
+      );
     } catch (error) {
       console.error("Failed to open frame URL:", error);
     }
