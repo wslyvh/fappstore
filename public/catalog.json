@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-05-13T00:32:30.048Z",
-  "totalItems": 559,
+  "lastUpdated": "2025-05-14T00:32:21.858Z",
+  "totalItems": 566,
   "apps": [
     {
       "version": "next",
@@ -29,7 +29,7 @@
     {
       "version": "next",
       "id": "paragraph.com",
-      "index": 2,
+      "index": 3,
       "title": "Paragraph",
       "subtitle": "",
       "description": "Where writers share, grow, and get paid — one post at a time.",
@@ -87,7 +87,7 @@
     {
       "version": "next",
       "id": "www.harmonybot.xyz",
-      "index": 3,
+      "index": 2,
       "title": "Harmonybot",
       "subtitle": "",
       "description": "AI agent as an art platform",
@@ -135,7 +135,7 @@
     {
       "version": "next",
       "id": "leaderboard.frm.lol",
-      "index": 5,
+      "index": 7,
       "title": "The Leaderboard",
       "subtitle": "Where do you rank?",
       "description": "",
@@ -166,7 +166,7 @@
     {
       "version": "next",
       "id": "farville.farm",
-      "index": 7,
+      "index": 8,
       "title": "Farville",
       "subtitle": "Farm daily, earn weekly",
       "description": "Plant, grow, and harvest crops with your friends.",
@@ -231,7 +231,7 @@
     {
       "version": "next",
       "id": "wyat.live",
-      "index": 40,
+      "index": 51,
       "title": "wyat",
       "subtitle": "Share wyat and discover others",
       "description": "Share wyat (where you at) and discover what others are up to",
@@ -259,7 +259,7 @@
     {
       "version": "next",
       "id": "play.farcade.ai",
-      "index": 8,
+      "index": 5,
       "title": "Farcade",
       "subtitle": "",
       "description": "It's Game Time",
@@ -282,7 +282,7 @@
     {
       "version": "next",
       "id": "pods.media",
-      "index": 11,
+      "index": 14,
       "title": "Pods",
       "subtitle": "Collect conversations.",
       "description": "Collect conversations.",
@@ -342,7 +342,7 @@
     {
       "version": "next",
       "id": "hypersub.xyz",
-      "index": 15,
+      "index": 12,
       "title": "Hypersub",
       "subtitle": "",
       "description": "The easiest way to create, discover, and mint subscription NFTs",
@@ -365,7 +365,7 @@
     {
       "version": "next",
       "id": "qrcoin.fun",
-      "index": 13,
+      "index": 16,
       "title": "$QR",
       "subtitle": "",
       "description": "Same QR. New Website. Every day.",
@@ -381,14 +381,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b4474ddf-302f-46dc-22e2-853c131f4200/original",
         "bio": "$QR: 0x2b5050F01d64FBb3e4Ac44dc07f0732BFb5ecadF",
         "powerBadge": false,
-        "score": 0.57
+        "score": 0.52
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "www.weponder.io",
-      "index": 10,
+      "index": 11,
       "title": "Ponder",
       "subtitle": "Predict what the crowd thinks",
       "description": "Complete daily polls that predict what the world is thinking. When you’re right, you win real money.",
@@ -419,7 +419,7 @@
     {
       "version": "next",
       "id": "warps.fun",
-      "index": 23,
+      "index": 22,
       "title": "Warps",
       "subtitle": "Play Warps on Farcaster",
       "description": "Viral mini game on Base.",
@@ -448,7 +448,7 @@
     {
       "version": "next",
       "id": "nfeed-frame.vercel.app",
-      "index": 17,
+      "index": 21,
       "title": "Tortoise",
       "subtitle": "Social music",
       "description": "Stream, collect, and share music on Farcaster",
@@ -479,7 +479,7 @@
     {
       "version": "next",
       "id": "firstcast.vercel.app",
-      "index": 19,
+      "index": 20,
       "title": "first cast",
       "subtitle": "",
       "description": "first cast by cashlessman.eth",
@@ -501,7 +501,7 @@
     {
       "version": "next",
       "id": "gmonchain.vercel.app",
-      "index": 29,
+      "index": 31,
       "title": "GMonchain",
       "subtitle": "Send GM to another chain",
       "description": "GMonchain is a cutting-edge miniapp on Farcaster, crafted to deliver an exceptional user experience. It boosts your airdrop potential by leveraging onchain interactions with your Farcaster wallet and seamless engagement on Warpcast.\n Complete the easy tasks below and unlock reward. Reward will be distributed to 10 lucky users and you should be a winner.",
@@ -535,7 +535,7 @@
     {
       "version": "next",
       "id": "app.farcaster-rpgf.com",
-      "index": 18,
+      "index": 19,
       "title": "FC RetroPGF Contribution Frame",
       "subtitle": "Contribute to the FC RetroPGF",
       "description": "Farcaster PGF Spring 2025 - Contribute to public goods funding",
@@ -559,7 +559,7 @@
     {
       "version": "next",
       "id": "nouns.gg",
-      "index": 14,
+      "index": 13,
       "title": "Nouns GG",
       "subtitle": "",
       "description": "Esports, powered by you!",
@@ -582,7 +582,7 @@
     {
       "version": "next",
       "id": "www.empirebuilder.world",
-      "index": 21,
+      "index": 26,
       "title": "Empire Builder",
       "subtitle": "",
       "description": "The ultimate tool for utility-pilling your tokens",
@@ -606,7 +606,7 @@
     {
       "version": "next",
       "id": "warpslot.fun",
-      "index": 26,
+      "index": 32,
       "title": "Warpslot",
       "subtitle": "",
       "description": "Spin to Win!",
@@ -629,7 +629,7 @@
     {
       "version": "next",
       "id": "www.clanker.world",
-      "index": 25,
+      "index": 27,
       "title": "clanker",
       "subtitle": "",
       "description": "clanker world",
@@ -683,7 +683,7 @@
     {
       "version": "next",
       "id": "betrmint.fun",
-      "index": 28,
+      "index": 30,
       "title": "BETRMINT",
       "subtitle": "Mint. Spin. Win.",
       "description": "Mint, Spin & Win!",
@@ -707,14 +707,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a9e5012-210c-4d13-7f12-98052a699800/original",
         "bio": "Mint, Spin & Win in a mini app: http://betrmint.fun | Powered by $BETR. CA: 0x051024B653E8ec69E72693F776c41C2A9401FB07",
         "powerBadge": false,
-        "score": 0.74
+        "score": 0.73
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "miniapp.inflynce.com",
-      "index": 16,
+      "index": 23,
       "title": "Inflynce",
       "subtitle": "",
       "description": "Your social influence, on-chain.",
@@ -738,7 +738,7 @@
     {
       "version": "next",
       "id": "poidh.xyz",
-      "index": 27,
+      "index": 29,
       "title": "Poidh",
       "subtitle": "",
       "description": "poidh - pics or it didn't happen - fully onchain bounties + collectible NFTs - start your collection today on Arbitrum, Base, or Degen Chain",
@@ -762,7 +762,7 @@
     {
       "version": "next",
       "id": "miniword.livediagonal.com",
-      "index": 22,
+      "index": 18,
       "title": "MiniWord",
       "subtitle": "",
       "description": "",
@@ -791,7 +791,7 @@
     {
       "version": "next",
       "id": "wrapai.app",
-      "index": 30,
+      "index": 34,
       "title": "WrapAI",
       "subtitle": "",
       "description": "Earn points through daily check-ins and redeem for exclusive Web3 rewards",
@@ -814,9 +814,9 @@
     {
       "version": "next",
       "id": "drop.mint.club",
-      "index": 34,
+      "index": 40,
       "title": "Mint Drop",
-      "subtitle": "",
+      "subtitle": "Spin and win daily tokens",
       "description": "Spin the wheel daily for a chance to win $MT based tokens.",
       "category": "finance",
       "homeUrl": "https://drop.mint.club",
@@ -833,14 +833,21 @@
         "powerBadge": false,
         "score": 0.77
       },
-      "indexedAt": 1746911891
+      "indexedAt": 1746911891,
+      "tags": [
+        "mintdrop",
+        "airdrop",
+        "raffle",
+        "spin",
+        "mt"
+      ]
     },
     {
       "version": "next",
       "id": "mint.club",
-      "index": 56,
+      "index": 52,
       "title": "Mint.Club",
-      "subtitle": "",
+      "subtitle": "Build child tokens and NFTs",
       "description": "Create a custom bonding curve token/NFT on mint.club using your preferred ERC20, instantly tradable & monetizable.",
       "category": "finance",
       "homeUrl": "https://mint.club",
@@ -857,12 +864,19 @@
         "powerBadge": false,
         "score": 0.77
       },
-      "indexedAt": 1746911891
+      "indexedAt": 1746911891,
+      "tags": [
+        "bondingcurve",
+        "dex",
+        "erc20",
+        "erc721",
+        "erc1155"
+      ]
     },
     {
       "version": "next",
       "id": "pinetree.so",
-      "index": 31,
+      "index": 39,
       "title": "Pinetree",
       "subtitle": "",
       "description": "The Economic Platform for Creators",
@@ -884,10 +898,10 @@
     {
       "version": "next",
       "id": "gigbot.xyz",
-      "index": 41,
+      "index": 46,
       "title": "Gig.bot",
       "subtitle": "Earn Tokens. Tasks for All.",
-      "description": "",
+      "description": "Gig.bot is a bounty marketplace for AI Agents and Humans. Any human or AI can create gigs and deposit tokens. Earners complete the tasks and claim their tokens to their wallet.",
       "homeUrl": "https://gigbot.xyz/",
       "iconUrl": "https://gigbot.xyz/frames/icon.png",
       "imageUrl": "https://gigbot.xyz/frames/frame-image.png",
@@ -911,15 +925,16 @@
         "earn",
         "tokens",
         "bounty",
-        "marketplace"
+        "marketplace",
+        "productivity"
       ]
     },
     {
       "version": "next",
       "id": "hunt.town",
-      "index": 32,
+      "index": 35,
       "title": "Hunt Town",
-      "subtitle": "",
+      "subtitle": "Web3 Builders Guild",
       "description": "Hunt Town is a Web3 builders guild where builders come together to contribute to the expansion of Web3 culture and products.",
       "homeUrl": "https://hunt.town/tip",
       "iconUrl": "https://hunt.town/frame-logo.png",
@@ -935,12 +950,20 @@
         "powerBadge": false,
         "score": 0.77
       },
-      "indexedAt": 1746911891
+      "indexedAt": 1746911891,
+      "category": "social",
+      "tags": [
+        "tipping",
+        "farcaster",
+        "base",
+        "nft",
+        "grants"
+      ]
     },
     {
       "version": "next",
       "id": "thegrokwallet.com",
-      "index": 33,
+      "index": 37,
       "title": "Grok Wallet",
       "subtitle": "",
       "description": "onchain earnings | top holdings | additional resources",
@@ -964,7 +987,7 @@
     {
       "version": "next",
       "id": "eggs.name",
-      "index": 39,
+      "index": 44,
       "title": "$EGGS",
       "subtitle": "",
       "description": "HATCH EGG NOW",
@@ -977,7 +1000,7 @@
         "fid": 1356,
         "username": "warpcastadmin.eth",
         "displayName": "borodutch",
-        "pfpUrl": "https://images.colorino.site/34b0a6f586ec618043c842a1a46a2f6eb8570173a3a2cb0cf3ec20f77939a066.png",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1be9d191-44f4-4dcb-1bc0-7538c07b9000/original",
         "bio": "cto @ bwl.gg, 100M+ users (bdut.ch) 🙏 $eggs is life",
         "powerBadge": true,
         "score": 0.92
@@ -987,7 +1010,7 @@
     {
       "version": "next",
       "id": "app.acidtest.xyz",
-      "index": 12,
+      "index": 10,
       "title": "Acid Test",
       "subtitle": "Mint new episodes weekly",
       "description": "ACIDTEST is an onchain radio show bringing music, conversation and creative energy to Farcaster. Hosted by chaim.eth.",
@@ -1011,7 +1034,7 @@
     {
       "version": "next",
       "id": "tab.castfriends.com",
-      "index": 43,
+      "index": 56,
       "title": "tab",
       "subtitle": "",
       "description": "Social payments on Farcaster",
@@ -1035,7 +1058,7 @@
     {
       "version": "next",
       "id": "monadspin.xyz",
-      "index": 20,
+      "index": 15,
       "title": "Monad Spin",
       "subtitle": "Spin and Win Crypto Rewards",
       "description": "🎰 MonadSpin: Spin to win real crypto on Monad chain! Onchain luck, Farcaster vibes, scrypto rewards, leaderboard & more! 🚀🪙",
@@ -1045,7 +1068,10 @@
         "rewards",
         "blockchain",
         "monad",
-        "game"
+        "game",
+        "farcaster",
+        "GMonchain",
+        "airdrop"
       ],
       "homeUrl": "https://monadspin.xyz",
       "iconUrl": "https://monadspin.xyz/icon.png",
@@ -1069,7 +1095,7 @@
     {
       "version": "next",
       "id": "indexy.xyz",
-      "index": 50,
+      "index": 45,
       "title": "Indexy",
       "subtitle": "",
       "description": "Discover and track cryptocurrency tokens through intelligent data visualization and comprehensive blockchain insights.",
@@ -1093,7 +1119,7 @@
     {
       "version": "next",
       "id": "far-guesser.vercel.app",
-      "index": 58,
+      "index": 67,
       "title": "FarGuesser",
       "subtitle": "",
       "description": "Guess the daily location",
@@ -1116,7 +1142,7 @@
     {
       "version": "next",
       "id": "wickr.fun",
-      "index": 46,
+      "index": 49,
       "title": "Wickr",
       "subtitle": "",
       "description": "Wickr",
@@ -1139,7 +1165,7 @@
     {
       "version": "next",
       "id": "memories.nexth.dev",
-      "index": 38,
+      "index": 75,
       "title": "Memories",
       "subtitle": "",
       "description": "Look back at your memories on Farcaster",
@@ -1168,7 +1194,7 @@
     {
       "version": "next",
       "id": "playatlas.games",
-      "index": 34,
+      "index": 37,
       "title": "Atlas",
       "subtitle": "",
       "description": "Challenge Farcasters to a futbol match.",
@@ -1191,7 +1217,7 @@
     {
       "version": "next",
       "id": "degen-v2.vercel.app",
-      "index": 36,
+      "index": 33,
       "title": "DEGEN",
       "subtitle": "",
       "description": "$DEGEN stats by cashlessman.eth",
@@ -1214,7 +1240,7 @@
     {
       "version": "next",
       "id": "tipnearn.com",
-      "index": 37,
+      "index": 42,
       "title": "Tipn",
       "subtitle": "Tip ‘n Earn",
       "description": "Tip with every like. Only on Farcaster.",
@@ -1237,7 +1263,7 @@
     {
       "version": "next",
       "id": "farcon-mini-game.vercel.app",
-      "index": 97,
+      "index": 43,
       "title": "FarCon Mini Games",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -1261,7 +1287,7 @@
     {
       "version": "next",
       "id": "degen.altumbase.com",
-      "index": 42,
+      "index": 48,
       "title": "Degen Stats by @nikolaii.eth",
       "subtitle": "",
       "description": "📈💎Ultimate Statistics and Analytics for the DeSo World",
@@ -1284,7 +1310,7 @@
     {
       "version": "next",
       "id": "pectra.dtech.vision",
-      "index": 57,
+      "index": 63,
       "title": "Pectra POAP",
       "subtitle": "",
       "description": "",
@@ -1306,7 +1332,7 @@
     {
       "version": "next",
       "id": "spaces.0xmoe.com",
-      "index": 53,
+      "index": 50,
       "title": "Spaces",
       "subtitle": "Live audio conversations",
       "description": "",
@@ -1329,7 +1355,7 @@
     {
       "version": "next",
       "id": "cast.basefrens.io",
-      "index": 63,
+      "index": 69,
       "title": "GM - GN",
       "subtitle": "",
       "description": "Cast a GM / GN for a fren!",
@@ -1352,7 +1378,7 @@
     {
       "version": "next",
       "id": "askgina.ai",
-      "index": 61,
+      "index": 65,
       "title": "Ask Gina",
       "subtitle": "",
       "description": "Ask Gina",
@@ -1398,7 +1424,7 @@
     {
       "version": "next",
       "id": "frame.megapot.io",
-      "index": 51,
+      "index": 54,
       "title": "Megapot",
       "subtitle": "",
       "description": "Daily mega jackpots on Base, where liquidity providers earn yield playing as the house!",
@@ -1421,7 +1447,7 @@
     {
       "version": "next",
       "id": "appreciation.lat",
-      "index": 60,
+      "index": 64,
       "title": "Appreciation",
       "subtitle": "",
       "description": "",
@@ -1476,7 +1502,7 @@
     {
       "version": "next",
       "id": "monad-tv.kasra.codes",
-      "index": 70,
+      "index": 74,
       "title": "Monad TV",
       "subtitle": "",
       "description": "",
@@ -1499,7 +1525,7 @@
     {
       "version": "next",
       "id": "www.betswirl.com",
-      "index": 95,
+      "index": 98,
       "title": "BetSwirl",
       "subtitle": "",
       "description": "🎲 Transforming the future of GambleFi with Web3 🎱 Bringing excitement and transparency to Gambling 💰 Do not trust the RNG  ⚽️ Sports",
@@ -1522,7 +1548,7 @@
     {
       "version": "next",
       "id": "fc-footy.vercel.app",
-      "index": 68,
+      "index": 88,
       "title": "Footy App",
       "subtitle": "Footy fun in farcaster",
       "description": "⚽️ match previews, summaries, Farcaster fantasy league, money games & onchain fan experiences",
@@ -1552,7 +1578,7 @@
     {
       "version": "next",
       "id": "quotient.social",
-      "index": 29,
+      "index": 30,
       "title": "Quotient Leaderboard",
       "subtitle": "",
       "description": "Find your People",
@@ -1575,7 +1601,7 @@
     {
       "version": "next",
       "id": "amps.fun",
-      "index": 77,
+      "index": 76,
       "title": "Amps",
       "subtitle": "Get paid when friends post",
       "description": "Get paid when friends post",
@@ -1609,7 +1635,7 @@
     {
       "version": "next",
       "id": "streamm.tv",
-      "index": 75,
+      "index": 11,
       "title": "Streamm.TV",
       "subtitle": "",
       "description": "",
@@ -1632,7 +1658,7 @@
     {
       "version": "next",
       "id": "scoutgame.xyz",
-      "index": 66,
+      "index": 71,
       "title": "Scout Game",
       "subtitle": "",
       "description": "Fantasy sports with onchain developers",
@@ -1656,7 +1682,7 @@
     {
       "version": "next",
       "id": "the-last-day.vercel.app",
-      "index": 64,
+      "index": 68,
       "title": "The Last Day",
       "subtitle": "",
       "description": "A Daily Art Experience",
@@ -1680,7 +1706,7 @@
     {
       "version": "next",
       "id": "farrank.info",
-      "index": 71,
+      "index": 81,
       "title": "FarRank",
       "subtitle": "Track Farcaster score and info",
       "description": "🚀 Track your airdrop, flex your Farcaster score & wallet, and join the leaderboard! Claim your spot in the Farcaster fam! 💜🟦",
@@ -1714,7 +1740,7 @@
     {
       "version": "next",
       "id": "weekly-drop.vercel.app",
-      "index": 81,
+      "index": 76,
       "title": "weeklyDrop",
       "subtitle": "",
       "description": "weekly drop",
@@ -1736,7 +1762,7 @@
     {
       "version": "next",
       "id": "labels.genyframe.xyz",
-      "index": 84,
+      "index": 86,
       "title": "Warpcast Labels",
       "subtitle": "",
       "description": "Warpcast Labels",
@@ -1759,7 +1785,7 @@
     {
       "version": "next",
       "id": "alfaca.fun",
-      "index": 98,
+      "index": 28,
       "title": "Alfaca - Launch Your Coin",
       "subtitle": "",
       "description": "coin launch competition",
@@ -1782,7 +1808,7 @@
     {
       "version": "next",
       "id": "empirebuilder.world",
-      "index": 81,
+      "index": 83,
       "title": "Empire Builder",
       "subtitle": "",
       "description": "The ultimate tool for utility-pilling your tokens",
@@ -1806,7 +1832,7 @@
     {
       "version": "next",
       "id": "paragraph.xyz",
-      "index": 80,
+      "index": 34,
       "title": "Paragraph",
       "subtitle": "",
       "description": "Where writers share, grow, and get paid — one post at a time.",
@@ -1829,7 +1855,7 @@
     {
       "version": "next",
       "id": "f.bracket.game",
-      "index": 74,
+      "index": 55,
       "title": "Bracket",
       "subtitle": "Trade Live Sports",
       "description": "Real-time Social Markets for sports & live events",
@@ -1860,7 +1886,7 @@
     {
       "version": "next",
       "id": "basepool.miniapps.zone",
-      "index": 86,
+      "index": 12,
       "title": "Base Pool",
       "subtitle": "A provable fair lottery game.",
       "description": "A provable fair Pool. Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -1896,7 +1922,7 @@
     {
       "version": "next",
       "id": "cura.network",
-      "index": 47,
+      "index": 36,
       "title": "Cura",
       "subtitle": "",
       "description": "Curate, reward, and tokenize your community",
@@ -1914,7 +1940,14 @@
         "powerBadge": false,
         "score": 0.5
       },
-      "indexedAt": 1746911891
+      "indexedAt": 1746911891,
+      "tags": [
+        "cura",
+        "openrank",
+        "community",
+        "moderation",
+        "channels"
+      ]
     },
     {
       "version": "next",
@@ -1977,7 +2010,7 @@
     {
       "version": "next",
       "id": "pet-me-test.netlify.app",
-      "index": 73,
+      "index": 77,
       "title": "Pet Me",
       "subtitle": "",
       "description": "Discover your feline aura and spiritual energy",
@@ -2000,7 +2033,7 @@
     {
       "version": "next",
       "id": "degen.genyframe.xyz",
-      "index": 83,
+      "index": 31,
       "title": "Degen Stats",
       "subtitle": "",
       "description": "DEGEN is a reward token for Farcaster users, born from meme culture. It uses a unique tipping system that empowers the community to reward quality content creators. It also powers the Degen chain, one of the pioneering L3s launched on Base, offering a platform for building and using Degen apps, often referred to as the “Las Vegas of blockchains.",
@@ -2023,7 +2056,7 @@
     {
       "version": "next",
       "id": "podplayr.xyz",
-      "index": 90,
+      "index": 95,
       "title": "PODPLAYR",
       "subtitle": "",
       "description": "Listen & Watch NFTs on PODPLAYR",
@@ -2054,7 +2087,7 @@
     {
       "version": "next",
       "id": "www.gigbot.xyz",
-      "index": 85,
+      "index": 22,
       "title": "Gig.bot",
       "subtitle": "",
       "description": "Gig.bot is a bounty marketplace for AI Agents and Humans. Any human or AI can create gigs and deposit tokens. Earners complete the tasks and claim their tokens to their wallet.",
@@ -2078,7 +2111,7 @@
     {
       "version": "next",
       "id": "andromeda.build",
-      "index": 92,
+      "index": 65,
       "title": "ANDROMEDA",
       "subtitle": "",
       "description": "Bring back the open web",
@@ -2101,7 +2134,7 @@
     {
       "version": "next",
       "id": "songbirdz.cc",
-      "index": 91,
+      "index": 96,
       "title": "Songbirdz",
       "subtitle": "An onchain bird watching game",
       "description": "An onchain bird watching game",
@@ -2137,7 +2170,7 @@
     {
       "version": "next",
       "id": "reach.3loop.io",
-      "index": 14,
+      "index": 5,
       "title": "Reach App",
       "subtitle": "",
       "description": "See what top Farcaster traders are buying today | Share your trades & earn fees",
@@ -2167,7 +2200,7 @@
     {
       "version": "next",
       "id": "clankermon.com",
-      "index": 93,
+      "index": 97,
       "title": "Clankermon",
       "subtitle": "",
       "description": "where your favourite tokens literally come to life",
@@ -2190,7 +2223,7 @@
     {
       "version": "next",
       "id": "embedr-mini-app.vercel.app",
-      "index": 94,
+      "index": 85,
       "title": "Embedr",
       "subtitle": "",
       "description": "Generate Farcaster frames for YouTube videos and other links.",
@@ -2212,7 +2245,7 @@
     {
       "version": "next",
       "id": "flock-in.vercel.app",
-      "index": 16,
+      "index": 7,
       "title": "Flock In",
       "subtitle": "",
       "description": "Flock In lets you pay for videos from your favorite farcaster creators!",
@@ -2235,7 +2268,7 @@
     {
       "version": "next",
       "id": "bhvr.dev",
-      "index": 55,
+      "index": 32,
       "title": "bhvr",
       "subtitle": "",
       "description": "A stack made for the open web",
@@ -2258,7 +2291,7 @@
     {
       "version": "next",
       "id": "farcademy.metopia.xyz",
-      "index": 89,
+      "index": 91,
       "title": "Farcademy",
       "subtitle": "",
       "description": "Metopia pioneers verifiable credentials, an interactive Web3 academy, and reputation-based raffles/opportunities. Build, learn, and earn in a decentralized ecosystem.",
@@ -2282,7 +2315,7 @@
     {
       "version": "next",
       "id": "mathcast.xyz",
-      "index": 2,
+      "index": 59,
       "title": "mathcast",
       "subtitle": "Solve daily math puzzles",
       "description": "Daily math quiz",
@@ -2318,7 +2351,7 @@
     {
       "version": "next",
       "id": "app.livmore.life",
-      "index": 22,
+      "index": 48,
       "title": "Liv More",
       "subtitle": "Track -> Challenge -> Earn.",
       "description": "Turn Healty Habits Into Rewards",
@@ -2354,7 +2387,7 @@
     {
       "version": "next",
       "id": "neynar-score-one.vercel.app",
-      "index": 3,
+      "index": 93,
       "title": "neynar-score",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -2377,7 +2410,7 @@
     {
       "version": "next",
       "id": "blakarmory.com",
-      "index": 4,
+      "index": 67,
       "title": "Blak Armory",
       "subtitle": "",
       "description": "Mint classified digital weapons using Blak Armory Credits ($CREDIT). Each blade is uniquely generated with cutting-edge technology and encrypted authentication.",
@@ -2424,7 +2457,7 @@
     {
       "version": "next",
       "id": "adivinadrone.c13studio.mx",
-      "index": 95,
+      "index": 3,
       "title": "adivinaDrone",
       "subtitle": "",
       "description": "Think you know the world? Take the ultimate guess in our photo challenge!",
@@ -2447,7 +2480,7 @@
     {
       "version": "next",
       "id": "dir.coordinape.com",
-      "index": 67,
+      "index": 73,
       "title": "Creators Directory",
       "subtitle": "",
       "description": "The Creator Directory",
@@ -2470,7 +2503,7 @@
     {
       "version": "next",
       "id": "getfirstresponder.com",
-      "index": 34,
+      "index": 55,
       "title": "The Global Stage",
       "subtitle": "",
       "description": "First Responder App",
@@ -2492,7 +2525,7 @@
     {
       "version": "next",
       "id": "apl-frame.vercel.app",
-      "index": 46,
+      "index": 95,
       "title": "APL Daily",
       "subtitle": "",
       "description": "Daily patterns from Christopher Alexander's A Pattern Language",
@@ -2515,7 +2548,7 @@
     {
       "version": "next",
       "id": "wanderloots.xyz",
-      "index": 17,
+      "index": 10,
       "title": "Wanderloots' Digital Garden",
       "subtitle": "",
       "description": "",
@@ -2538,7 +2571,7 @@
     {
       "version": "next",
       "id": "debbiedoes.fun",
-      "index": 18,
+      "index": 16,
       "title": "Never Have I Ever",
       "subtitle": "",
       "description": "A onchain game of confessions and revelations",
@@ -2562,7 +2595,7 @@
     {
       "version": "next",
       "id": "rounds.wtf",
-      "index": 49,
+      "index": 43,
       "title": "Rounds.wtf",
       "subtitle": "",
       "description": "Rounds are how communities award people onchain.",
@@ -2584,7 +2617,7 @@
     {
       "version": "next",
       "id": "frame.natalcharts.app",
-      "index": 20,
+      "index": 14,
       "title": "Natal Charts",
       "subtitle": "",
       "description": "",
@@ -2608,7 +2641,7 @@
     {
       "version": "next",
       "id": "fundraiser.farcastle.net",
-      "index": 19,
+      "index": 25,
       "title": "Fundraiser",
       "subtitle": "Crypto Crowdfunding",
       "description": "Shape the fate of the realm",
@@ -2642,7 +2675,7 @@
     {
       "version": "next",
       "id": "sillyhonk.online",
-      "index": 21,
+      "index": 61,
       "title": "HONK",
       "subtitle": "",
       "description": "HONK!",
@@ -2665,7 +2698,7 @@
     {
       "version": "next",
       "id": "compu-privy-frame.vercel.app",
-      "index": 16,
+      "index": 94,
       "title": "Borg",
       "subtitle": "",
       "description": "A Borg app.",
@@ -2688,7 +2721,7 @@
     {
       "version": "next",
       "id": "nasa.genyframe.xyz",
-      "index": 7,
+      "index": 2,
       "title": "Nasa Explorer",
       "subtitle": "",
       "description": "NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.",
@@ -2710,7 +2743,7 @@
     {
       "version": "next",
       "id": "farcaster-association.orbiter.website",
-      "index": 24,
+      "index": 19,
       "title": "farcaster-association",
       "subtitle": "",
       "description": "",
@@ -2733,7 +2766,7 @@
     {
       "version": "next",
       "id": "irl.steer.fun",
-      "index": 42,
+      "index": 39,
       "title": "irl",
       "subtitle": "",
       "description": "daily photos from the real world",
@@ -2756,7 +2789,7 @@
     {
       "version": "next",
       "id": "morpho.dtech.vision",
-      "index": 6,
+      "index": 70,
       "title": "Earn on Morpho 🦋",
       "subtitle": "",
       "description": "Earn on Morpho🦋",
@@ -2778,7 +2811,7 @@
     {
       "version": "next",
       "id": "guestbook.pinnie.fun",
-      "index": 26,
+      "index": 24,
       "title": "Pinnies Guestbook",
       "subtitle": "",
       "description": "Say Hello Onchain",
@@ -2801,7 +2834,7 @@
     {
       "version": "next",
       "id": "thefalsenine.xyz",
-      "index": 0,
+      "index": 72,
       "title": "The False Nine",
       "subtitle": "",
       "description": "Onchain football publication bringing the beautiful game onchain.",
@@ -2825,7 +2858,7 @@
     {
       "version": "next",
       "id": "warppay.lopezonchain.xyz",
-      "index": 96,
+      "index": 13,
       "title": "WarpPay 💸",
       "subtitle": "",
       "description": "WarpPay. Easy payments of all kinds, in Warpcast or browser",
@@ -2848,7 +2881,7 @@
     {
       "version": "next",
       "id": "www.bountycaster.xyz",
-      "index": 22,
+      "index": 56,
       "title": "Bountycaster",
       "subtitle": "",
       "description": "Post and find bounties on Bountycaster",
@@ -2871,7 +2904,7 @@
     {
       "version": "next",
       "id": "markedsafe.org",
-      "index": 5,
+      "index": 1,
       "title": "Marked Safe From",
       "subtitle": "",
       "description": "Marked Safe From Farcaster Mini App",
@@ -2894,7 +2927,7 @@
     {
       "version": "next",
       "id": "collectr.live",
-      "index": 87,
+      "index": 89,
       "title": "Collectr - Monthly Art",
       "subtitle": "Publishing onchain art",
       "description": "Own stunning onchain art every month. Collect art NFTs at your own pace and discover global creators monthly!",
@@ -2924,7 +2957,7 @@
     {
       "version": "next",
       "id": "app.ufo.fm",
-      "index": 31,
+      "index": 27,
       "title": "UFO",
       "subtitle": "",
       "description": "Join the live stream now on ufo.fm",
@@ -2948,7 +2981,7 @@
     {
       "version": "next",
       "id": "dash.bnbs.dev",
-      "index": 78,
+      "index": 82,
       "title": "Dash",
       "subtitle": "Explore videos on Farcaster",
       "description": "Explore videos on Farcaster.",
@@ -2983,7 +3016,7 @@
     {
       "version": "next",
       "id": "apod-frame.replit.app",
-      "index": 65,
+      "index": 50,
       "title": "APOD",
       "subtitle": "",
       "description": "",
@@ -3006,7 +3039,7 @@
     {
       "version": "next",
       "id": "nexart.xyz",
-      "index": 44,
+      "index": 17,
       "title": "Nexart",
       "subtitle": "Create Share Earn",
       "description": "Create beautiful generative art with NexArt and mint it as NFTs on Base. No coding required.",
@@ -3036,7 +3069,7 @@
     {
       "version": "next",
       "id": "basedrop3.vercel.app",
-      "index": 96,
+      "index": 47,
       "title": "BaseDrop",
       "subtitle": "",
       "description": "",
@@ -3052,14 +3085,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c32d8fb0-2a8a-40ab-a212-c1f06946df00/original",
         "bio": "Explore The Gaming Trenches.\n\nA New Game Every Week!",
         "powerBadge": false,
-        "score": 0.48
+        "score": 0.52
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "ticktock.fun",
-      "index": 51,
+      "index": 71,
       "title": "TickTock",
       "subtitle": "",
       "description": "Design your clock",
@@ -3088,7 +3121,7 @@
     {
       "version": "next",
       "id": "www.commit.wtf",
-      "index": 50,
+      "index": 55,
       "title": "Commit",
       "subtitle": "",
       "description": "Commit Protocol is an accountability protocol designed to incentivize participants to join and commit to various activities such as showing up at events, fitness challenges, product milestones, and more.",
@@ -3112,7 +3145,7 @@
     {
       "version": "next",
       "id": "wearefloc.com",
-      "index": 99,
+      "index": 0,
       "title": "FLOC*",
       "subtitle": "",
       "description": "Pioneering Web3 strategic design studio driven by community collaboration. Design the next-generation brands together with expert-led innovation.",
@@ -3136,7 +3169,7 @@
     {
       "version": "next",
       "id": "farfromaframer.ionoi.eth.limo",
-      "index": 1,
+      "index": 55,
       "title": "FrameiT",
       "subtitle": "i don't kwow what i am doing",
       "description": "A demo frame for Farcaster, deployed as a sub-app.",
@@ -3162,14 +3195,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/647fa2ac-643c-4896-c684-3414559a0900/rectcrop3",
         "bio": "An idiot on a rock in space\n\n\n\n\nionoi.eth.sucks",
         "powerBadge": false,
-        "score": 0.66
+        "score": 0.85
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "kmacb.eth.sucks",
-      "index": 47,
+      "index": 42,
       "title": "KMac's Croptop",
       "subtitle": "",
       "description": "",
@@ -3192,7 +3225,7 @@
     {
       "version": "next",
       "id": "fastjpeg.com",
-      "index": 38,
+      "index": 6,
       "title": "FastJPEG",
       "subtitle": "creators • coins • communities",
       "description": "creators, coins, communities",
@@ -3227,7 +3260,7 @@
     {
       "version": "next",
       "id": "docs.orbiter.host",
-      "index": 39,
+      "index": 35,
       "title": "Orbiter Docs",
       "subtitle": "",
       "description": "Official Documation for Orbiter",
@@ -3250,7 +3283,7 @@
     {
       "version": "next",
       "id": "frame.booot.fun",
-      "index": 37,
+      "index": 54,
       "title": "BOOOT.FUN",
       "subtitle": "",
       "description": "Your Agent Universe",
@@ -3274,7 +3307,7 @@
     {
       "version": "next",
       "id": "basket.farm",
-      "index": 36,
+      "index": 33,
       "title": "Basket - Base Token Collections",
       "subtitle": "",
       "description": "Token baskets created by community members just like you",
@@ -3298,7 +3331,7 @@
     {
       "version": "next",
       "id": "hamsters.wtf",
-      "index": 41,
+      "index": 38,
       "title": "BASEd HAMsters",
       "subtitle": "HAMsters on BASE",
       "description": "Hamster fun on BASE.",
@@ -3334,7 +3367,7 @@
     {
       "version": "next",
       "id": "ionoi.eth.sucks",
-      "index": 67,
+      "index": 57,
       "title": "ionoi ionoi",
       "subtitle": "i don't kwow what i am doing",
       "description": "A project showcasing why ionoi.eth sucks.",
@@ -3360,14 +3393,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/647fa2ac-643c-4896-c684-3414559a0900/rectcrop3",
         "bio": "An idiot on a rock in space\n\n\n\n\nionoi.eth.sucks",
         "powerBadge": false,
-        "score": 0.66
+        "score": 0.85
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "harmonybot.xyz",
-      "index": 43,
+      "index": 40,
       "title": "Harmonybot",
       "subtitle": "",
       "description": "AI agent as an art platform",
@@ -3380,7 +3413,7 @@
       "author": {
         "fid": 886265,
         "username": "harmonybot",
-        "displayName": "harmonybot | on-chain art agent",
+        "displayName": "harmonybot | on-chain art",
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7387c55d-fd1f-49b8-1b76-2bdef2862a00/original",
         "bio": "On-chain art minting agent. \n\nThe original $CHAOS\n0x26E0331355dF5Ef082F69dF161218093708a73ac\n\nBuilt by @sayangel",
         "powerBadge": false,
@@ -3391,7 +3424,7 @@
     {
       "version": "next",
       "id": "altumbase.com",
-      "index": 35,
+      "index": 32,
       "title": "Degen Stats by @nikolaii.eth",
       "subtitle": "",
       "description": "📈💎Ultimate Statistics and Analytics for the DeSo World",
@@ -3414,7 +3447,7 @@
     {
       "version": "next",
       "id": "onchain-analysis.kasra.codes",
-      "index": 53,
+      "index": 85,
       "title": "Onchain Alignment Chart",
       "subtitle": "",
       "description": "Discover where you align in the onchain ecosystem",
@@ -3438,7 +3471,7 @@
     {
       "version": "next",
       "id": "drawcast.xyz",
-      "index": 88,
+      "index": 92,
       "title": "Drawcast",
       "subtitle": "Draw and challenge friends",
       "description": "Draw something and challenge friends",
@@ -3474,7 +3507,7 @@
     {
       "version": "next",
       "id": "snappa-mini-app.artlu.workers.dev",
-      "index": 45,
+      "index": 49,
       "title": "Snappa 🐟 ",
       "subtitle": "",
       "description": "",
@@ -3497,7 +3530,7 @@
     {
       "version": "next",
       "id": "meco.ham.cooking",
-      "index": 64,
+      "index": 49,
       "title": "Memes",
       "subtitle": "Meme Economy",
       "description": "Manage your meme token creation subscriptions.",
@@ -3528,7 +3561,7 @@
     {
       "version": "next",
       "id": "words-search-eight.vercel.app",
-      "index": 50,
+      "index": 44,
       "title": "Words Search",
       "subtitle": "",
       "description": "Onchain version of the classic Words Search game.",
@@ -3552,7 +3585,7 @@
     {
       "version": "next",
       "id": "fc-audio-chat.kasra.codes",
-      "index": 51,
+      "index": 7,
       "title": "FC Audio Chat",
       "subtitle": "",
       "description": "",
@@ -3576,7 +3609,7 @@
     {
       "version": "next",
       "id": "anon-post.vercel.app",
-      "index": 49,
+      "index": 48,
       "title": "AnonPost",
       "subtitle": "",
       "description": "Post anonymously, for free",
@@ -3599,7 +3632,7 @@
     {
       "version": "next",
       "id": "titles.xyz",
-      "index": 11,
+      "index": 98,
       "title": "TITLES",
       "subtitle": "",
       "description": "Creative tools powered by artist-trained AI models.",
@@ -3623,7 +3656,7 @@
     {
       "version": "next",
       "id": "app.revnet.eth.sucks",
-      "index": 33,
+      "index": 29,
       "title": "Revnet",
       "subtitle": "",
       "description": "Explore onchain revenue networks",
@@ -3646,7 +3679,7 @@
     {
       "version": "next",
       "id": "bario.so",
-      "index": 43,
+      "index": 47,
       "title": "bariOS",
       "subtitle": "",
       "description": "Experience bariOS - the first Onchain Operating System by Bario. The ultimate web-based operating system for the Bario ecosystem.",
@@ -3669,7 +3702,7 @@
     {
       "version": "next",
       "id": "gems.rip",
-      "index": 42,
+      "index": 46,
       "title": "Gems",
       "subtitle": "",
       "description": "",
@@ -3692,7 +3725,7 @@
     {
       "version": "next",
       "id": "totspot.quickintel.io",
-      "index": 56,
+      "index": 50,
       "title": "TotSpot",
       "subtitle": "",
       "description": "Track and manage your Tator interactions with TotSpot",
@@ -3714,7 +3747,7 @@
     {
       "version": "next",
       "id": "bole.wtf",
-      "index": 40,
+      "index": 64,
       "title": "THE BOLE",
       "subtitle": "Beware THE BOLE is cooking",
       "description": "get ready for THE BOLE",
@@ -3750,7 +3783,7 @@
     {
       "version": "next",
       "id": "farworld.gg",
-      "index": 62,
+      "index": 44,
       "title": "Farworld",
       "subtitle": "",
       "description": "A Mysterious World 🪐 Filled With Mysterious Farmon",
@@ -3773,7 +3806,7 @@
     {
       "version": "next",
       "id": "app.icebreaker.xyz",
-      "index": 48,
+      "index": 51,
       "title": "Icebreaker",
       "subtitle": "Trusted network intros",
       "description": "Meet exceptional people",
@@ -3797,7 +3830,7 @@
     {
       "version": "next",
       "id": "hyped.club",
-      "index": 30,
+      "index": 26,
       "title": "Hyped Club",
       "subtitle": "",
       "description": "Trade hyped tokens with ease on Hyped Club",
@@ -3821,7 +3854,7 @@
     {
       "version": "next",
       "id": "booped.xyz",
-      "index": 82,
+      "index": 18,
       "title": "Booped",
       "subtitle": "",
       "description": "Boop your frens onchain and see who has booped you",
@@ -3844,7 +3877,7 @@
     {
       "version": "next",
       "id": "buster-mkt.vercel.app",
-      "index": 60,
+      "index": 61,
       "title": "POLICAST PREDICTION MARKET",
       "subtitle": "",
       "description": "Forecast outcomes!",
@@ -3868,7 +3901,7 @@
     {
       "version": "next",
       "id": "coinaroid.xyz",
-      "index": 82,
+      "index": 84,
       "title": "Coinaroid",
       "subtitle": "",
       "description": "Cast your coins",
@@ -3891,7 +3924,7 @@
     {
       "version": "next",
       "id": "points.jhon.codes",
-      "index": 76,
+      "index": 70,
       "title": "Connect the Dots",
       "subtitle": "",
       "description": "A connect the dots mini app for Farcaster",
@@ -3923,7 +3956,7 @@
     {
       "version": "next",
       "id": "channelizer.labfire.com",
-      "index": 68,
+      "index": 58,
       "title": "Channelizer",
       "subtitle": "",
       "description": "",
@@ -3953,9 +3986,9 @@
     {
       "version": "next",
       "id": "yellowme.xyz",
-      "index": 69,
+      "index": 60,
       "title": "Yellow Me",
-      "subtitle": "",
+      "subtitle": "Your look based on your casts",
       "description": "Enter the yellow world with transformation based on your casts.",
       "category": "entertainment",
       "tags": [
@@ -3981,7 +4014,7 @@
     {
       "version": "next",
       "id": "outposts.io",
-      "index": 63,
+      "index": 14,
       "title": "Outposts - Personalized Digests",
       "subtitle": "",
       "description": "Sign up for free Personalized Web3 Digests, follow all your projects with easy to read newsletters twice a week",
@@ -4005,7 +4038,7 @@
     {
       "version": "next",
       "id": "moxie-shooting-v2.vercel.app",
-      "index": 61,
+      "index": 46,
       "title": "MOXIE Shoot 'em ups",
       "subtitle": "",
       "description": "MOXIE Shoot'em ups",
@@ -4027,7 +4060,7 @@
     {
       "version": "next",
       "id": "betttr.xyz",
-      "index": 37,
+      "index": 40,
       "title": "Betttr",
       "subtitle": "",
       "description": "Bet on sports, improve your position in the leaderboard, share your bets, and earn fees on Base! 💥",
@@ -4057,7 +4090,7 @@
     {
       "version": "next",
       "id": "app.payflow.me",
-      "index": 75,
+      "index": 68,
       "title": "Payflow",
       "subtitle": "",
       "description": "Onchain Social Payments",
@@ -4080,7 +4113,7 @@
     {
       "version": "next",
       "id": "degenlotto.fun",
-      "index": 25,
+      "index": 23,
       "title": "DegenLotto",
       "subtitle": "",
       "description": "An onchain lottery",
@@ -4103,7 +4136,7 @@
     {
       "version": "next",
       "id": "lowercase.cards",
-      "index": 71,
+      "index": 36,
       "title": "lowercase cards",
       "subtitle": "",
       "description": "user generated descriptions of crypto projects and concepts",
@@ -4127,7 +4160,7 @@
     {
       "version": "next",
       "id": "connect-4-gamma-lake.vercel.app",
-      "index": 58,
+      "index": 53,
       "title": "connect-4 game",
       "subtitle": "",
       "description": "Connect Four Game With React",
@@ -4151,7 +4184,7 @@
     {
       "version": "next",
       "id": "your-reply-guy.vercel.app",
-      "index": 14,
+      "index": 88,
       "title": "yourReplyGuy",
       "subtitle": "",
       "description": "Automate discovering jobs, ideas, connections, and more on Farcaster.",
@@ -4175,7 +4208,7 @@
     {
       "version": "next",
       "id": "lilnouns.auction",
-      "index": 73,
+      "index": 78,
       "title": "Lil Nouns Auction",
       "subtitle": "",
       "description": "",
@@ -4198,7 +4231,7 @@
     {
       "version": "next",
       "id": "far-profile.vercel.app",
-      "index": 74,
+      "index": 66,
       "title": "FarProfile",
       "subtitle": "",
       "description": "FarProfile by cashlessman.eth",
@@ -4221,7 +4254,7 @@
     {
       "version": "next",
       "id": "monad-cast.vercel.app",
-      "index": 59,
+      "index": 54,
       "title": "Monad Cast",
       "subtitle": "",
       "description": "",
@@ -4244,7 +4277,7 @@
     {
       "version": "next",
       "id": "app.banklessacademy.com",
-      "index": 31,
+      "index": 33,
       "title": "Bankless Academy",
       "subtitle": "",
       "description": "Level up your knowledge of Web3 and DeFi",
@@ -4268,7 +4301,7 @@
     {
       "version": "next",
       "id": "gallery.0xmoe.com",
-      "index": 86,
+      "index": 83,
       "title": "Gallery",
       "subtitle": "",
       "description": "",
@@ -4290,7 +4323,7 @@
     {
       "version": "next",
       "id": "miniapp.productclank.com",
-      "index": 77,
+      "index": 22,
       "title": "Product Clank",
       "subtitle": "",
       "description": "Where Bootstrapped Venture Building Meets the Power of Community",
@@ -4314,7 +4347,7 @@
     {
       "version": "next",
       "id": "buoy.club",
-      "index": 90,
+      "index": 88,
       "title": "Buoy",
       "subtitle": "",
       "description": "Monitor keywords on Farcaster",
@@ -4337,7 +4370,7 @@
     {
       "version": "next",
       "id": "kismetcasa.xyz",
-      "index": 79,
+      "index": 75,
       "title": "Kismet Casa",
       "subtitle": "",
       "description": "Creating Kismet ☀️",
@@ -4359,7 +4392,7 @@
     {
       "version": "next",
       "id": "gitcast.dev",
-      "index": 25,
+      "index": 27,
       "title": "GitCast",
       "subtitle": "",
       "description": "Merging GitHub into Farcaster",
@@ -4389,7 +4422,7 @@
     {
       "version": "next",
       "id": "www.qrcoin.fun",
-      "index": 83,
+      "index": 79,
       "title": "$QR",
       "subtitle": "",
       "description": "Same QR. New Website. Every day.",
@@ -4412,7 +4445,7 @@
     {
       "version": "next",
       "id": "apemash.it",
-      "index": 15,
+      "index": 33,
       "title": "Apemash",
       "subtitle": "",
       "description": "Put your money where your mouth is.",
@@ -4436,7 +4469,7 @@
     {
       "version": "next",
       "id": "caststorage.com",
-      "index": 70,
+      "index": 69,
       "title": "Caststorage",
       "subtitle": "",
       "description": "View your current Farcaster storage & buy more",
@@ -4463,7 +4496,7 @@
     {
       "version": "next",
       "id": "basewrapped.me",
-      "index": 20,
+      "index": 22,
       "title": "Base Wrapped",
       "subtitle": "",
       "description": "Discover your onchain activity in 2024!",
@@ -4485,7 +4518,7 @@
     {
       "version": "next",
       "id": "app.recaster.org",
-      "index": 88,
+      "index": 86,
       "title": "Recaster",
       "subtitle": "",
       "description": "Enhance your Farcaster experience",
@@ -4508,7 +4541,7 @@
     {
       "version": "next",
       "id": "enneagram.kasra.codes",
-      "index": 89,
+      "index": 87,
       "title": "Enneagram Guesser",
       "subtitle": "",
       "description": "Discover your Enneagram type through your Farcaster presence",
@@ -4531,7 +4564,7 @@
     {
       "version": "next",
       "id": "farcaster.in",
-      "index": 92,
+      "index": 89,
       "title": "Farcaster Index",
       "subtitle": "",
       "description": "Farcaster coins at your fingertips",
@@ -4553,7 +4586,7 @@
     {
       "version": "next",
       "id": "clanked.xyz",
-      "index": 20,
+      "index": 19,
       "title": "clanked",
       "subtitle": "",
       "description": "turn any memes, music and video into coins on clanker protocol for free and get rewards.",
@@ -4577,7 +4610,7 @@
     {
       "version": "next",
       "id": "miniapp-starter.val.run",
-      "index": 94,
+      "index": 92,
       "title": "Mini App Starter",
       "subtitle": "",
       "description": "",
@@ -4600,7 +4633,7 @@
     {
       "version": "next",
       "id": "skatehive.app",
-      "index": 95,
+      "index": 93,
       "title": "SkateHive",
       "subtitle": "",
       "description": "The infinity skateboard maganize",
@@ -4623,7 +4656,7 @@
     {
       "version": "next",
       "id": "calmer.onfc.xyz",
-      "index": 80,
+      "index": 36,
       "title": "Calmer",
       "subtitle": "",
       "description": "Breath and relax",
@@ -4646,7 +4679,7 @@
     {
       "version": "next",
       "id": "tap-to-earn-mini-app-bruno-eleodoro-rozas-projects.vercel.app",
-      "index": 11,
+      "index": 14,
       "title": "easy-earn-mini-app",
       "subtitle": "",
       "description": "Easy to earn on top of your tokens in your wallet",
@@ -4670,7 +4703,7 @@
     {
       "version": "next",
       "id": "llm-rater.kasra.codes",
-      "index": 52,
+      "index": 45,
       "title": "AI Best Friend Finder",
       "subtitle": "",
       "description": "Discover which AI understands you best!",
@@ -4693,7 +4726,7 @@
     {
       "version": "next",
       "id": "reply-guy.kasra.codes",
-      "index": 0,
+      "index": 97,
       "title": "Are You A Reply Guy?",
       "subtitle": "",
       "description": "Analyze your Farcaster casts and discover your posting personality",
@@ -4716,7 +4749,7 @@
     {
       "version": "next",
       "id": "monad-miniapp-template-seven.vercel.app",
-      "index": 2,
+      "index": 98,
       "title": "Monad Farcaster MiniApp Template",
       "subtitle": "",
       "description": "A template for building mini-apps on Farcaster and Monad",
@@ -4739,7 +4772,7 @@
     {
       "version": "next",
       "id": "tatortrader.quickintel.io",
-      "index": 97,
+      "index": 94,
       "title": "Tator Trader",
       "subtitle": "Your Tator Trader dashboard",
       "description": "Track and manage your Tator interactions",
@@ -4767,7 +4800,7 @@
     {
       "version": "next",
       "id": "anybody.gg",
-      "index": 29,
+      "index": 31,
       "title": "Anybody Problem",
       "subtitle": "",
       "description": "qt onchain supercollider ✧ a new game everyday!",
@@ -4791,7 +4824,7 @@
     {
       "version": "next",
       "id": "far.quest",
-      "index": 3,
+      "index": 80,
       "title": "FarAgent",
       "subtitle": "",
       "description": "Sign up and explore Farcaster through our pro client to complete quests, earn FarPoints + FarLoot, use FarSchool + FarMarket, explore Farcaster Trends and more! Also explore the first and largest Farcaster L2 called Wield!",
@@ -4815,7 +4848,7 @@
     {
       "version": "next",
       "id": "followers.genyframe.xyz",
-      "index": 36,
+      "index": 40,
       "title": "Followers",
       "subtitle": "",
       "description": "followers",
@@ -4838,7 +4871,7 @@
     {
       "version": "next",
       "id": "comp-qwik-smpl.vercel.app",
-      "index": 7,
+      "index": 2,
       "title": "CQS",
       "subtitle": "",
       "description": "A simple Farcaster Frame app built with Qwik",
@@ -4861,7 +4894,7 @@
     {
       "version": "next",
       "id": "farcaster.snack.money",
-      "index": 5,
+      "index": 0,
       "title": "Snack Money",
       "subtitle": "",
       "description": "",
@@ -4885,7 +4918,7 @@
     {
       "version": "next",
       "id": "app.eth.cash",
-      "index": 6,
+      "index": 1,
       "title": "ETHCash",
       "subtitle": "",
       "description": "The simplest way to send USD to any email or farcaster account",
@@ -4908,7 +4941,7 @@
     {
       "version": "next",
       "id": "battlecast.meme",
-      "index": 23,
+      "index": 49,
       "title": "BattleCast",
       "subtitle": "Coin prediction game",
       "description": "Play BattleCast",
@@ -4939,7 +4972,7 @@
     {
       "version": "next",
       "id": "fractalvisions.io",
-      "index": 57,
+      "index": 47,
       "title": "VISIONS",
       "subtitle": "",
       "description": "A supercharged superchain impact initiative platform fueled by artificial intelligence.",
@@ -4956,14 +4989,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/08d50b87-267a-44b4-1de8-c60cec2ad500/rectcrop3",
         "bio": "Prolific NFT technology built on @ethereum.",
         "powerBadge": false,
-        "score": 0.67
+        "score": 0.69
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "tarot-taupe-eight.vercel.app",
-      "index": 8,
+      "index": 3,
       "title": "Tarot",
       "subtitle": "",
       "description": "Play games, earn rewards!",
@@ -4987,7 +5020,7 @@
     {
       "version": "next",
       "id": "degensub.vercel.app",
-      "index": 10,
+      "index": 4,
       "title": "DegenSub",
       "subtitle": "",
       "description": "DegenSub by cashlessman.eth",
@@ -5010,7 +5043,7 @@
     {
       "version": "next",
       "id": "dylansteck.com",
-      "index": 12,
+      "index": 6,
       "title": "Dylan Steck",
       "subtitle": "",
       "description": "The homepage of Dylan Steck, an engineer at Base focused on building products onchain that give people more agency",
@@ -5032,7 +5065,7 @@
     {
       "version": "next",
       "id": "eeonsol.club",
-      "index": 78,
+      "index": 74,
       "title": "MonadStampCast",
       "subtitle": "",
       "description": "Add Stamps to a Community Canvas or create your own. Mint both using Monad!",
@@ -5056,7 +5089,7 @@
     {
       "version": "next",
       "id": "flip-it-clanker.vercel.app",
-      "index": 66,
+      "index": 63,
       "title": "Flip-It",
       "subtitle": "",
       "description": "",
@@ -5079,7 +5112,7 @@
     {
       "version": "next",
       "id": "farcasterchallenge.lat",
-      "index": 55,
+      "index": 61,
       "title": "Farcaster Challenge",
       "subtitle": "",
       "description": "",
@@ -5102,7 +5135,7 @@
     {
       "version": "next",
       "id": "avichalp.me",
-      "index": 13,
+      "index": 12,
       "title": "avichalp.me",
       "subtitle": "",
       "description": "Personal Blog of Avichal",
@@ -5126,7 +5159,7 @@
     {
       "version": "next",
       "id": "frames-v2.builders.garden",
-      "index": 14,
+      "index": 13,
       "title": "Speedrun frames v2",
       "subtitle": "",
       "description": "Speedrun frames v2, we help u build your own frames, faster ⚡",
@@ -5149,7 +5182,7 @@
     {
       "version": "next",
       "id": "cold-harbor.kasra.codes",
-      "index": 15,
+      "index": 16,
       "title": "Cold Harbor Testing",
       "subtitle": "",
       "description": "A Severance-inspired personality test for Farcaster users",
@@ -5202,7 +5235,7 @@
     {
       "version": "next",
       "id": "www.scaffold.wiki",
-      "index": 21,
+      "index": 20,
       "title": "Mini App Scaffold",
       "subtitle": "",
       "description": "Quick-start scaffold for Farcaster Mini Apps with authentication, notifications, and data persistence",
@@ -5233,7 +5266,7 @@
     {
       "version": "next",
       "id": "benijack.beniverse.fun",
-      "index": 24,
+      "index": 25,
       "title": "BENiJACK",
       "subtitle": "",
       "description": "Explore games, utilities, and more in the BENiVERSE!",
@@ -5257,7 +5290,7 @@
     {
       "version": "next",
       "id": "picosub.artlu.xyz",
-      "index": 1,
+      "index": 4,
       "title": "picosub",
       "subtitle": "",
       "description": "a subscription service for $DEGEN tips",
@@ -5280,7 +5313,7 @@
     {
       "version": "next",
       "id": "interspace.fi",
-      "index": 27,
+      "index": 28,
       "title": "Interspace",
       "subtitle": "",
       "description": "Discover and use the best crypto apps for shopping, utilities, earning, and more. Your gateway to decentralized applications.",
@@ -5304,7 +5337,7 @@
     {
       "version": "next",
       "id": "rewards.genyframe.xyz",
-      "index": 19,
+      "index": 34,
       "title": "Warpcast Rewards",
       "subtitle": "",
       "description": "Warpcast Rewards",
@@ -5327,7 +5360,7 @@
     {
       "version": "next",
       "id": "songs-tools.com",
-      "index": 31,
+      "index": 35,
       "title": "SONGS",
       "subtitle": "",
       "description": "A novel way to create, distribute and finance your music projects.",
@@ -5351,7 +5384,7 @@
     {
       "version": "next",
       "id": "otrobitxel.netlify.app",
-      "index": 32,
+      "index": 89,
       "title": "Bitxel Roads Evolution",
       "subtitle": "",
       "description": "",
@@ -5367,14 +5400,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b439ca50-d3d8-4c63-d9f6-a73c16b67900/original",
         "bio": "#Jeweler 💎 Code ₿ ⛏️ 🇨🇴 Digital Artist 💻🎨#Dev 🟧 \n🤖🧠 Building on base & Bitcoin\n\nFounder/CEO BitxelRoads.twitter",
         "powerBadge": false,
-        "score": 0.55
+        "score": 0.56
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "carcade.vercel.app",
-      "index": 64,
+      "index": 84,
       "title": "Carcade",
       "subtitle": "",
       "description": "",
@@ -5390,14 +5423,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c32d8fb0-2a8a-40ab-a212-c1f06946df00/original",
         "bio": "Explore The Gaming Trenches.\n\nA New Game Every Week!",
         "powerBadge": false,
-        "score": 0.48
+        "score": 0.52
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "true-cast.vercel.app",
-      "index": 83,
+      "index": 44,
       "title": "TrueCast",
       "subtitle": "Market-powered news feed",
       "description": "TrueCast",
@@ -5433,7 +5466,7 @@
     {
       "version": "next",
       "id": "fartwins.lat",
-      "index": 63,
+      "index": 86,
       "title": "FarTwins",
       "subtitle": "",
       "description": "",
@@ -5457,7 +5490,7 @@
     {
       "version": "next",
       "id": "tap.computer",
-      "index": 14,
+      "index": 20,
       "title": "tap",
       "subtitle": "",
       "description": "it just takes one tap",
@@ -5479,7 +5512,7 @@
     {
       "version": "next",
       "id": "topi-inky.vercel.app",
-      "index": 16,
+      "index": 18,
       "title": "topi",
       "subtitle": "",
       "description": "Topi NFT on Base",
@@ -5502,7 +5535,7 @@
     {
       "version": "next",
       "id": "spec0222.vercel.app",
-      "index": 17,
+      "index": 30,
       "title": "Spectral Alignment",
       "subtitle": "",
       "description": "Discover your Spectral Alignment in the research ecosystem",
@@ -5525,7 +5558,7 @@
     {
       "version": "next",
       "id": "cqs.gg",
-      "index": 18,
+      "index": 17,
       "title": "CQS",
       "subtitle": "",
       "description": "A simple Farcaster Frame app built with Qwik",
@@ -5548,7 +5581,7 @@
     {
       "version": "next",
       "id": "royaleway.top",
-      "index": 0,
+      "index": 54,
       "title": "Royaleway",
       "subtitle": "",
       "description": "Merge, Collect, and Earn in this addictive blockchain game!",
@@ -5572,7 +5605,7 @@
     {
       "version": "next",
       "id": "bricks.glizzy.zone",
-      "index": 20,
+      "index": 58,
       "title": "CTG Breaker",
       "subtitle": "",
       "description": "",
@@ -5594,7 +5627,7 @@
     {
       "version": "next",
       "id": "theweekend.lol",
-      "index": 19,
+      "index": 57,
       "title": "The Weekend",
       "subtitle": "",
       "description": "Mint The Weekend, but only on the weekend",
@@ -5617,7 +5650,7 @@
     {
       "version": "next",
       "id": "wurplet.xyz",
-      "index": 33,
+      "index": 36,
       "title": "Wurplet.eth",
       "subtitle": "",
       "description": "An ENS for your Wurplet... Warplet?... you know",
@@ -5640,7 +5673,7 @@
     {
       "version": "next",
       "id": "farcaster-calendar.vercel.app",
-      "index": 62,
+      "index": 82,
       "title": "Book it",
       "subtitle": "",
       "description": "",
@@ -5663,7 +5696,7 @@
     {
       "version": "next",
       "id": "yo.steer.fun",
-      "index": 33,
+      "index": 78,
       "title": "Yo",
       "subtitle": "",
       "description": "Just yo on Farcaster.",
@@ -5686,7 +5719,7 @@
     {
       "version": "next",
       "id": "onchaintierlist.xyz",
-      "index": 61,
+      "index": 83,
       "title": "Tier List Maker",
       "subtitle": "",
       "description": "Create and share custom tier lists with Farcaster integration. Rank and organize items in S, A, B, C, D tiers.",
@@ -5709,7 +5742,7 @@
     {
       "version": "next",
       "id": "lightsabers4-frame-by-vivacious.vercel.app",
-      "index": 21,
+      "index": 59,
       "title": "Lightsabers!",
       "subtitle": "",
       "description": "A lightsaber constructor frame",
@@ -5732,7 +5765,7 @@
     {
       "version": "next",
       "id": "faceoffarcasterart.vercel.app",
-      "index": 60,
+      "index": 84,
       "title": "FAFA",
       "subtitle": "",
       "description": "A platform exclusively for Farcaster users to mint their PFP into Digital Art!",
@@ -5756,7 +5789,7 @@
     {
       "version": "next",
       "id": "bumps.wtf",
-      "index": 59,
+      "index": 85,
       "title": "bumps",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -5779,7 +5812,7 @@
     {
       "version": "next",
       "id": "ember-island.vercel.app",
-      "index": 58,
+      "index": 87,
       "title": "Ember Island",
       "subtitle": "",
       "description": "Grow your village onchain and stoke the fire.",
@@ -5802,7 +5835,7 @@
     {
       "version": "next",
       "id": "vault-degen.genyframe.xyz",
-      "index": 22,
+      "index": 60,
       "title": "Vault Wars on Degen",
       "subtitle": "",
       "description": "Degen Dominion—an electrifying blockchain arena on the Degen Chain. Forge unique digital vaults from 100 $WDEGEN, unleash your creativity, and dominate as their value doubles with every claim.",
@@ -5825,7 +5858,7 @@
     {
       "version": "next",
       "id": "davisshaver.com",
-      "index": 98,
+      "index": 52,
       "title": "Davis Shaver",
       "subtitle": "",
       "description": "",
@@ -5848,7 +5881,7 @@
     {
       "version": "next",
       "id": "earlycaster-dbsr.vercel.app",
-      "index": 57,
+      "index": 91,
       "title": "earlycaster",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -5864,14 +5897,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c3707aa-60af-41e5-70f8-be31c6ded900/rectcrop3",
         "bio": "fullstack dev, web3 builder",
         "powerBadge": false,
-        "score": 0.4
+        "score": 0.39
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "rewardr.wtf",
-      "index": 76,
+      "index": 80,
       "title": "rewardr",
       "subtitle": "Fastest token delivery",
       "description": "the fastest token delivery system around",
@@ -5907,7 +5940,7 @@
     {
       "version": "next",
       "id": "drunkcaster.xyz",
-      "index": 56,
+      "index": 93,
       "title": "Drunkcaster",
       "subtitle": "",
       "description": "Mix your thoughts!",
@@ -5930,7 +5963,7 @@
     {
       "version": "next",
       "id": "scratches.vercel.app",
-      "index": 23,
+      "index": 61,
       "title": "Scratches 🖌 Scratch of Art",
       "subtitle": "",
       "description": "Create and Mint your own original scratch art that can boggle mind and imagination",
@@ -5954,7 +5987,7 @@
     {
       "version": "next",
       "id": "wee.yeet.haus",
-      "index": 24,
+      "index": 62,
       "title": "Example Frame",
       "subtitle": "",
       "description": "A Mini Yeeter",
@@ -5977,7 +6010,7 @@
     {
       "version": "next",
       "id": "eth-rider.kasra.codes",
-      "index": 25,
+      "index": 63,
       "title": "ETH Rider",
       "subtitle": "",
       "description": "",
@@ -6000,7 +6033,7 @@
     {
       "version": "next",
       "id": "monad-vibes-sdf.vercel.app",
-      "index": 28,
+      "index": 62,
       "title": "Monad Vibe",
       "subtitle": "",
       "description": "Discover your random NFT",
@@ -6030,7 +6063,7 @@
     {
       "version": "next",
       "id": "crosscaster.com",
-      "index": 27,
+      "index": 65,
       "title": "crosscaster",
       "subtitle": "",
       "description": "Compose and crosspost between Farcaster and Twitter with a single click.",
@@ -6053,7 +6086,7 @@
     {
       "version": "next",
       "id": "dollar-payers.kasra.codes",
-      "index": 55,
+      "index": 94,
       "title": "Pay Dollar Stats",
       "subtitle": "",
       "description": "Tracking USDC Transfers to Contract",
@@ -6099,7 +6132,7 @@
     {
       "version": "next",
       "id": "nodefoundation.com",
-      "index": 49,
+      "index": 17,
       "title": "NODE",
       "subtitle": "",
       "description": "NETWORK MAKES ART WORK",
@@ -6116,14 +6149,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64766750-7be1-44e0-96de-efbd406ac700/original",
         "bio": "A network for new art.",
         "powerBadge": false,
-        "score": 0.84
+        "score": 0.75
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "colorupframe.netlify.app",
-      "index": 54,
+      "index": 95,
       "title": "Color Up",
       "subtitle": "",
       "description": "",
@@ -6139,14 +6172,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc68ccc9-8eb9-40fd-010b-0d4b1ea39000/rectcrop3",
         "bio": "Developer | Cricket | Anime",
         "powerBadge": false,
-        "score": 0.58
+        "score": 0.56
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "justcoinit.vercel.app",
-      "index": 18,
+      "index": 32,
       "title": "JustCoinIt",
       "subtitle": "JustCoinIt",
       "description": "Create your content coins and manage your tokens",
@@ -6181,7 +6214,7 @@
     {
       "version": "next",
       "id": "www.orbisnova.gg",
-      "index": 28,
+      "index": 66,
       "title": "Orbis Nova",
       "subtitle": "",
       "description": "Location sharing app with Chatty and Ghosting modes",
@@ -6205,7 +6238,7 @@
     {
       "version": "next",
       "id": "cocosframecasting.netlify.app",
-      "index": 53,
+      "index": 1,
       "title": "LetsStart",
       "subtitle": "",
       "description": "",
@@ -6222,14 +6255,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc68ccc9-8eb9-40fd-010b-0d4b1ea39000/rectcrop3",
         "bio": "Developer | Cricket | Anime",
         "powerBadge": false,
-        "score": 0.58
+        "score": 0.56
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "tradingview.genyframe.xyz",
-      "index": 26,
+      "index": 64,
       "title": "TradingView",
       "subtitle": "",
       "description": "Analize your chart on Farcaster.",
@@ -6252,7 +6285,7 @@
     {
       "version": "next",
       "id": "trending.genyframe.xyz",
-      "index": 38,
+      "index": 44,
       "title": "Trending Tokens",
       "subtitle": "",
       "description": "Top trending tokens on Farcaster.",
@@ -6275,7 +6308,7 @@
     {
       "version": "next",
       "id": "warproom.vercel.app",
-      "index": 39,
+      "index": 3,
       "title": "warproom",
       "subtitle": "",
       "description": "A place to hang with your friends",
@@ -6299,7 +6332,7 @@
     {
       "version": "next",
       "id": "clankfaces.com",
-      "index": 52,
+      "index": 10,
       "title": "Clank Faces",
       "subtitle": "",
       "description": "A Unique Art Algorithm to celebrate the power of Clankers community!",
@@ -6323,7 +6356,7 @@
     {
       "version": "next",
       "id": "mini.bonanza.wtf",
-      "index": 51,
+      "index": 12,
       "title": "BONANZA!",
       "subtitle": "",
       "description": "Play BONANZA! The largest daily jackpot",
@@ -6347,7 +6380,7 @@
     {
       "version": "next",
       "id": "warp-frame.vercel.app",
-      "index": 13,
+      "index": 26,
       "title": "Company Logo Memory Game",
       "subtitle": "",
       "description": "Match tech company logos and find Rosebud AI for a bonus!",
@@ -6376,7 +6409,7 @@
     {
       "version": "next",
       "id": "mini-app-lilac-kappa.vercel.app",
-      "index": 47,
+      "index": 65,
       "title": "MiniPoll",
       "subtitle": "",
       "description": "A Farcaster Frame powered by frames.js",
@@ -6404,7 +6437,7 @@
     {
       "version": "next",
       "id": "web3-personality-quiz-redriot-reddevilccr.vercel.app",
-      "index": 50,
+      "index": 15,
       "title": "Web3 Personality by CCR",
       "subtitle": "",
       "description": "Find out your Web3 personality! Take this fun quiz.",
@@ -6428,7 +6461,7 @@
     {
       "version": "next",
       "id": "blog.flashsoft.eu",
-      "index": 55,
+      "index": 98,
       "title": "blog.flashsoft.eu",
       "subtitle": "",
       "description": "Blog | flashsoft.eu articles from andrei0x309 about projects, web development, programming, web3, and more.",
@@ -6452,7 +6485,7 @@
     {
       "version": "next",
       "id": "mini-tv.app",
-      "index": 57,
+      "index": 86,
       "title": "MiniTV",
       "subtitle": "Image to Video AI Creator",
       "description": "Transform images into amazing videos using AI",
@@ -6483,7 +6516,7 @@
     {
       "version": "next",
       "id": "charit3-farcaster.vercel.app",
-      "index": 49,
+      "index": 19,
       "title": "charit3",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -6506,7 +6539,7 @@
     {
       "version": "next",
       "id": "zodiaccard.xyz",
-      "index": 29,
+      "index": 67,
       "title": "Zodiac Cards",
       "subtitle": "",
       "description": "Discover your crypto fortune based on your zodiac sign",
@@ -6530,7 +6563,7 @@
     {
       "version": "next",
       "id": "self.tools",
-      "index": 30,
+      "index": 68,
       "title": "self.tools",
       "subtitle": "",
       "description": "A demo of Farcaster Mini App integration with Next.js",
@@ -6554,7 +6587,7 @@
     {
       "version": "next",
       "id": "purple-people-podcast-v011.vercel.app",
-      "index": 31,
+      "index": 69,
       "title": "Podcast",
       "subtitle": "",
       "description": "A podcast for the people of Farcaster.",
@@ -6577,7 +6610,7 @@
     {
       "version": "next",
       "id": "crypty-frame.vercel.app",
-      "index": 61,
+      "index": 99,
       "title": "Example Frame",
       "subtitle": "",
       "description": "A Farcaster Frames v2 demo app.",
@@ -6600,7 +6633,7 @@
     {
       "version": "next",
       "id": "proposals.farcastle.net",
-      "index": 32,
+      "index": 70,
       "title": "Proposals",
       "subtitle": "",
       "description": "Shape the fate of the realm",
@@ -6623,7 +6656,7 @@
     {
       "version": "next",
       "id": "miniapp.farhouse.club",
-      "index": 33,
+      "index": 9,
       "title": "Farhouse",
       "subtitle": "",
       "description": "",
@@ -6646,7 +6679,7 @@
     {
       "version": "next",
       "id": "frames.artlu.xyz",
-      "index": 34,
+      "index": 71,
       "title": "Frames v2 Linktree+",
       "subtitle": "",
       "description": "",
@@ -6668,7 +6701,7 @@
     {
       "version": "next",
       "id": "letters-bot.vercel.app",
-      "index": 35,
+      "index": 72,
       "title": "LetterBot",
       "subtitle": "",
       "description": "LetterBot by cashlessman.eth",
@@ -6691,7 +6724,7 @@
     {
       "version": "next",
       "id": "flappy-game-chi.vercel.app",
-      "index": 36,
+      "index": 73,
       "title": "Flappy Guy",
       "subtitle": "",
       "description": "A Flappy Game in a Frame",
@@ -6715,7 +6748,7 @@
     {
       "version": "next",
       "id": "moe--3238fa84059c11f0ac33569c3dd06744.web.val.run",
-      "index": 37,
+      "index": 74,
       "title": "Mini App Starter",
       "subtitle": "",
       "description": "",
@@ -6738,7 +6771,7 @@
     {
       "version": "next",
       "id": "ipod.fm",
-      "index": 38,
+      "index": 75,
       "title": "iPod.fm",
       "subtitle": "",
       "description": "An iPod Classic built for the web.",
@@ -6761,7 +6794,7 @@
     {
       "version": "next",
       "id": "casterscan.com",
-      "index": 39,
+      "index": 76,
       "title": "Casterscan",
       "subtitle": "",
       "description": "A block explorer for Farcaster",
@@ -6783,7 +6816,7 @@
     {
       "version": "next",
       "id": "apemash.loca.lt",
-      "index": 40,
+      "index": 77,
       "title": "Apemash",
       "subtitle": "",
       "description": "Apemash: epic token clashes",
@@ -6807,7 +6840,7 @@
     {
       "version": "next",
       "id": "www.gnars.com",
-      "index": 91,
+      "index": 73,
       "title": "Gnars DAO",
       "subtitle": "",
       "description": "Funding the next generation of skate, surf and extreme-sports athletes through perpetual on-chain NFT auctions.",
@@ -6831,7 +6864,7 @@
     {
       "version": "next",
       "id": "farcaster.badai.io",
-      "index": 41,
+      "index": 78,
       "title": "BAD FRAME",
       "subtitle": "",
       "description": "Check out this miniapp: digital anarchy beautifully coded in the BAD Cooking Lab",
@@ -6855,7 +6888,7 @@
     {
       "version": "next",
       "id": "www.zapper.xyz",
-      "index": 42,
+      "index": 79,
       "title": "Zapper API",
       "subtitle": "",
       "description": "Explore all transactions that are happening onchain in real time. Follow popular accounts to get alpha",
@@ -6879,7 +6912,7 @@
     {
       "version": "next",
       "id": "blockchainchess.xyz",
-      "index": 43,
+      "index": 80,
       "title": "Chess",
       "subtitle": "",
       "description": "Play Chess",
@@ -6903,7 +6936,7 @@
     {
       "version": "next",
       "id": "wikipedia.genyframe.xyz",
-      "index": 44,
+      "index": 81,
       "title": "Wikipedia",
       "subtitle": "",
       "description": "The free encyclopedia.",
@@ -6925,7 +6958,7 @@
     {
       "version": "next",
       "id": "farp.fun",
-      "index": 45,
+      "index": 82,
       "title": "farp",
       "subtitle": "",
       "description": "chat, is this real?",
@@ -6949,7 +6982,7 @@
     {
       "version": "next",
       "id": "gitinformed.com",
-      "index": 46,
+      "index": 83,
       "title": "GitInformed",
       "subtitle": "",
       "description": "Stay informed with the latest tech news, powered by AI summaries.",
@@ -6973,7 +7006,7 @@
     {
       "version": "next",
       "id": "poorio.replit.app",
-      "index": 47,
+      "index": 84,
       "title": "II II",
       "subtitle": "",
       "description": "II II",
@@ -6996,7 +7029,7 @@
     {
       "version": "next",
       "id": "lionking-green.vercel.app",
-      "index": 48,
+      "index": 85,
       "title": "Lion Game",
       "subtitle": "",
       "description": "play game",
@@ -7020,7 +7053,7 @@
     {
       "version": "next",
       "id": "breathe.kasra.codes",
-      "index": 80,
+      "index": 33,
       "title": "Breathe",
       "subtitle": "",
       "description": "",
@@ -7043,7 +7076,7 @@
     {
       "version": "next",
       "id": "wholenote.live",
-      "index": 49,
+      "index": 86,
       "title": "Wholenote",
       "subtitle": "",
       "description": "Discover music shared on Farcaster",
@@ -7067,7 +7100,7 @@
     {
       "version": "next",
       "id": "www.basedtrivia.xyz",
-      "index": 50,
+      "index": 87,
       "title": "Based Trivia",
       "subtitle": "",
       "description": "Compete and earn rewards",
@@ -7090,7 +7123,7 @@
     {
       "version": "next",
       "id": "unicaster.vercel.app",
-      "index": 51,
+      "index": 89,
       "title": "Uniswap (Beta)",
       "subtitle": "",
       "description": "",
@@ -7112,7 +7145,7 @@
     {
       "version": "next",
       "id": "quote-dusky.vercel.app",
-      "index": 52,
+      "index": 90,
       "title": "Example Frame",
       "subtitle": "",
       "description": "",
@@ -7135,7 +7168,7 @@
     {
       "version": "next",
       "id": "compu-flag-game.vercel.app",
-      "index": 53,
+      "index": 91,
       "title": "Flag Game",
       "subtitle": "",
       "description": "Test your knowledge of world flags!",
@@ -7159,7 +7192,7 @@
     {
       "version": "next",
       "id": "ava.datascience.art",
-      "index": 73,
+      "index": 16,
       "title": "Avatar Match",
       "subtitle": "",
       "description": "Create your avatar and find your match",
@@ -7182,7 +7215,7 @@
     {
       "version": "next",
       "id": "trades-zeta.vercel.app",
-      "index": 84,
+      "index": 41,
       "title": "Big Trades",
       "subtitle": "",
       "description": "",
@@ -7205,7 +7238,7 @@
     {
       "version": "next",
       "id": "tappy.gg",
-      "index": 54,
+      "index": 92,
       "title": "Tappy",
       "subtitle": "",
       "description": "An addictive tap game",
@@ -7229,7 +7262,7 @@
     {
       "version": "next",
       "id": "pay-a-dollar.vercel.app",
-      "index": 55,
+      "index": 93,
       "title": "Pay A Dollar",
       "subtitle": "",
       "description": "",
@@ -7252,7 +7285,7 @@
     {
       "version": "next",
       "id": "www.hyve.gg",
-      "index": 29,
+      "index": 71,
       "title": "Hyve",
       "subtitle": "",
       "description": "",
@@ -7275,7 +7308,7 @@
     {
       "version": "next",
       "id": "trens.vercel.app",
-      "index": 56,
+      "index": 94,
       "title": "Trens",
       "subtitle": "",
       "description": "",
@@ -7298,7 +7331,7 @@
     {
       "version": "next",
       "id": "farmap.vercel.app",
-      "index": 57,
+      "index": 95,
       "title": "FarMap",
       "subtitle": "",
       "description": "Upload everywhere",
@@ -7321,7 +7354,7 @@
     {
       "version": "next",
       "id": "www.gltch.fun",
-      "index": 58,
+      "index": 96,
       "title": "gltch",
       "subtitle": "",
       "description": "get notified on drops",
@@ -7334,7 +7367,7 @@
         "fid": 791687,
         "username": "thumb",
         "displayName": "thumb",
-        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fd4ab6e9-a77a-4da5-e2a8-fa6ab73dfc00/original",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/756f4513-0390-451a-e229-83861d047900/original",
         "bio": "building /gltch. dumb, but learning",
         "powerBadge": false,
         "score": 0.95
@@ -7344,7 +7377,7 @@
     {
       "version": "next",
       "id": "6529.genyframe.xyz",
-      "index": 59,
+      "index": 97,
       "title": "6529 Ecosystem",
       "subtitle": "",
       "description": "6529 Stats",
@@ -7367,7 +7400,7 @@
     {
       "version": "next",
       "id": "freecast.xyz",
-      "index": 60,
+      "index": 99,
       "title": "freecast.xyz",
       "subtitle": "",
       "description": "freecast frame",
@@ -7390,7 +7423,7 @@
     {
       "version": "next",
       "id": "lopezonchain.xyz",
-      "index": 27,
+      "index": 60,
       "title": "Lopez Onchain Universe",
       "subtitle": "",
       "description": "Onchain Software Developer",
@@ -7414,7 +7447,7 @@
     {
       "version": "next",
       "id": "fosscaster.xyz",
-      "index": 37,
+      "index": 11,
       "title": "fosscaster.xyz",
       "subtitle": "",
       "description": "Fosscaster.xyz",
@@ -7437,7 +7470,7 @@
     {
       "version": "next",
       "id": "test-mini-app-sigma.vercel.app",
-      "index": 61,
+      "index": 0,
       "title": "Test!",
       "subtitle": "",
       "description": "",
@@ -7458,7 +7491,7 @@
     {
       "version": "next",
       "id": "vibes.engineering",
-      "index": 54,
+      "index": 37,
       "title": "vibes.engineering",
       "subtitle": "build mini apps in a mini app",
       "description": "Farcaster mini app to build Farcaster mini apps",
@@ -7489,7 +7522,7 @@
     {
       "version": "next",
       "id": "69basedgod.freecast.xyz",
-      "index": 62,
+      "index": 1,
       "title": "69basedgod.freecast.xyz",
       "subtitle": "",
       "description": "69basedgod's freecast frame",
@@ -7512,7 +7545,7 @@
     {
       "version": "next",
       "id": "compu-borg-cast.vercel.app",
-      "index": 63,
+      "index": 2,
       "title": "Borg Cast",
       "subtitle": "",
       "description": "A simple Farcaster Frame app built with Qwik",
@@ -7535,7 +7568,7 @@
     {
       "version": "next",
       "id": "ratemyplate-frontend.vercel.app",
-      "index": 64,
+      "index": 4,
       "title": "Rate My Plate",
       "subtitle": "",
       "description": "Rate the food of Farcaster",
@@ -7558,7 +7591,7 @@
     {
       "version": "next",
       "id": "bm-five-nu.vercel.app",
-      "index": 65,
+      "index": 5,
       "title": "Base Morning",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -7581,7 +7614,7 @@
     {
       "version": "next",
       "id": "basepool.freecast.xyz",
-      "index": 66,
+      "index": 6,
       "title": "basepool.freecast.xyz",
       "subtitle": "",
       "description": "basepool's freecast frame",
@@ -7604,7 +7637,7 @@
     {
       "version": "next",
       "id": "elf.freecast.xyz",
-      "index": 67,
+      "index": 7,
       "title": "elf.freecast.xyz",
       "subtitle": "",
       "description": "elf's freecast frame",
@@ -7627,7 +7660,7 @@
     {
       "version": "next",
       "id": "frame.banyan.top",
-      "index": 68,
+      "index": 8,
       "title": "Banyan",
       "subtitle": "",
       "description": "",
@@ -7649,7 +7682,7 @@
     {
       "version": "next",
       "id": "songcast.vercel.app",
-      "index": 71,
+      "index": 11,
       "title": "SongCast",
       "subtitle": "Music Social Tokens",
       "description": "Create, trade, and collect social tokens for music artists",
@@ -7680,7 +7713,7 @@
     {
       "version": "next",
       "id": "shillearn.fun",
-      "index": 25,
+      "index": 24,
       "title": "Shill Earn",
       "subtitle": "Earn by shilling on Farcaster.",
       "description": "Shill Earn is a platform that allows you to share your favorite tokens and earn commissions",
@@ -7704,7 +7737,7 @@
     {
       "version": "next",
       "id": "jestr.fun",
-      "index": 69,
+      "index": 9,
       "title": "Jestr",
       "subtitle": "",
       "description": "Track and get notified about the next big Solana token drops",
@@ -7728,7 +7761,7 @@
     {
       "version": "next",
       "id": "self-pay.kasra.codes",
-      "index": 70,
+      "index": 10,
       "title": "WIN FREE MONEY",
       "subtitle": "",
       "description": "FREE CHANCE TO WIN MONEY",
@@ -7752,7 +7785,7 @@
     {
       "version": "next",
       "id": "app.intersend.io",
-      "index": 71,
+      "index": 11,
       "title": "Intersend",
       "subtitle": "",
       "description": "Discover and use the best crypto apps for shopping, utilities, earning, and more. Your gateway to decentralized applications.",
@@ -7799,7 +7832,7 @@
     {
       "version": "next",
       "id": "precoin.fun",
-      "index": 78,
+      "index": 25,
       "title": "Precoin",
       "subtitle": "",
       "description": "Early. Weird. Fun. That’s the vibe.",
@@ -7823,7 +7856,7 @@
     {
       "version": "next",
       "id": "popframe.vercel.app",
-      "index": 70,
+      "index": 9,
       "title": "Balloon Pop",
       "subtitle": "",
       "description": "A Farcaster Frames v2 demo app.",
@@ -7846,7 +7879,7 @@
     {
       "version": "next",
       "id": "stableai.freecast.xyz",
-      "index": 72,
+      "index": 12,
       "title": "stableai.freecast.xyz",
       "subtitle": "",
       "description": "stableai's freecast frame",
@@ -7869,7 +7902,7 @@
     {
       "version": "next",
       "id": "blepblopia-translator.vercel.app",
-      "index": 45,
+      "index": 26,
       "title": "Blepblopia translator",
       "subtitle": "",
       "description": "",
@@ -7892,9 +7925,9 @@
     {
       "version": "next",
       "id": "app.ridethebus.xyz",
-      "index": 42,
+      "index": 15,
       "title": "Ride The Bus",
-      "subtitle": "",
+      "subtitle": "How far can you ride?",
       "description": "Ride the Bus on Base!",
       "category": "games",
       "homeUrl": "https://app.ridethebus.xyz",
@@ -7916,7 +7949,7 @@
     {
       "version": "next",
       "id": "ayolive.xyz",
-      "index": 92,
+      "index": 64,
       "title": "Trivia",
       "subtitle": "",
       "description": "Live Trivia Game Show on Warpcast",
@@ -7939,7 +7972,7 @@
     {
       "version": "next",
       "id": "mini.sidequest.build",
-      "index": 88,
+      "index": 68,
       "title": "Sidequest",
       "subtitle": "",
       "description": "A Sidequest app.",
@@ -7962,7 +7995,7 @@
     {
       "version": "next",
       "id": "chrismini.netlify.app",
-      "index": 28,
+      "index": 29,
       "title": "Fun & Fund",
       "subtitle": "",
       "description": "A joyful experience: play games, create art, and make a difference with donations.",
@@ -7994,7 +8027,7 @@
     {
       "version": "next",
       "id": "www.communitybets.org",
-      "index": 89,
+      "index": 67,
       "title": "Community Bets",
       "subtitle": "",
       "description": "Community Bets is a platform for creating and betting on predictions on social media posts.",
@@ -8018,7 +8051,7 @@
     {
       "version": "next",
       "id": "mini-megapot.vercel.app",
-      "index": 87,
+      "index": 70,
       "title": "Mini Megapot",
       "subtitle": "",
       "description": "Play the Megapot Jackpot on Base!",
@@ -8042,7 +8075,7 @@
     {
       "version": "next",
       "id": "warpramp.link",
-      "index": 32,
+      "index": 42,
       "title": "Warp Ramp",
       "subtitle": "",
       "description": "",
@@ -8065,7 +8098,7 @@
     {
       "version": "next",
       "id": "far.store",
-      "index": 43,
+      "index": 51,
       "title": "Farstore",
       "subtitle": "",
       "description": "Farcaster App Store",
@@ -8089,7 +8122,7 @@
     {
       "version": "next",
       "id": "compu-cqs-v5.vercel.app",
-      "index": 90,
+      "index": 66,
       "title": "CQS",
       "subtitle": "",
       "description": "A simple Farcaster Frame app built with Qwik",
@@ -8112,7 +8145,7 @@
     {
       "version": "next",
       "id": "podplayv2.vercel.app",
-      "index": 7,
+      "index": 61,
       "title": "POD Play v2",
       "subtitle": "",
       "description": "Tic-Tac-Toe style game by @goldie and the POD team.",
@@ -8135,7 +8168,7 @@
     {
       "version": "next",
       "id": "simm.world",
-      "index": 91,
+      "index": 65,
       "title": "Simm",
       "subtitle": "",
       "description": "Intelligent onchain agent for Farcaster",
@@ -8157,7 +8190,7 @@
     {
       "version": "next",
       "id": "demo.neynar.com",
-      "index": 93,
+      "index": 63,
       "title": "Wownar",
       "subtitle": "",
       "description": "A demo app (powered by Neynar) that will help user to cast",
@@ -8180,7 +8213,7 @@
     {
       "version": "next",
       "id": "farhack.xyz",
-      "index": 94,
+      "index": 57,
       "title": "FarHack",
       "subtitle": "",
       "description": "The ultimate Farcaster hackathon",
@@ -8202,7 +8235,7 @@
     {
       "version": "next",
       "id": "neon-xi.vercel.app",
-      "index": 95,
+      "index": 55,
       "title": "Neon Lottery",
       "subtitle": "",
       "description": "Win ETH daily on Base Network",
@@ -8225,7 +8258,7 @@
     {
       "version": "next",
       "id": "www.themiracle.io",
-      "index": 86,
+      "index": 74,
       "title": "themiracle",
       "subtitle": "",
       "description": "theMiracle is the first platform for streamlined tracking and claiming of NFT benefits such as rewards, airdrops, giveaways, event tickets, VIP experiences and more.",
@@ -8249,7 +8282,7 @@
     {
       "version": "next",
       "id": "www.custompunks.app",
-      "index": 72,
+      "index": 14,
       "title": "CustomPunks",
       "subtitle": "",
       "description": "​​Create and customize your very own Custom Punk. Mix and match traits, colors, accessories, and backgrounds to create a Custom Punk that's uniquely yours.",
@@ -8272,7 +8305,7 @@
     {
       "version": "next",
       "id": "erew-higher.kasra.codes",
-      "index": 25,
+      "index": 54,
       "title": "EREW-HIGHER Gift Card",
       "subtitle": "",
       "description": "Buy a gift card in $HIGHER. Not in any way affiliated with Erewhon, just selling you a gift card.",
@@ -8296,7 +8329,7 @@
     {
       "version": "next",
       "id": "farchan.orbiter.website",
-      "index": 97,
+      "index": 51,
       "title": "Anime RomCom Game",
       "subtitle": "",
       "description": "",
@@ -8320,7 +8353,7 @@
     {
       "version": "next",
       "id": "wwtbam-rho.vercel.app",
-      "index": 85,
+      "index": 75,
       "title": "WWTBAM",
       "subtitle": "",
       "description": "",
@@ -8343,7 +8376,7 @@
     {
       "version": "next",
       "id": "hyphenish.com",
-      "index": 84,
+      "index": 76,
       "title": "Hyphenish",
       "subtitle": "",
       "description": "Turn text into hyphens and dashes instead of 1s and 0s. A simple binary converter with style.",
@@ -8357,7 +8390,7 @@
         "fid": 2728,
         "username": "iammatthias",
         "displayName": "matthias",
-        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ebc5f1d5-0e80-4cb4-b562-e7f069c2e100/rectcrop3",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b9230cf-125d-456e-766e-0e569deef800/original",
         "bio": "@day---break, day---break.com // nf.td/iam",
         "powerBadge": true,
         "score": 1
@@ -8367,7 +8400,7 @@
     {
       "version": "next",
       "id": "lotry-fun.vercel.app",
-      "index": 99,
+      "index": 47,
       "title": "Lotry!",
       "subtitle": "",
       "description": "Create and participate in fun lotteries!",
@@ -8391,7 +8424,7 @@
     {
       "version": "next",
       "id": "4891-103-145-224-195.ngrok-free.app",
-      "index": 39,
+      "index": 37,
       "title": "memory-match",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -8414,7 +8447,7 @@
     {
       "version": "next",
       "id": "timedright.vercel.app",
-      "index": 83,
+      "index": 38,
       "title": "timed-right",
       "subtitle": "",
       "description": "Test your precision timing skills! Press the button as close to 00.000 as possible without hitting zero.",
@@ -8437,7 +8470,7 @@
     {
       "version": "next",
       "id": "stephancill-chaingazer.vercel.app",
-      "index": 82,
+      "index": 39,
       "title": "chaingazer",
       "subtitle": "",
       "description": "Track and analyze on-chain activity across multiple networks",
@@ -8460,7 +8493,7 @@
     {
       "version": "next",
       "id": "speedtracer.xyz",
-      "index": 81,
+      "index": 42,
       "title": "speedtracer",
       "subtitle": "",
       "description": "Speedtracer is a free daily casual mobile game. Trace a racetrack as quick as you can without crashing! 🏎️💨",
@@ -8484,7 +8517,7 @@
     {
       "version": "next",
       "id": "warpcast.getchancey.com",
-      "index": 98,
+      "index": 96,
       "title": "Chancey",
       "subtitle": "",
       "description": "",
@@ -8507,7 +8540,7 @@
     {
       "version": "next",
       "id": "simulations-v2.vercel.app",
-      "index": 80,
+      "index": 43,
       "title": "Simulations",
       "subtitle": "",
       "description": "A Farcaster Frames v2 demo app.",
@@ -8530,7 +8563,7 @@
     {
       "version": "next",
       "id": "give.warpcast.com",
-      "index": 98,
+      "index": 50,
       "title": "Give",
       "subtitle": "",
       "description": "",
@@ -8553,7 +8586,7 @@
     {
       "version": "next",
       "id": "yoink.party",
-      "index": 41,
+      "index": 48,
       "title": "Yoink!",
       "subtitle": "",
       "description": "Click to yoink the flag.",
@@ -8576,7 +8609,7 @@
     {
       "version": "next",
       "id": "farquiz-game.vercel.app",
-      "index": 63,
+      "index": 2,
       "title": "FarQuiz Game",
       "subtitle": "",
       "description": "Farquest is a simple quiz game with the leaderboard between users",
@@ -8600,7 +8633,7 @@
     {
       "version": "next",
       "id": "digunakan-untuk-edit-farcaster-activity.vercel.app",
-      "index": 79,
+      "index": 46,
       "title": "Cast To Earn",
       "subtitle": "",
       "description": "Check your Farcaster activity stats and points!",
@@ -8623,7 +8656,7 @@
     {
       "version": "next",
       "id": "greece-with-grace.kasra.codes",
-      "index": 96,
+      "index": 53,
       "title": "Greece With Grace",
       "subtitle": "",
       "description": "Apply for a chance to go to Greece with Grace!",
@@ -8646,7 +8679,7 @@
     {
       "version": "next",
       "id": "recaster.org",
-      "index": 78,
+      "index": 47,
       "title": "Recaster",
       "subtitle": "",
       "description": "Recaster - a poweful farcaster client, you can control your own social experience.",
@@ -8670,7 +8703,7 @@
     {
       "version": "next",
       "id": "merv.fun",
-      "index": 76,
+      "index": 38,
       "title": "merv",
       "subtitle": "",
       "description": "merv",
@@ -8683,7 +8716,7 @@
         "fid": 1356,
         "username": "warpcastadmin.eth",
         "displayName": "borodutch",
-        "pfpUrl": "https://images.colorino.site/34b0a6f586ec618043c842a1a46a2f6eb8570173a3a2cb0cf3ec20f77939a066.png",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1be9d191-44f4-4dcb-1bc0-7538c07b9000/original",
         "bio": "cto @ bwl.gg, 100M+ users (bdut.ch) 🙏 $eggs is life",
         "powerBadge": true,
         "score": 0.92
@@ -8693,7 +8726,7 @@
     {
       "version": "next",
       "id": "radar6.xyz",
-      "index": 77,
+      "index": 49,
       "title": "RADAR6",
       "subtitle": "",
       "description": "Certified trenches tech, unlocking your next 100x. Join the waitlist now!",
@@ -8716,7 +8749,7 @@
     {
       "version": "next",
       "id": "quote.flick.ing",
-      "index": 76,
+      "index": 52,
       "title": "flicking",
       "subtitle": "",
       "description": "Generated by create next app",
@@ -8739,7 +8772,7 @@
     {
       "version": "next",
       "id": "mysphere.fun",
-      "index": 53,
+      "index": 80,
       "title": "MySphere",
       "subtitle": "",
       "description": "The onchain social Dapp on Base. Build, grow, and own your digital Sphere.",
@@ -8763,7 +8796,7 @@
     {
       "version": "next",
       "id": "minikitvibe.vercel.app",
-      "index": 75,
+      "index": 66,
       "title": "papi-kit",
       "subtitle": "",
       "description": "Create pixel art on Base",
@@ -8787,7 +8820,7 @@
     {
       "version": "next",
       "id": "podplayr.vercel.app",
-      "index": 0,
+      "index": 46,
       "title": "PODPLAYR",
       "subtitle": "",
       "description": "Listen & Watch NFTs on PODPLAYR",
@@ -8811,7 +8844,7 @@
     {
       "version": "next",
       "id": "testframed-73ds.vercel.app",
-      "index": 1,
+      "index": 45,
       "title": "Blepblopia Translator",
       "subtitle": "",
       "description": "Translate your text into Blepblopia language.",
@@ -8834,7 +8867,7 @@
     {
       "version": "next",
       "id": "beniverse.fun",
-      "index": 2,
+      "index": 44,
       "title": "BENiVERSE",
       "subtitle": "",
       "description": "Explore games, utilities, and more in the BENiVERSE!",
@@ -8858,7 +8891,7 @@
     {
       "version": "next",
       "id": "noion.eth.sucks",
-      "index": 3,
+      "index": 41,
       "title": "noion oo.oi",
       "subtitle": "",
       "description": "A project showcasing why ionoi.eth sucks.",
@@ -8881,7 +8914,7 @@
     {
       "version": "next",
       "id": "www.fameladysociety.com",
-      "index": 26,
+      "index": 27,
       "title": "Fame Lady Society",
       "subtitle": "The OG NFT Community",
       "description": "Unstoppable",
@@ -8911,7 +8944,7 @@
     {
       "version": "next",
       "id": "noexcuses.fun",
-      "index": 31,
+      "index": 73,
       "title": "No Excuses",
       "subtitle": "",
       "description": "Build habits. Lose  every time you flake. Earn the penalty pool.",
@@ -8934,7 +8967,7 @@
     {
       "version": "next",
       "id": "tileadventure.com",
-      "index": 4,
+      "index": 39,
       "title": "Tile Adventure!",
       "subtitle": "",
       "description": "A solo crafting adventure game where you discover new elements by combining tiles.",
@@ -8958,16 +8991,19 @@
     {
       "version": "next",
       "id": "www.dollarchain.xyz",
-      "index": 12,
+      "index": 62,
       "title": "DollarChain",
-      "subtitle": "",
+      "subtitle": "A social coordination game.",
       "description": "A Farcaster Mini App with authentication, notifications, and Supabase integration",
       "category": "developer-tools",
       "tags": [
         "demo",
         "auth",
         "notifications",
-        "supabase"
+        "supabase",
+        "social",
+        "game",
+        "users"
       ],
       "homeUrl": "https://www.dollarchain.xyz/",
       "iconUrl": "https://www.dollarchain.xyz/images/dollarchain-logo.png",
@@ -8988,7 +9024,7 @@
     {
       "version": "next",
       "id": "palettes.fun",
-      "index": 74,
+      "index": 68,
       "title": "Palettes",
       "subtitle": "",
       "description": "Palettes is built on Base Colors. Use the colors you own to create beautiful color palettes.",
@@ -9011,7 +9047,7 @@
     {
       "version": "next",
       "id": "baseisfor.genyframe.xyz",
-      "index": 6,
+      "index": 36,
       "title": "Base Is For...",
       "subtitle": "",
       "description": "base",
@@ -9034,7 +9070,7 @@
     {
       "version": "next",
       "id": "onchaindom--535ea6d554af475984db1d00d89e4fe7.web.val.run",
-      "index": 73,
+      "index": 69,
       "title": "Higher Gallery",
       "subtitle": "",
       "description": "A gallery of Higher channel posts",
@@ -9056,7 +9092,7 @@
     {
       "version": "next",
       "id": "gall3ry.vercel.app",
-      "index": 5,
+      "index": 37,
       "title": "GALL3RY",
       "subtitle": "",
       "description": "Explore NFT collections for Farcaster users in a beautiful gallery. Connect with Farcaster to see your friends' collections.",
@@ -9080,7 +9116,7 @@
     {
       "version": "next",
       "id": "mysticmeow.netlify.app",
-      "index": 48,
+      "index": 67,
       "title": "MysticMeow",
       "subtitle": "",
       "description": "Seek the wisdom of the cosmic feline through the crystal ball",
@@ -9127,7 +9163,7 @@
     {
       "version": "next",
       "id": "politiswap.xyz",
-      "index": 58,
+      "index": 88,
       "title": "Politiswap",
       "subtitle": "",
       "description": "Trade political tokens on Politiswap.",
@@ -9151,7 +9187,7 @@
     {
       "version": "next",
       "id": "lion-wine.vercel.app",
-      "index": 9,
+      "index": 22,
       "title": "Waitlist King",
       "subtitle": "",
       "description": "Get early access by joining our waitlist",
@@ -9174,7 +9210,7 @@
     {
       "version": "next",
       "id": "staging.streamm.tv",
-      "index": 50,
+      "index": 70,
       "title": "Streamm.TV (Staging)",
       "subtitle": "",
       "description": "",
@@ -9197,7 +9233,7 @@
     {
       "version": "next",
       "id": "xzibit.artlu.xyz",
-      "index": 7,
+      "index": 34,
       "title": "Xzibit Frames V2 for Farcaster",
       "subtitle": "",
       "description": "",
@@ -9220,7 +9256,7 @@
     {
       "version": "next",
       "id": "sillyhonk.replit.app",
-      "index": 8,
+      "index": 33,
       "title": "HONK",
       "subtitle": "",
       "description": "HONK!",
@@ -9243,7 +9279,7 @@
     {
       "version": "next",
       "id": "zoink.vercel.app",
-      "index": 9,
+      "index": 30,
       "title": "zoink",
       "subtitle": "",
       "description": "pov: someone told u to coin a pic u posted on the farcaster network",
@@ -9266,7 +9302,7 @@
     {
       "version": "next",
       "id": "lofi-green.vercel.app",
-      "index": 71,
+      "index": 74,
       "title": "lofii",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -9289,7 +9325,7 @@
     {
       "version": "next",
       "id": "fundraider.xyz",
-      "index": 10,
+      "index": 29,
       "title": "FundRaider",
       "subtitle": "",
       "description": "A V2 Frame for fundraising",
@@ -9313,7 +9349,7 @@
     {
       "version": "next",
       "id": "warped.art",
-      "index": 84,
+      "index": 65,
       "title": "Warped",
       "subtitle": "",
       "description": "Farcaster-native NFT marketplace",
@@ -9337,7 +9373,7 @@
     {
       "version": "next",
       "id": "4c.lol",
-      "index": 11,
+      "index": 25,
       "title": "4C",
       "subtitle": "",
       "description": "Turn any idea into art coins with 4C: Command, Compute, Content, Coin. Generate unique coins with instant visuals, custom tickers and relevant descriptions, then mint directly to Zora's content-as-coin ecosystem. Turn your ideas into stunning visual and tradeable assets in seconds.",
@@ -9361,7 +9397,7 @@
     {
       "version": "next",
       "id": "farcon-nyc.vercel.app",
-      "index": 6,
+      "index": 60,
       "title": "FarCon NYC",
       "subtitle": "",
       "description": "NYC's coziest corner",
@@ -9383,7 +9419,7 @@
     {
       "version": "next",
       "id": "voucher.union.finance",
-      "index": 70,
+      "index": 75,
       "title": "Voucher",
       "subtitle": "",
       "description": "Show your trust and vouch for friends",
@@ -9407,7 +9443,7 @@
     {
       "version": "next",
       "id": "rewards.warpcast.com",
-      "index": 12,
+      "index": 23,
       "title": "Rewards",
       "subtitle": "",
       "description": "Rewards",
@@ -9430,7 +9466,7 @@
     {
       "version": "next",
       "id": "linkbased.xyz",
-      "index": 69,
+      "index": 76,
       "title": "Link Based",
       "subtitle": "",
       "description": "Convert your .base.eth domain to a cool web3 profile",
@@ -9453,7 +9489,7 @@
     {
       "version": "next",
       "id": "mint-demo.replit.app",
-      "index": 68,
+      "index": 78,
       "title": "Mint Demo",
       "subtitle": "",
       "description": "",
@@ -9476,7 +9512,7 @@
     {
       "version": "next",
       "id": "acc5-103-145-224-195.ngrok-free.app",
-      "index": 65,
+      "index": 82,
       "title": "memory-match",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -9499,7 +9535,7 @@
     {
       "version": "next",
       "id": "ballframe.vercel.app",
-      "index": 16,
+      "index": 28,
       "title": "Ball frame",
       "subtitle": "",
       "description": "See how many hoops you can score",
@@ -9521,7 +9557,7 @@
     {
       "version": "next",
       "id": "minesweeper-frame-fox-tales.vercel.app",
-      "index": 67,
+      "index": 79,
       "title": "Minesweeper",
       "subtitle": "",
       "description": "The classic puzzle game in a Farcaster Frame.",
@@ -9544,7 +9580,7 @@
     {
       "version": "next",
       "id": "carousel-images-five.vercel.app",
-      "index": 15,
+      "index": 19,
       "title": "Farshot",
       "subtitle": "",
       "description": "Share epic images on Farcaster",
@@ -9567,7 +9603,7 @@
     {
       "version": "next",
       "id": "mon-far-app.vercel.app",
-      "index": 82,
+      "index": 40,
       "title": "Monad Farcaster Happy Vote",
       "subtitle": "",
       "description": "Happy World App - just vote",
@@ -9599,7 +9635,7 @@
     {
       "version": "next",
       "id": "getinevitable.com",
-      "index": 66,
+      "index": 81,
       "title": "INEVITABLE",
       "subtitle": "",
       "description": "",
@@ -9622,7 +9658,7 @@
     {
       "version": "next",
       "id": "stevedylan.dev",
-      "index": 13,
+      "index": 21,
       "title": "stevedylan.dev",
       "subtitle": "",
       "description": "DX Engineer | Building Orbiter",
@@ -9646,7 +9682,7 @@
     {
       "version": "next",
       "id": "miniapp.crosscaster.com",
-      "index": 30,
+      "index": 72,
       "title": "crosscaster",
       "subtitle": "",
       "description": "Compose and crosspost between Farcaster and Twitter",
@@ -9669,7 +9705,7 @@
     {
       "version": "next",
       "id": "dd56-103-145-224-195.ngrok-free.app",
-      "index": 88,
+      "index": 92,
       "title": "memory-match",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -9692,7 +9728,7 @@
     {
       "version": "next",
       "id": "coincanvas.buildweekends.com",
-      "index": 87,
+      "index": 90,
       "title": "Coin Canvas",
       "subtitle": "",
       "description": "",
@@ -9715,7 +9751,7 @@
     {
       "version": "next",
       "id": "guess-who.kasra.codes",
-      "index": 89,
+      "index": 97,
       "title": "Guess who",
       "subtitle": "",
       "description": "The Farcaster Friendship Guessing Game",
@@ -9739,7 +9775,7 @@
     {
       "version": "next",
       "id": "app.degen.tips",
-      "index": 34,
+      "index": 98,
       "title": "Degen",
       "subtitle": "",
       "description": "We are the Decentralized Generation.",
@@ -9762,7 +9798,7 @@
     {
       "version": "next",
       "id": "arrows.art",
-      "index": 90,
+      "index": 27,
       "title": "Arrows",
       "subtitle": "",
       "description": "Up and to the right.",
@@ -9785,7 +9821,7 @@
     {
       "version": "next",
       "id": "basenames.apoorv.xyz",
-      "index": 91,
+      "index": 28,
       "title": "Basenames",
       "subtitle": "",
       "description": "Register your .base.eth name easily through this Farcaster mini-app",
@@ -9808,7 +9844,7 @@
     {
       "version": "next",
       "id": "chat.recoupable.com",
-      "index": 35,
+      "index": 26,
       "title": "Recoup",
       "subtitle": "",
       "description": "Recoup is an AI agent platform for smarter song rollouts, unforgettable fan experiences, and lasting artist growth. Empowering music executives with actionable insights and next-gen tools.",
@@ -9832,7 +9868,7 @@
     {
       "version": "next",
       "id": "siadude.freecast.xyz",
-      "index": 35,
+      "index": 43,
       "title": "siadude.freecast.xyz",
       "subtitle": "",
       "description": "siadude's freecast frame",
@@ -9855,7 +9891,7 @@
     {
       "version": "next",
       "id": "han.metopia.xyz",
-      "index": 65,
+      "index": 4,
       "title": "Farcademy",
       "subtitle": "",
       "description": "Metopia pioneers verifiable credentials, an interactive Web3 academy, and reputation-based raffles/opportunities. Build, learn, and earn in a decentralized ecosystem.",
@@ -9879,7 +9915,7 @@
     {
       "version": "next",
       "id": "ponz.acgk.dev",
-      "index": 59,
+      "index": 89,
       "title": "The-Ponz",
       "subtitle": "",
       "description": "The last one in wins it all.",
@@ -9902,7 +9938,7 @@
     {
       "version": "next",
       "id": "hellnoeth-hellno-s-farewell.vercel.app",
-      "index": 92,
+      "index": 46,
       "title": "hellno's journey to farcon nyc",
       "subtitle": "",
       "description": "Fundraising to support hellno's journey from the land of Europooors to Farcon NYC",
@@ -9926,7 +9962,7 @@
     {
       "version": "next",
       "id": "compu-borg-boost.vercel.app",
-      "index": 93,
+      "index": 47,
       "title": "Borg Boost",
       "subtitle": "",
       "description": "A simple Farcaster Frame app built with Qwik",
@@ -9949,7 +9985,7 @@
     {
       "version": "next",
       "id": "compu-swap-demo.vercel.app",
-      "index": 94,
+      "index": 48,
       "title": "Frames v2 Demo",
       "subtitle": "",
       "description": "A Farcaster Frames v2 demo app.",
@@ -9972,7 +10008,7 @@
     {
       "version": "next",
       "id": "farsideradio.xyz",
-      "index": 95,
+      "index": 49,
       "title": "farSide Radio",
       "subtitle": "",
       "description": "Your personal farcaster radio station",
@@ -9995,7 +10031,7 @@
     {
       "version": "next",
       "id": "alchemy-lfmb.vercel.app",
-      "index": 96,
+      "index": 50,
       "title": "Alchemy Game",
       "subtitle": "",
       "description": "Combine Water, Fire, Earth, and Air to discover new items.",
@@ -10018,7 +10054,7 @@
     {
       "version": "next",
       "id": "ayan-ecru.vercel.app",
-      "index": 74,
+      "index": 17,
       "title": "Are you an NPC?",
       "subtitle": "",
       "description": "Are you?",
@@ -10041,7 +10077,7 @@
     {
       "version": "next",
       "id": "gm.inkonchain.com",
-      "index": 64,
+      "index": 3,
       "title": "Tap to GM",
       "subtitle": "",
       "description": "Check in daily, collect GM streaks, and connect with the community! Send and receive GMs to climb the leaderboard. Don't break your streak - tap to GM now!",
@@ -10064,7 +10100,7 @@
     {
       "version": "next",
       "id": "warpboard.lopezonchain.xyz",
-      "index": 54,
+      "index": 83,
       "title": "WarpBoard",
       "subtitle": "",
       "description": "WarpBoard, the best message board!",
@@ -10087,7 +10123,7 @@
     {
       "version": "next",
       "id": "fanciful-tiramisu-05f4ca.netlify.app",
-      "index": 73,
+      "index": 13,
       "title": "Unbored Sudoku",
       "subtitle": "",
       "description": "Cure your boredom with Sudoku",
@@ -10110,7 +10146,7 @@
     {
       "version": "next",
       "id": "fargallery.replit.app",
-      "index": 74,
+      "index": 91,
       "title": "fargallery",
       "subtitle": "",
       "description": "farcaster gallery",
@@ -10133,7 +10169,7 @@
     {
       "version": "next",
       "id": "openrank.genyframe.xyz",
-      "index": 69,
+      "index": 8,
       "title": "OpenRank Stats",
       "subtitle": "",
       "description": "OpenRank is a decentralized ranking and reputation protocol.",
@@ -10155,7 +10191,7 @@
     {
       "version": "next",
       "id": "gmfren.lol",
-      "index": 75,
+      "index": 14,
       "title": "gmfren",
       "subtitle": "",
       "description": "gm like you  mean it",
@@ -10178,7 +10214,7 @@
     {
       "version": "next",
       "id": "chowcoach.io",
-      "index": 76,
+      "index": 15,
       "title": "Chow Coach",
       "subtitle": "",
       "description": "Track calories, log food, and improve your nutrition with Chow Coach",
@@ -10194,14 +10230,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0f8a612-6bfd-47e9-3383-6942e3469600/original",
         "bio": "Dev is Bullish Building Onchain Calorie Tracking AI on \n@Base\n Documenting the build journey day by day, from complete noob in AI to AI chad",
         "powerBadge": false,
-        "score": 0.51
+        "score": 0.52
       },
       "indexedAt": 1746911893
     },
     {
       "version": "next",
       "id": "moxie-cast-stats-frame.vercel.app",
-      "index": 68,
+      "index": 7,
       "title": "Cast Earnings Stats Frame",
       "subtitle": "",
       "description": "Track the $Moxie and $Degen Earnings of Your Latest Casts",
@@ -10223,7 +10259,7 @@
     {
       "version": "next",
       "id": "backcom.xyz",
-      "index": 60,
+      "index": 63,
       "title": "Backcom",
       "subtitle": "",
       "description": "Backcom - Optimize your crypto trading rewards",
@@ -10247,7 +10283,7 @@
     {
       "version": "next",
       "id": "drawcaster.kylebanta.com",
-      "index": 56,
+      "index": 81,
       "title": "Drawcaster",
       "subtitle": "",
       "description": "Draw pictures and guess what others have drawn",
@@ -10271,7 +10307,7 @@
     {
       "version": "next",
       "id": "bitcoincrazypong.xyz",
-      "index": 5,
+      "index": 59,
       "title": "Bitcoin Crazy Pong",
       "subtitle": "",
       "description": "A Farcaster Bitcoin Pong",
@@ -10294,7 +10330,7 @@
     {
       "version": "next",
       "id": "htmx-rust-gemini-production.up.railway.app",
-      "index": 77,
+      "index": 27,
       "title": "TODO",
       "subtitle": "",
       "description": "",
@@ -10318,7 +10354,7 @@
     {
       "version": "next",
       "id": "castcoins.xyz",
-      "index": 4,
+      "index": 58,
       "title": "CastCoins",
       "subtitle": "",
       "description": "Turn Farcaster casts into tradable coins with one reply – monetize social content instantly on Base.",
@@ -10342,7 +10378,7 @@
     {
       "version": "next",
       "id": "mini.ump-eth.xyz",
-      "index": 3,
+      "index": 57,
       "title": "UMP.eth",
       "subtitle": "",
       "description": "UMP.eth farcaster mini-app",
@@ -10365,7 +10401,7 @@
     {
       "version": "next",
       "id": "carochess.vercel.app",
-      "index": 48,
+      "index": 21,
       "title": "tic-tac-toe",
       "subtitle": "",
       "description": "A Farcaster mini-app created with Neynar",
@@ -10388,7 +10424,7 @@
     {
       "version": "next",
       "id": "nitecity.github.io",
-      "index": 78,
+      "index": 40,
       "title": "Best Bid Ask",
       "subtitle": "",
       "description": "",
@@ -10411,7 +10447,7 @@
     {
       "version": "next",
       "id": "jancok.freecast.xyz",
-      "index": 79,
+      "index": 43,
       "title": "jancok.freecast.xyz",
       "subtitle": "",
       "description": "jancok's freecast frame",
@@ -10434,7 +10470,7 @@
     {
       "version": "next",
       "id": "app.vaults.fyi",
-      "index": 2,
+      "index": 56,
       "title": "Vaults.fyi",
       "subtitle": "",
       "description": "Get personalized DeFi yield recommendations based on your portfolio. Compare verified APY rates across top protocols like Aave, Compound, and Morpho. Start earning more from your crypto assets today.",
@@ -10458,7 +10494,7 @@
     {
       "version": "next",
       "id": "yapyap.space",
-      "index": 80,
+      "index": 58,
       "title": "yapyap",
       "subtitle": "",
       "description": "Join the Yap Space",
@@ -10481,7 +10517,7 @@
     {
       "version": "next",
       "id": "nft-factory.kasra.codes",
-      "index": 81,
+      "index": 61,
       "title": "NFT Factory",
       "subtitle": "",
       "description": "Create your own NFT collection",
@@ -10504,7 +10540,7 @@
     {
       "version": "next",
       "id": "poop1234.freecast.xyz",
-      "index": 82,
+      "index": 69,
       "title": "poop1234.freecast.xyz",
       "subtitle": "",
       "description": "poop1234's freecast frame",
@@ -10527,7 +10563,7 @@
     {
       "version": "next",
       "id": "unimon.app",
-      "index": 83,
+      "index": 37,
       "title": "Unimon",
       "subtitle": "",
       "description": "The first NFT in a Uniswap V4 hook! 🦄 ✨",
@@ -10550,7 +10586,7 @@
     {
       "version": "next",
       "id": "reward.wtf",
-      "index": 11,
+      "index": 24,
       "title": "REWARD",
       "subtitle": "",
       "description": "is its own play",
@@ -10574,7 +10610,7 @@
     {
       "version": "next",
       "id": "compu-frame-host.vercel.app",
-      "index": 99,
+      "index": 53,
       "title": "Yoink!",
       "subtitle": "",
       "description": "Farcaster Frame Host",
@@ -10597,7 +10633,7 @@
     {
       "version": "next",
       "id": "catch-the-hat.vercel.app",
-      "index": 52,
+      "index": 73,
       "title": "Catch the Hat",
       "subtitle": "",
       "description": "Catch the Hat",
@@ -10620,7 +10656,7 @@
     {
       "version": "next",
       "id": "dtech.vision",
-      "index": 62,
+      "index": 0,
       "title": "dTech Farcaster Boutique",
       "subtitle": "",
       "description": "The premier Farcaster development boutique excelling in product thinking and development services.",
@@ -10644,7 +10680,7 @@
     {
       "version": "next",
       "id": "1086-103-145-224-195.ngrok-free.app",
-      "index": 85,
+      "index": 64,
       "title": "memory-match",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -10667,7 +10703,7 @@
     {
       "version": "next",
       "id": "bingominiapp.netlify.app",
-      "index": 47,
+      "index": 22,
       "title": "Bingo MiniApp",
       "subtitle": "",
       "description": "",
@@ -10690,7 +10726,7 @@
     {
       "version": "next",
       "id": "jack-frame.vercel.app",
-      "index": 46,
+      "index": 24,
       "title": "Jack's Resume Bot",
       "subtitle": "",
       "description": "",
@@ -10713,7 +10749,7 @@
     {
       "version": "next",
       "id": "blakarmory.freecast.xyz",
-      "index": 44,
+      "index": 29,
       "title": "blakarmory.freecast.xyz",
       "subtitle": "",
       "description": "blakarmory's freecast frame",
@@ -10736,7 +10772,7 @@
     {
       "version": "next",
       "id": "www.cast2earn.fun",
-      "index": 34,
+      "index": 45,
       "title": "Cast To Earn",
       "subtitle": "",
       "description": "Check your Farcaster activity stats and points!",
@@ -10759,7 +10795,7 @@
     {
       "version": "next",
       "id": "basketball-cocos.netlify.app",
-      "index": 43,
+      "index": 31,
       "title": "BasketBall",
       "subtitle": "",
       "description": "",
@@ -10775,14 +10811,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc68ccc9-8eb9-40fd-010b-0d4b1ea39000/rectcrop3",
         "bio": "Developer | Cricket | Anime",
         "powerBadge": false,
-        "score": 0.58
+        "score": 0.56
       },
       "indexedAt": 1746911893
     },
     {
       "version": "next",
       "id": "wb6x2n43a3nt6.mocha.app",
-      "index": 42,
+      "index": 34,
       "title": "ETH Balance Checker",
       "subtitle": "",
       "description": "Greet the globe with effortless simplicity using Hello Worldly – the no-brainer hello world web app for rapid global connection.",
@@ -10806,7 +10842,7 @@
     {
       "version": "next",
       "id": "chng.pages.dev",
-      "index": 86,
+      "index": 77,
       "title": "Big Chungus",
       "subtitle": "",
       "description": "A big memecoin for everyone.",
@@ -10829,7 +10865,7 @@
     {
       "version": "next",
       "id": "decashback.xyz",
-      "index": 17,
+      "index": 31,
       "title": "Decashback",
       "subtitle": "",
       "description": "Decashback - Optimize your crypto trading rewards",
@@ -10853,7 +10889,7 @@
     {
       "version": "next",
       "id": "catify-me.netlify.app",
-      "index": 8,
+      "index": 16,
       "title": "Catify Me",
       "subtitle": "",
       "description": "Discover your feline aura and spiritual energy",
@@ -10876,7 +10912,7 @@
     {
       "version": "next",
       "id": "hot.cast.money",
-      "index": 81,
+      "index": 39,
       "title": "hot tokens",
       "subtitle": "",
       "description": "the alpha is in your social graph",
@@ -10900,7 +10936,7 @@
     {
       "version": "next",
       "id": "based-mena.vercel.app",
-      "index": 41,
+      "index": 35,
       "title": "based mena",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -10923,7 +10959,7 @@
     {
       "version": "next",
       "id": "basedchess.xyz",
-      "index": 40,
+      "index": 36,
       "title": "Chess",
       "subtitle": "",
       "description": "Chess onchain",
@@ -10945,7 +10981,7 @@
     {
       "version": "next",
       "id": "accountable.megabyte0x.xyz",
-      "index": 84,
+      "index": 85,
       "title": "accountable",
       "subtitle": "",
       "description": "Get yourself accountable!",
@@ -10968,7 +11004,7 @@
     {
       "version": "next",
       "id": "coinspark.vercel.app",
-      "index": 97,
+      "index": 51,
       "title": "CoinSpark",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -10991,7 +11027,7 @@
     {
       "version": "next",
       "id": "frame.quid.li",
-      "index": 26,
+      "index": 56,
       "title": "Quidli",
       "subtitle": "",
       "description": "Drop tokens to channels, cast, followers, all in a single tx",
@@ -11015,7 +11051,7 @@
     {
       "version": "next",
       "id": "base-image-generator.vercel.app",
-      "index": 37,
+      "index": 41,
       "title": "gpt-image-1",
       "subtitle": "",
       "description": "gpt-image-1 - A MiniKit App",
@@ -11038,7 +11074,7 @@
     {
       "version": "next",
       "id": "meme-vibe.vercel.app",
-      "index": 46,
+      "index": 55,
       "title": "Meme Vibe",
       "subtitle": "",
       "description": "",
@@ -11061,14 +11097,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/22b58d31-347f-4d05-9ef5-e5846e594600/rectcrop3",
         "bio": "Contributing to the growth of Blockchain technology and decentralization.",
         "powerBadge": false,
-        "score": 0.24
+        "score": 0.22
       },
       "indexedAt": 1746911893
     },
     {
       "version": "next",
       "id": "fc.astagereborn.com",
-      "index": 36,
+      "index": 42,
       "title": "A Stage Reborn",
       "subtitle": "",
       "description": "A Stage Reborn™ is a 501(c)(3) public benefit nonprofit making arts more accessible.",
@@ -11092,7 +11128,7 @@
     {
       "version": "next",
       "id": "create.myeverlink.app",
-      "index": 24,
+      "index": 52,
       "title": "Everlink",
       "subtitle": "",
       "description": "Description about Everlink",
@@ -11115,7 +11151,7 @@
     {
       "version": "next",
       "id": "launch.telcast.xyz",
-      "index": 85,
+      "index": 87,
       "title": "CastLaunch",
       "subtitle": "",
       "description": "CastLaunch",
@@ -11138,7 +11174,7 @@
     {
       "version": "next",
       "id": "kingcoin.online",
-      "index": 86,
+      "index": 88,
       "title": "Kingcoin",
       "subtitle": "",
       "description": "Merge, Collect, and Earn in this addictive blockchain game!",
@@ -11162,7 +11198,7 @@
     {
       "version": "next",
       "id": "www.dankr.app",
-      "index": 87,
+      "index": 90,
       "title": "Dankr",
       "subtitle": "",
       "description": "A trust layer for Base. Social signal, onchain scoring, and token insights—coming soon to your phone.",
@@ -11185,7 +11221,7 @@
     {
       "version": "next",
       "id": "app.astroblock.xyz",
-      "index": 89,
+      "index": 91,
       "title": "Astroblock",
       "subtitle": "",
       "description": "Shoot to earn",
@@ -11208,7 +11244,7 @@
     {
       "version": "next",
       "id": "farcaster.usequotient.xyz",
-      "index": 88,
+      "index": 92,
       "title": "Quotient",
       "subtitle": "",
       "description": "/",
@@ -11231,7 +11267,7 @@
     {
       "version": "next",
       "id": "app.tapbaseapp.com",
-      "index": 90,
+      "index": 93,
       "title": "TapBase",
       "subtitle": "",
       "description": "Discover and mint NFTs easily on Base network.",
@@ -11253,7 +11289,7 @@
     {
       "version": "next",
       "id": "www.paperview.media",
-      "index": 9,
+      "index": 5,
       "title": "Paperview",
       "subtitle": "Your content. Your price",
       "description": "Upload, share, earn instantly",
@@ -11276,14 +11312,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/00c5455a-33f4-4287-28f8-2537443c0000/original",
         "bio": "Exclusive content from 1¢ to $1M | paperview.media",
         "powerBadge": false,
-        "score": 0.65
+        "score": 0.66
       },
       "indexedAt": 1746911893
     },
     {
       "version": "next",
       "id": "sign-card-matching.vercel.app",
-      "index": 30,
+      "index": 32,
       "title": "Sign Card Games",
       "subtitle": "",
       "description": "A memory card matching game to show the love to the Sign team. Game result can be attested on Sign Protocol.",
@@ -11307,7 +11343,7 @@
     {
       "version": "next",
       "id": "zoraspiral.lopezonchain.xyz",
-      "index": 91,
+      "index": 94,
       "title": "Zora Spiral 💫",
       "subtitle": "",
       "description": "Zora Spiral: discover, share TOP Zora tokens.",
@@ -11331,7 +11367,7 @@
     {
       "version": "next",
       "id": "forum-example.canvas.xyz",
-      "index": 92,
+      "index": 95,
       "title": "Example Frame",
       "subtitle": "",
       "description": "",
@@ -11354,7 +11390,7 @@
     {
       "version": "next",
       "id": "smol-frame.vercel.app",
-      "index": 94,
+      "index": 97,
       "title": "Smol Frame",
       "subtitle": "",
       "description": "Simple, smart and elegant dapps, designed to make your crypto journey a little bit easier.",
@@ -11378,7 +11414,7 @@
     {
       "version": "next",
       "id": "www.minimap.club",
-      "index": 32,
+      "index": 77,
       "title": "Minimap",
       "subtitle": "",
       "description": "Location sharing app with Chatty and Ghosting modes",
@@ -11402,7 +11438,7 @@
     {
       "version": "next",
       "id": "ai.monaverse.com",
-      "index": 79,
+      "index": 56,
       "title": "MONA AI",
       "subtitle": "Ideas into 3D Art in Seconds",
       "description": "Turn ideas into 3D Art in seconds",
@@ -11432,7 +11468,7 @@
     {
       "version": "next",
       "id": "secondorder.fun",
-      "index": 96,
+      "index": 99,
       "title": "SecondOrder.fun",
       "subtitle": "",
       "description": "",
@@ -11456,7 +11492,7 @@
     {
       "version": "next",
       "id": "anky.bot",
-      "index": 97,
+      "index": 0,
       "title": "Anky",
       "subtitle": "",
       "description": "",
@@ -11479,7 +11515,7 @@
     {
       "version": "next",
       "id": "clankedstamp.vercel.app",
-      "index": 93,
+      "index": 96,
       "title": "Clanked Stamp",
       "subtitle": "",
       "description": "Clanked Stamp is a Stamp NFT that can be used to claim Clanked project rewards obtained from Clanker Protocol and the total supply is only 3333 items.",
@@ -11502,7 +11538,7 @@
     {
       "version": "next",
       "id": "bec.watch",
-      "index": 98,
+      "index": 1,
       "title": "bec.watch",
       "subtitle": "",
       "description": "a log of all the bacon egg and cheese sandwiches i eat",
@@ -11525,7 +11561,7 @@
     {
       "version": "next",
       "id": "www.rssemble.com",
-      "index": 2,
+      "index": 5,
       "title": "RSSemble",
       "subtitle": "",
       "description": "A collorative RSS feed for Farcaster. Read your favorite Farcasters and add new feeds.",
@@ -11549,7 +11585,7 @@
     {
       "version": "next",
       "id": "farma.vrypan.net",
-      "index": 99,
+      "index": 4,
       "title": "farma",
       "subtitle": "",
       "description": "Farcaster notification server",
@@ -11572,7 +11608,7 @@
     {
       "version": "next",
       "id": "okcoinit.orbiter.website",
-      "index": 0,
+      "index": 3,
       "title": "okcoinit",
       "subtitle": "",
       "description": "",
@@ -11585,7 +11621,7 @@
         "fid": 2728,
         "username": "iammatthias",
         "displayName": "matthias",
-        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ebc5f1d5-0e80-4cb4-b562-e7f069c2e100/rectcrop3",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b9230cf-125d-456e-766e-0e569deef800/original",
         "bio": "@day---break, day---break.com // nf.td/iam",
         "powerBadge": true,
         "score": 1
@@ -11595,7 +11631,7 @@
     {
       "version": "next",
       "id": "bicepblaster.orbiter.website",
-      "index": 1,
+      "index": 2,
       "title": "Bicep Blaster",
       "subtitle": "",
       "description": "",
@@ -11618,7 +11654,7 @@
     {
       "version": "next",
       "id": "frames.flashsoft.eu",
-      "index": 3,
+      "index": 6,
       "title": "SveleteKit Starter Mini-App",
       "subtitle": "",
       "description": "Mini app starter for SvelteKit using Farcaster, 2 demo apps are included",
@@ -11642,7 +11678,7 @@
     {
       "version": "next",
       "id": "idea.genyframe.xyz",
-      "index": 5,
+      "index": 8,
       "title": "Idea",
       "subtitle": "",
       "description": "Ideas",
@@ -11665,7 +11701,7 @@
     {
       "version": "next",
       "id": "your-collectible-megabytes-projects.vercel.app",
-      "index": 4,
+      "index": 7,
       "title": "Your Collectible",
       "subtitle": "",
       "description": "Generate your collectible!",
@@ -11688,7 +11724,7 @@
     {
       "version": "next",
       "id": "vibe-hole.vercel.app",
-      "index": 6,
+      "index": 9,
       "title": "Vibe Hole",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -11711,7 +11747,7 @@
     {
       "version": "next",
       "id": "v0-hoodie-shop.vercel.app",
-      "index": 7,
+      "index": 10,
       "title": "my-minikit-app",
       "subtitle": "",
       "description": "Premium streetwear and comfortable hoodies",
@@ -11734,7 +11770,7 @@
     {
       "version": "next",
       "id": "steventhelawnmoaner.vercel.app",
-      "index": 8,
+      "index": 11,
       "title": "Steven the Lawn Moaner",
       "subtitle": "",
       "description": "Check your Lawn Points balance and see who's leading the pack!",
@@ -11757,7 +11793,7 @@
     {
       "version": "next",
       "id": "my-mini-batches-social.vercel.app",
-      "index": 9,
+      "index": 12,
       "title": "my-mini-batches-social",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -11781,7 +11817,7 @@
     {
       "version": "next",
       "id": "miniapp.fitclub.tech",
-      "index": 10,
+      "index": 13,
       "title": "Fit Club",
       "subtitle": "",
       "description": "Walk, compete, and earn on your onchain fitness journey.",
@@ -11805,7 +11841,7 @@
     {
       "version": "next",
       "id": "astro-frame.vercel.app",
-      "index": 12,
+      "index": 15,
       "title": "AstroFrame",
       "subtitle": "",
       "description": "A perfect frame to get your daily predictions.",
@@ -11828,7 +11864,7 @@
     {
       "version": "next",
       "id": "my-mini-zora.vercel.app",
-      "index": 13,
+      "index": 16,
       "title": "my-mini-zora",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -11851,7 +11887,7 @@
     {
       "version": "next",
       "id": "castorage.xyz",
-      "index": 14,
+      "index": 17,
       "title": "Castorage",
       "subtitle": "",
       "description": "Your Farcaster storage assistant",
@@ -11873,9 +11909,9 @@
     {
       "version": "next",
       "id": "dixel.club",
-      "index": 15,
+      "index": 80,
       "title": "Dixel Club",
-      "subtitle": "",
+      "subtitle": "Create fully onchain pixel NFT",
       "description": "Launch your NFT collections in minutes. Other users can mint various color editions following the genesis edition.",
       "homeUrl": "https://dixel.club",
       "iconUrl": "https://dixel.club/dixel-frame-logo.png",
@@ -11891,12 +11927,21 @@
         "powerBadge": false,
         "score": 0.77
       },
-      "indexedAt": 1746911893
+      "indexedAt": 1746911893,
+      "category": "art-creativity",
+      "tags": [
+        "pixelart",
+        "membership",
+        "nftsalon",
+        "pfp",
+        "creator"
+      ],
+      "screenshotUrls": []
     },
     {
       "version": "next",
       "id": "mtdv.orbiter.website",
-      "index": 16,
+      "index": 18,
       "title": "Sacred Hall of Whispers",
       "subtitle": "",
       "description": "Where the realm's destiny is carved by the hands of its vassals! Pledge fealty to the $MTDV Empire.",
@@ -11919,7 +11964,7 @@
     {
       "version": "next",
       "id": "cat.town",
-      "index": 17,
+      "index": 19,
       "title": "Cat Town",
       "subtitle": "",
       "description": "Your cozy onchain home",
@@ -11942,7 +11987,7 @@
     {
       "version": "next",
       "id": "my-first-mini-app.vercel.app",
-      "index": 19,
+      "index": 21,
       "title": "Vibe projects",
       "subtitle": "",
       "description": "A directory of Vibe projects",
@@ -11965,7 +12010,7 @@
     {
       "version": "next",
       "id": "blog.vrypan.net",
-      "index": 21,
+      "index": 23,
       "title": "blog.vrypan.net",
       "subtitle": "",
       "description": "a personal blog.",
@@ -11989,7 +12034,7 @@
     {
       "version": "next",
       "id": "barabazs.dev",
-      "index": 22,
+      "index": 24,
       "title": "Barabazs's Blog",
       "subtitle": "",
       "description": "",
@@ -12013,7 +12058,7 @@
     {
       "version": "next",
       "id": "app.funquotes.xyz",
-      "index": 24,
+      "index": 26,
       "title": "FunQuotes",
       "subtitle": "",
       "description": "Create and share quotes with your friends.",
@@ -12037,7 +12082,7 @@
     {
       "version": "next",
       "id": "celo-projects.vercel.app",
-      "index": 23,
+      "index": 25,
       "title": "Celo Projects",
       "subtitle": "",
       "description": "Get live projects being built on celo on the go",
@@ -12060,7 +12105,7 @@
     {
       "version": "next",
       "id": "cura.openrank.com",
-      "index": 72,
+      "index": 62,
       "title": "Cura",
       "subtitle": "",
       "description": "",
@@ -12082,7 +12127,7 @@
     {
       "version": "next",
       "id": "cb20.fun",
-      "index": 26,
+      "index": 28,
       "title": "C&B20(Clankers & Builders 20)",
       "subtitle": "",
       "description": "A community-driven token index protocol with DAO governance",
@@ -12106,7 +12151,7 @@
     {
       "version": "next",
       "id": "petfight.netlify.app",
-      "index": 27,
+      "index": 29,
       "title": "Pet Me",
       "subtitle": "",
       "description": "Discover your feline aura and spiritual energy",
@@ -12129,7 +12174,7 @@
     {
       "version": "next",
       "id": "brnd.land",
-      "index": 45,
+      "index": 41,
       "title": "BRND",
       "subtitle": "",
       "description": "BRND is the one-stop playable billboard for brands in the Farcaster Landscape. Discover, rate, and rank your favorite brands, and participate in the community through gamification.",
@@ -12153,7 +12198,7 @@
     {
       "version": "next",
       "id": "colors.raidguild.org",
-      "index": 28,
+      "index": 30,
       "title": "Raid Colors",
       "subtitle": "",
       "description": "A Decentralized Collective of Colors Ready to Slay Your Web3 Product Demons.",
@@ -12176,7 +12221,7 @@
     {
       "version": "next",
       "id": "www.rebelbunny.com",
-      "index": 29,
+      "index": 32,
       "title": "Rebel Bunny",
       "subtitle": "",
       "description": "Rebel Bunny offers a custom blend of premium ceremonial matcha from Kyoto, Japan. Incredibly fresh, stone-milled matcha, delivered to your door.",
@@ -12199,7 +12244,7 @@
     {
       "version": "next",
       "id": "orbz.fun",
-      "index": 30,
+      "index": 31,
       "title": "Example Frame",
       "subtitle": "",
       "description": "Explore orbits on orbiter.host",
@@ -12212,7 +12257,7 @@
         "fid": 2728,
         "username": "iammatthias",
         "displayName": "matthias",
-        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ebc5f1d5-0e80-4cb4-b562-e7f069c2e100/rectcrop3",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b9230cf-125d-456e-766e-0e569deef800/original",
         "bio": "@day---break, day---break.com // nf.td/iam",
         "powerBadge": true,
         "score": 1
@@ -12222,7 +12267,7 @@
     {
       "version": "next",
       "id": "www.builderscore.xyz",
-      "index": 20,
+      "index": 71,
       "title": "Builder Rewards",
       "subtitle": "",
       "description": "Weekly Rewards for the most impactful builders.",
@@ -12245,7 +12290,7 @@
     {
       "version": "next",
       "id": "tariff-daddy.vercel.app",
-      "index": 32,
+      "index": 34,
       "title": "TariffDaddy",
       "subtitle": "",
       "description": "Play the USA-China Trade War",
@@ -12269,7 +12314,7 @@
     {
       "version": "next",
       "id": "wearethe--art.vercel.app",
-      "index": 40,
+      "index": 45,
       "title": "We Are The Art",
       "subtitle": "",
       "description": "Explore & Join We Are The Art",
@@ -12293,7 +12338,7 @@
     {
       "version": "next",
       "id": "imagine.community",
-      "index": 66,
+      "index": 5,
       "title": "$imagine",
       "subtitle": "",
       "description": "!!!",
@@ -12316,7 +12361,7 @@
     {
       "version": "next",
       "id": "blotterfi.xyz",
-      "index": 33,
+      "index": 35,
       "title": "BlotterFi",
       "subtitle": "",
       "description": "",
@@ -12370,7 +12415,7 @@
     {
       "version": "next",
       "id": "badges.miniapps.zone",
-      "index": 35,
+      "index": 38,
       "title": "badges",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -12393,7 +12438,7 @@
     {
       "version": "next",
       "id": "ensify.vercel.app",
-      "index": 22,
+      "index": 21,
       "title": "ENSify",
       "subtitle": "",
       "description": "Your go to hub for viral ENS steals",
@@ -12416,7 +12461,7 @@
     {
       "version": "next",
       "id": "borg-self-tools.vercel.app",
-      "index": 36,
+      "index": 39,
       "title": "cqs",
       "subtitle": "",
       "description": "A Borg app.",
@@ -12439,7 +12484,7 @@
     {
       "version": "next",
       "id": "huntquest.vercel.app",
-      "index": 38,
+      "index": 41,
       "title": "Hunt Quest",
       "subtitle": "",
       "description": "Hunt Quest is the one stop knowledge station for Hunt Town",
@@ -12462,7 +12507,7 @@
     {
       "version": "next",
       "id": "deepspace.orbiter.host",
-      "index": 39,
+      "index": 42,
       "title": "Deep Space",
       "subtitle": "",
       "description": "Mini App Hackathon by Orbiter",
@@ -12485,7 +12530,7 @@
     {
       "version": "next",
       "id": "www.mini-meditation.link",
-      "index": 40,
+      "index": 43,
       "title": "mini-headspace",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -12508,7 +12553,7 @@
     {
       "version": "next",
       "id": "onchainacid.art",
-      "index": 41,
+      "index": 45,
       "title": "Onchain Acid",
       "subtitle": "",
       "description": "",
@@ -12531,7 +12576,7 @@
     {
       "version": "next",
       "id": "www.thefalsenine.xyz",
-      "index": 23,
+      "index": 13,
       "title": "Falsenine",
       "subtitle": "Bringing football onchain",
       "description": "Onchain football publication bringing the beautiful game onchain.",
@@ -12561,7 +12606,7 @@
     {
       "version": "next",
       "id": "airdrop.ham.cooking",
-      "index": 13,
+      "index": 99,
       "title": "Airdrop",
       "subtitle": "Airdrop Extravaganza",
       "description": "Airdrop anything to your favorite casters and contracts!",
@@ -12592,7 +12637,7 @@
     {
       "version": "next",
       "id": "farcaster-miniapp-template.vercel.app",
-      "index": 44,
+      "index": 48,
       "title": "Vibes Engineering App Template",
       "subtitle": "",
       "description": "a farcaster mini apps template by hellno",
@@ -12615,7 +12660,7 @@
     {
       "version": "next",
       "id": "fapp-tariff.vercel.app",
-      "index": 46,
+      "index": 50,
       "title": "Fapp Tariff",
       "subtitle": "",
       "description": "",
@@ -12638,7 +12683,7 @@
     {
       "version": "next",
       "id": "app.poster.fun",
-      "index": 47,
+      "index": 51,
       "title": "Poster.fun",
       "subtitle": "",
       "description": "A web3 onchain canvas",
@@ -12662,7 +12707,7 @@
     {
       "version": "next",
       "id": "snippets.so",
-      "index": 11,
+      "index": 8,
       "title": "Snippets.so",
       "subtitle": "Clean and Simple Code Snippets",
       "description": "Clean and simple code sharing",
@@ -12691,7 +12736,7 @@
     {
       "version": "next",
       "id": "l--o--l.xyz",
-      "index": 18,
+      "index": 20,
       "title": "l--o--l",
       "subtitle": "",
       "description": "",
@@ -12714,7 +12759,7 @@
     {
       "version": "next",
       "id": "zorallete.vercel.app",
-      "index": 48,
+      "index": 52,
       "title": "zorallete",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -12737,7 +12782,7 @@
     {
       "version": "next",
       "id": "compu-qwik-cheese2.vercel.app",
-      "index": 49,
+      "index": 53,
       "title": "Say Cheese",
       "subtitle": "",
       "description": "Make the AI say cheese!",
@@ -12760,7 +12805,7 @@
     {
       "version": "next",
       "id": "cast-on-twitter.vercel.app",
-      "index": 51,
+      "index": 56,
       "title": "TweetMyCast",
       "subtitle": "",
       "description": "Easily share your Farcaster casts on X with a single click",
@@ -12783,7 +12828,7 @@
     {
       "version": "next",
       "id": "livecaster.vercel.app",
-      "index": 54,
+      "index": 59,
       "title": "Livecaster",
       "subtitle": "Cast threads as realtime chat",
       "description": "Mini client in a frame to enjoy live events on Farcaster.",
@@ -12814,7 +12859,7 @@
     {
       "version": "next",
       "id": "spa-mini-app-starter.artlu.workers.dev",
-      "index": 52,
+      "index": 57,
       "title": "SPA Mini App Starter",
       "subtitle": "",
       "description": "",
@@ -12838,7 +12883,7 @@
     {
       "version": "next",
       "id": "billboards.cloud",
-      "index": 53,
+      "index": 58,
       "title": "Billboards",
       "subtitle": "",
       "description": "Share images on Farcaster",
@@ -12861,7 +12906,7 @@
     {
       "version": "next",
       "id": "glitch-cast-shayastark.replit.app",
-      "index": 55,
+      "index": 60,
       "title": "GlitchCast",
       "subtitle": "",
       "description": "Transform PFPs into glitch art!",
@@ -12885,7 +12930,7 @@
     {
       "version": "next",
       "id": "pink-elephant-countdown.vercel.app",
-      "index": 56,
+      "index": 62,
       "title": "Pink Elephant Countdown",
       "subtitle": "",
       "description": "Count down to the next Pink Elephant event",
@@ -12908,7 +12953,7 @@
     {
       "version": "next",
       "id": "actions.artlu.xyz",
-      "index": 57,
+      "index": 63,
       "title": "Actions Mini App",
       "subtitle": "",
       "description": "",
@@ -12931,7 +12976,7 @@
     {
       "version": "next",
       "id": "bp.fun",
-      "index": 58,
+      "index": 79,
       "title": "Blueprint",
       "subtitle": "",
       "description": "Explore and collect exclusive content from Blueprint alumni.",
@@ -12954,7 +12999,7 @@
     {
       "version": "next",
       "id": "miniappstore.0xmoe.com",
-      "index": 59,
+      "index": 64,
       "title": "Mini App Store",
       "subtitle": "",
       "description": "",
@@ -12977,7 +13022,7 @@
     {
       "version": "next",
       "id": "barkr.fun",
-      "index": 60,
+      "index": 66,
       "title": "Barkr",
       "subtitle": "",
       "description": "Mini-app to launch tokens of your dogs",
@@ -13001,7 +13046,7 @@
     {
       "version": "next",
       "id": "higherminiapp.vercel.app",
-      "index": 61,
+      "index": 67,
       "title": "higher",
       "subtitle": "",
       "description": "A Farcaster Frames v2 demo app",
@@ -13024,7 +13069,7 @@
     {
       "version": "next",
       "id": "actions-siwf.artlu.workers.dev",
-      "index": 62,
+      "index": 68,
       "title": "Actions",
       "subtitle": "",
       "description": "",
@@ -13047,7 +13092,7 @@
     {
       "version": "next",
       "id": "esim.ethglobal.com",
-      "index": 63,
+      "index": 69,
       "title": "eSIM",
       "subtitle": "",
       "description": "Purchase data eSIMs and pay with USDC and Crypto",
@@ -13071,7 +13116,7 @@
     {
       "version": "next",
       "id": "vibe-rater.vercel.app",
-      "index": 28,
+      "index": 15,
       "title": "Vibe Rater",
       "subtitle": "",
       "description": "Rate your Farcaster vibe and generate a personalized vibecoin",
@@ -13094,7 +13139,7 @@
     {
       "version": "next",
       "id": "trendcoins.replit.app",
-      "index": 64,
+      "index": 70,
       "title": "Trendcoins",
       "subtitle": "",
       "description": "Live feed of memecoins minted from trending Google searches.",
@@ -13118,7 +13163,7 @@
     {
       "version": "next",
       "id": "frame.intori.co",
-      "index": 54,
+      "index": 66,
       "title": "intori",
       "subtitle": "Meet the right people",
       "description": "intori - Your data, connected.",
@@ -13149,7 +13194,7 @@
     {
       "version": "next",
       "id": "monad-shooting.vercel.app",
-      "index": 52,
+      "index": 57,
       "title": "monad-shootumup",
       "subtitle": "",
       "description": "Monad Shoot'em ups at TestNet",
@@ -13172,7 +13217,7 @@
     {
       "version": "next",
       "id": "cashlessman.vercel.app",
-      "index": 87,
+      "index": 84,
       "title": "Mint",
       "subtitle": "",
       "description": "Mint by cashlessman.eth",
@@ -13194,7 +13239,7 @@
     {
       "version": "next",
       "id": "monad-journal-mqt9.vercel.app",
-      "index": 77,
+      "index": 23,
       "title": "Monad Journal",
       "subtitle": "",
       "description": "Document your builder journey on Monad blockchain as NFTs",
@@ -13225,7 +13270,7 @@
     {
       "version": "next",
       "id": "farpoker.com",
-      "index": 48,
+      "index": 53,
       "title": "Poker",
       "subtitle": "Play poker with friends",
       "description": "Play poker with your friends",
@@ -13248,7 +13293,7 @@
     {
       "version": "next",
       "id": "empire.stampcast.win",
-      "index": 69,
+      "index": 62,
       "title": "EmpireStampCast",
       "subtitle": "",
       "description": "Add Stamps to the Community Canvas, leave an uplifting message!",
@@ -13272,7 +13317,7 @@
     {
       "version": "next",
       "id": "obagents.vercel.app",
-      "index": 35,
+      "index": 25,
       "title": "The Invisible Prompt",
       "subtitle": "",
       "description": "The Invisible Prompt",
@@ -13295,7 +13340,7 @@
     {
       "version": "next",
       "id": "memomints.com",
-      "index": 67,
+      "index": 6,
       "title": "MemoMints",
       "subtitle": "Mint and Share Your Memories",
       "description": "",
@@ -13323,7 +13368,7 @@
     {
       "version": "next",
       "id": "liongames.fun",
-      "index": 45,
+      "index": 54,
       "title": "Lion Game",
       "subtitle": "",
       "description": "$LION",
@@ -13347,7 +13392,7 @@
     {
       "version": "next",
       "id": "miniapp.onchaingm.com",
-      "index": 19,
+      "index": 35,
       "title": "OnChainGM",
       "subtitle": "",
       "description": "OnChainGM",
@@ -13370,7 +13415,7 @@
     {
       "version": "next",
       "id": "startonfarcaster.xyz",
-      "index": 44,
+      "index": 38,
       "title": "Start On Farcaster",
       "subtitle": "Evolve your Farcaster identity",
       "description": "",
@@ -13401,7 +13446,7 @@
     {
       "version": "next",
       "id": "walkntalk.tv",
-      "index": 62,
+      "index": 58,
       "title": "walkntalk",
       "subtitle": "",
       "description": "Short form video content for Farcaster",
@@ -13424,7 +13469,7 @@
     {
       "version": "next",
       "id": "kekverse.com",
-      "index": 12,
+      "index": 60,
       "title": "KEKVERSE",
       "subtitle": "",
       "description": "A blockchain-powered art & tech incubator where real artists create, launch, and earn royalties on NFTs, games, and comics. Powered by the $KEK token.",
@@ -13448,7 +13493,7 @@
     {
       "version": "next",
       "id": "app.momnt.fun",
-      "index": 27,
+      "index": 18,
       "title": "momnt",
       "subtitle": "capture momnts",
       "description": "capture momnts, earn rewards",
@@ -13475,7 +13520,7 @@
     {
       "version": "next",
       "id": "basedhome.vercel.app",
-      "index": 85,
+      "index": 81,
       "title": "HOME BASE",
       "subtitle": "",
       "description": "A provable fair Pool. Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -13498,7 +13543,7 @@
     {
       "version": "next",
       "id": "versus.wreckleague.xyz",
-      "index": 99,
+      "index": 87,
       "title": "Versus",
       "subtitle": "Stay tuned for the updates",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -13529,7 +13574,7 @@
     {
       "version": "next",
       "id": "hazan-legacy.orbiter.website",
-      "index": 1,
+      "index": 82,
       "title": "Hazan Legacy",
       "subtitle": "",
       "description": "",
@@ -13552,7 +13597,7 @@
     {
       "version": "next",
       "id": "bay-batches.vercel.app",
-      "index": 4,
+      "index": 99,
       "title": "BayBatches",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -13575,7 +13620,7 @@
     {
       "version": "next",
       "id": "monado-twist.vercel.app",
-      "index": 10,
+      "index": 20,
       "title": "Monado Twist",
       "subtitle": "",
       "description": "Spin to Win",
@@ -13606,7 +13651,7 @@
     {
       "version": "next",
       "id": "grubchain.vercel.app",
-      "index": 44,
+      "index": 53,
       "title": "grubchain",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -13622,14 +13667,14 @@
         "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c49bd37c-3163-4292-e927-0eafb6960600/rectcrop3",
         "bio": "Nerd",
         "powerBadge": false,
-        "score": 0.17
+        "score": 0.18
       },
       "indexedAt": 1747096349
     },
     {
       "version": "next",
       "id": "decashback.com",
-      "index": 75,
+      "index": 20,
       "title": "Decashback",
       "subtitle": "",
       "description": "Decashback - Optimize your crypto trading rewards",
@@ -13649,6 +13694,190 @@
         "score": 0.35
       },
       "indexedAt": 1747096349
+    },
+    {
+      "version": "next",
+      "id": "sorting-hat-alpha.vercel.app",
+      "index": 28,
+      "title": "Hogwarts Sorting Hat",
+      "subtitle": "Find your Hogwarts house",
+      "description": "Discover your Hogwarts house based on your Farcaster activity",
+      "category": "entertainment",
+      "tags": [
+        "harrypotter",
+        "hogwarts",
+        "sortinghat",
+        "personality",
+        "farcaster"
+      ],
+      "homeUrl": "https://sorting-hat-alpha.vercel.app",
+      "iconUrl": "https://sorting-hat-alpha.vercel.app/hogwarts-crest.png",
+      "imageUrl": "https://sorting-hat-alpha.vercel.app/api/og",
+      "framesUrl": "https://sorting-hat-alpha.vercel.app",
+      "backgroundColor": "#1a1a1a",
+      "author": {
+        "fid": 7732,
+        "username": "aneri",
+        "displayName": "aneri",
+        "pfpUrl": "https://tba-mobile.mypinata.cloud/ipfs/QmZTLntgcsPSpc5jgG6nsNe6tgJo8wxSPm8nbAmdv7HG5b?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+        "bio": "product lead apps, social, and creators @base",
+        "powerBadge": true,
+        "score": 0.99
+      },
+      "indexedAt": 1747182739
+    },
+    {
+      "version": "next",
+      "id": "replyguy.megabyte0x.xyz",
+      "index": 90,
+      "title": "ReplyGuy",
+      "subtitle": "Your 24x7 reply guy",
+      "description": "Automate discovering jobs, ideas, connections, and more on Farcaster.",
+      "category": "social",
+      "homeUrl": "https://replyguy.megabyte0x.xyz",
+      "iconUrl": "https://replyguy.megabyte0x.xyz/logo.png",
+      "imageUrl": "https://replyguy.megabyte0x.xyz/full_logo.png",
+      "framesUrl": "https://replyguy.megabyte0x.xyz",
+      "backgroundColor": "#f7f7f7",
+      "author": {
+        "fid": 14582,
+        "username": "megabyte",
+        "displayName": "megabyte",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/312c2e74-aae5-487b-509b-50f45580eb00/rectcrop3",
+        "bio": "valar morghulis || megabyte0x.xyz || building @yourreplyguy",
+        "powerBadge": false,
+        "score": 0.77
+      },
+      "indexedAt": 1747182739
+    },
+    {
+      "version": "next",
+      "id": "monad-wheel.vercel.app",
+      "index": 21,
+      "title": "Spin Wheel",
+      "subtitle": "",
+      "description": "",
+      "homeUrl": "https://monad-wheel.vercel.app",
+      "iconUrl": "https://monad-wheel.vercel.app/OG.png",
+      "imageUrl": "https://monad-wheel.vercel.app/OG.png",
+      "framesUrl": "https://monad-wheel.vercel.app",
+      "backgroundColor": "#eeccff",
+      "author": {
+        "fid": 291752,
+        "username": "return",
+        "displayName": "X",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d4f6e49-7065-4d9e-4cbc-c1d5dcff9a00/rectcrop3",
+        "bio": "University of Bridging student ",
+        "powerBadge": false,
+        "score": 0.5
+      },
+      "indexedAt": 1747182740
+    },
+    {
+      "version": "next",
+      "id": "eon-miniapp.vercel.app",
+      "index": 72,
+      "title": "EON",
+      "subtitle": "",
+      "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
+      "category": "social",
+      "homeUrl": "https://eon-miniapp.vercel.app",
+      "iconUrl": "https://eon-miniapp.vercel.app/logo.png",
+      "imageUrl": "https://eon-miniapp.vercel.app/logo.png",
+      "framesUrl": "https://eon-miniapp.vercel.app",
+      "backgroundColor": "#F7F6E7",
+      "author": {
+        "fid": 213103,
+        "username": "entwinedlines",
+        "displayName": "parallels 🏰",
+        "pfpUrl": "https://i.imgur.com/oBHRccN.jpg",
+        "bio": "technology ate the world and turned it into a hellscape. in search of flowers that have grown up in the cracks",
+        "powerBadge": false,
+        "score": 0.85
+      },
+      "indexedAt": 1747182740
+    },
+    {
+      "version": "next",
+      "id": "app.bando.cool",
+      "index": 77,
+      "title": "Bando",
+      "subtitle": "Spend your crypto",
+      "description": "",
+      "category": "finance",
+      "tags": [
+        "spend",
+        "shop",
+        "buy",
+        "bando"
+      ],
+      "homeUrl": "https://app.bando.cool/",
+      "iconUrl": "https://app.bando.cool/appicon.png",
+      "framesUrl": "https://app.bando.cool/",
+      "backgroundColor": "#FFFFFF",
+      "author": {
+        "fid": 488074,
+        "username": "bandocool",
+        "displayName": "Bando",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b381145e-ab07-4c05-3fe8-bc76311e0700/rectcrop3",
+        "bio": "From crypto to checkout—no fiat involved. Enable your users to spend in over 100 countries and 6,000+ businesses | MVB 8 Accelerator @binancelabs\n & @OVioHQ",
+        "powerBadge": false,
+        "score": 0.59
+      },
+      "indexedAt": 1747182740
+    },
+    {
+      "version": "next",
+      "id": "gitspect.vercel.app",
+      "index": 59,
+      "title": "GitSpect",
+      "subtitle": "",
+      "description": "AI agent, that evaluates a git repo",
+      "homeUrl": "https://gitspect.vercel.app/",
+      "iconUrl": "https://gitspect.vercel.app//icon.png",
+      "imageUrl": "https://gitspect.vercel.app//opengraph-image",
+      "framesUrl": "https://gitspect.vercel.app/",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 859148,
+        "username": "fraolchris",
+        "displayName": "Fraol Bereket",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/acecda4c-1843-4eb1-5f70-698ecc1fcb00/rectcrop3",
+        "bio": "Fullstack Blockchain Dev",
+        "powerBadge": false,
+        "score": 0.5
+      },
+      "indexedAt": 1747182741
+    },
+    {
+      "version": "next",
+      "id": "yeetcaster.vercel.app",
+      "index": 96,
+      "title": "Yeetcaster",
+      "subtitle": "Hot Takes Battle",
+      "description": "Battle it out with your hottest takes on Farcaster",
+      "category": "social",
+      "tags": [
+        "monad",
+        "farcaster",
+        "miniapp",
+        "social"
+      ],
+      "homeUrl": "https://yeetcaster.vercel.app",
+      "iconUrl": "https://yeetcaster.vercel.app/images/icon.png",
+      "framesUrl": "https://yeetcaster.vercel.app",
+      "screenshotUrls": [],
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 276009,
+        "username": "elegant",
+        "displayName": "elegant ",
+        "pfpUrl": "https://i.imgur.com/AslyEhV.jpg",
+        "bio": "DeFi Nerd",
+        "powerBadge": false,
+        "score": 0.52
+      },
+      "indexedAt": 1747182741
     }
   ]
 }
