@@ -15,9 +15,13 @@ export default async function Page({
     return <div>App not found</div>;
   }
 
+  const relatedApps = catalog.apps.filter(
+    (i) => i.author.username === app.author.username
+  );
+
   return (
     <Suspense>
-      <AppDetails app={app} />
+      <AppDetails app={app} relatedApps={relatedApps} />
     </Suspense>
   );
 }

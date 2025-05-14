@@ -2,6 +2,7 @@
 
 import { useCallback, useState } from "react";
 import { APP_URL } from "@/utils/config";
+import { AppGrid } from "./Showcase";
 import { App } from "@/utils/types";
 import Image from "next/image";
 import dayjs from "dayjs";
@@ -10,9 +11,10 @@ import sdk from "@farcaster/frame-sdk";
 
 interface AppDetailProps {
   app: App;
+  relatedApps: App[];
 }
 
-export default function AppDetails({ app }: AppDetailProps) {
+export default function AppDetails({ app, relatedApps }: AppDetailProps) {
   const [copied, setCopied] = useState(false);
   const handleShare = useCallback(async () => {
     const context = await sdk.context;
@@ -209,6 +211,13 @@ export default function AppDetails({ app }: AppDetailProps) {
             </div>
           </div>
         </div>
+      </div>
+
+      <div>
+        <h3 className="text-xl font-bold mb-4">
+          More by {app.author?.displayName}
+        </h3>
+        <AppGrid apps={relatedApps} />
       </div>
     </div>
   );
