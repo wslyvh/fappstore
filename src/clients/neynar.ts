@@ -247,6 +247,29 @@ export async function updateAppCatalog() {
     JSON.stringify(catalogData)
   );
 
+  // Featured apps
+  const featuredAppsFile = mergedApps.filter((app) =>
+    FEATURED_APPS.includes(app.id as (typeof FEATURED_APPS)[number])
+  );
+  await fs.writeFile(
+    path.join(process.cwd(), "public", "featured.min.json"),
+    JSON.stringify(featuredAppsFile)
+  );
+
+  // Top apps
+  const topAppsFile = mergedApps.slice(0, 20);
+  await fs.writeFile(
+    path.join(process.cwd(), "public", "top.min.json"),
+    JSON.stringify(topAppsFile)
+  );
+
+  // New apps
+  const newAppsFile = mergedApps.slice(0, 20);
+  await fs.writeFile(
+    path.join(process.cwd(), "public", "new.min.json"),
+    JSON.stringify(newAppsFile)
+  );
+
   const lastUpdateTimestamp = existingCatalog
     ? dayjs(existingCatalog.lastUpdated).unix()
     : 0;
