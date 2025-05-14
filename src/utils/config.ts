@@ -10,10 +10,10 @@ export const SOCIAL_FARCASTER = "wslyvh.eth";
 export const SOCIAL_GITHUB = "wslyvh/fappstore";
 
 export const FEATURED_APPS = [
+  "farville.farm",
+  "app.farcaster-rpgf.com",
   "hypersub.xyz",
   "memories.nexth.dev",
-  "app.farcaster-rpgf.com",
-  "farville.farm",
   "gigbot.xyz",
 ] as const;
 
