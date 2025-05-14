@@ -9,9 +9,7 @@ export async function openFrame(
 
   if (isMiniApp) {
     try {
-      await sdk.actions.openUrl(
-        `https://warpcast.com/miniapps/gZZR9fkfmjVN/farcaster-app-store`
-      );
+      await sdk.actions.openUrl(`/~/frames/launch?url=${frameUrl}`);
     } catch (error) {
       console.error("Failed to open frame URL:", error);
     }
