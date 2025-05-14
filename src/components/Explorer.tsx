@@ -5,8 +5,8 @@ import { useCatalog } from "@/hooks/useCatalog";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Catalog } from "@/utils/types";
 import { CATEGORIES } from "@/utils/config";
+import { openFrame } from "@/utils/frames";
 import Image from "next/image";
-import { sdk } from "@farcaster/frame-sdk";
 
 const ITEMS_PER_PAGE = 12;
 
@@ -22,22 +22,6 @@ interface ExplorerProps {
   initialData: Catalog;
   category?: string;
 }
-
-const handleOpenUrl = async (url: string) => {
-  try {
-    const isMiniApp = await sdk.isInMiniApp();
-    if (isMiniApp) {
-      await sdk.actions.openUrl(url);
-    } else {
-      window.open(
-        `https://warpcast.com/?launchFrameUrl=${encodeURIComponent(url)}`,
-        "_blank"
-      );
-    }
-  } catch (error) {
-    console.error("Error opening URL:", error);
-  }
-};
 
 export function Explorer({ initialData, category }: ExplorerProps) {
   const searchParams = useSearchParams();
@@ -464,7 +448,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                 <button
                   onClick={(e) => {
                     e.stopPropagation();
-                    handleOpenUrl(app.framesUrl ?? "");
+                    openFrame(app.framesUrl);
                   }}
                   className="btn btn-primary btn-xs ml-auto z-10"
                 >
@@ -511,7 +495,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                 <button
                   onClick={(e) => {
                     e.stopPropagation();
-                    handleOpenUrl(app.framesUrl ?? "");
+                    openFrame(app.framesUrl);
                   }}
                   className="btn btn-primary btn-xs ml-auto z-10"
                 >

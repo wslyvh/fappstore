@@ -2,9 +2,9 @@
 
 import { useCatalog } from "@/hooks/useCatalog";
 import { useRouter, useSearchParams } from "next/navigation";
-import Image from "next/image";
+import { openFrame } from "@/utils/frames";
 import { App } from "@/utils/types";
-import { sdk } from "@farcaster/frame-sdk";
+import Image from "next/image";
 
 const itemsToShow = 12;
 
@@ -12,22 +12,6 @@ const FILTERS = [
   { id: "popular", label: "Popular" },
   { id: "newest", label: "New" },
 ];
-
-const handleOpenUrl = async (url: string) => {
-  try {
-    const isMiniApp = await sdk.isInMiniApp();
-    if (isMiniApp) {
-      await sdk.actions.openUrl(url);
-    } else {
-      window.open(
-        `https://warpcast.com/?launchFrameUrl=${encodeURIComponent(url)}`,
-        "_blank"
-      );
-    }
-  } catch (error) {
-    console.error("Error opening URL:", error);
-  }
-};
 
 export function Showcase() {
   const { data } = useCatalog();
@@ -113,7 +97,7 @@ export function AppGrid({ apps }: { apps: App[] }) {
           <button
             onClick={(e) => {
               e.stopPropagation();
-              handleOpenUrl(app.framesUrl ?? "");
+              openFrame(app.framesUrl);
             }}
             className="btn btn-primary btn-xs ml-auto z-10"
           >
