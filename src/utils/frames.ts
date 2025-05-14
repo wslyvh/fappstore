@@ -9,7 +9,9 @@ export async function openFrame(
 
   if (isMiniApp) {
     try {
-      await sdk.actions.openUrl(`/~/mini-apps/launch?domain=${frameUrl}`);
+      await sdk.actions.openUrl(
+        `?launchFrameUrl=${encodeURIComponent(frameUrl)}`
+      );
     } catch (error) {
       console.error("Failed to open frame URL:", error);
     }
