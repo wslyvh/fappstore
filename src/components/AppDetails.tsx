@@ -8,6 +8,8 @@ import Image from "next/image";
 import dayjs from "dayjs";
 import Link from "next/link";
 import sdk from "@farcaster/frame-sdk";
+import { useFarcasterContext } from "@/hooks/useFarcasterContext";
+import { openFrame } from "@/utils/frame";
 
 interface AppDetailProps {
   app: App;
@@ -16,6 +18,8 @@ interface AppDetailProps {
 
 export default function AppDetails({ app, relatedApps }: AppDetailProps) {
   const [copied, setCopied] = useState(false);
+  const { isInsideFrame } = useFarcasterContext();
+
   const handleShare = useCallback(async () => {
     const context = await sdk.context;
     if (context?.user) {
@@ -88,10 +92,11 @@ export default function AppDetails({ app, relatedApps }: AppDetailProps) {
           <div className="flex flex-col md:flex-row items-stretch md:items-center gap-4 mt-4 w-full justify-center md:justify-start">
             {app.framesUrl && (
               <a
-                href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-                  app.framesUrl
-                )}`}
-                target="_blank"
+                href="#"
+                onClick={async (e) => {
+                  e.preventDefault();
+                  await openFrame(app.framesUrl, isInsideFrame);
+                }}
                 rel="noopener noreferrer"
                 className="btn btn-primary min-w-[120px]"
               >

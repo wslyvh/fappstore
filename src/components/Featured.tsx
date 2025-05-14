@@ -6,6 +6,8 @@ import { App } from "@/utils/types";
 import { FEATURED_APPS } from "@/utils/config";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
+import { useFarcasterContext } from "@/hooks/useFarcasterContext";
+import { openFrame } from "@/utils/frame";
 
 export function Featured() {
   const { data: apps } = useCatalog();
@@ -23,6 +25,7 @@ export function FeaturedSlider({ apps }: { apps: App[] }) {
   const carouselRef = useRef<HTMLDivElement>(null);
   const [canScrollLeft, setCanScrollLeft] = useState(false);
   const [canScrollRight, setCanScrollRight] = useState(false);
+  const { isInsideFrame } = useFarcasterContext();
 
   useEffect(() => {
     const updateScrollButtons = () => {
@@ -118,13 +121,14 @@ export function FeaturedSlider({ apps }: { apps: App[] }) {
                     </div>
                   </div>
                   <a
-                    href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-                      app.framesUrl ?? ""
-                    )}`}
-                    target="_blank"
                     rel="noopener noreferrer"
+                    href="#"
                     className="btn btn-primary btn-sm"
-                    onClick={(e) => e.stopPropagation()}
+                    onClick={async (e) => {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      await openFrame(app.framesUrl, isInsideFrame);
+                    }}
                   >
                     Open
                   </a>

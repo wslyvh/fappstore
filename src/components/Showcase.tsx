@@ -4,6 +4,8 @@ import { useCatalog } from "@/hooks/useCatalog";
 import { useRouter, useSearchParams } from "next/navigation";
 import Image from "next/image";
 import { App } from "@/utils/types";
+import { useFarcasterContext } from "@/hooks/useFarcasterContext";
+import { openFrame } from "@/utils/frame";
 
 const itemsToShow = 12;
 
@@ -63,6 +65,7 @@ export function Showcase() {
 
 export function AppGrid({ apps }: { apps: App[] }) {
   const router = useRouter();
+  const { isInsideFrame } = useFarcasterContext();
 
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -94,13 +97,14 @@ export function AppGrid({ apps }: { apps: App[] }) {
             </div>
           </div>
           <a
-            href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-              app.framesUrl ?? ""
-            )}`}
-            target="_blank"
+            href="#"
             rel="noopener noreferrer"
             className="btn btn-primary btn-xs ml-auto z-10"
-            onClick={(e) => e.stopPropagation()}
+            onClick={async (e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              await openFrame(app.framesUrl, isInsideFrame);
+            }}
           >
             Open
           </a>

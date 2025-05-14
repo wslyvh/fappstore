@@ -6,6 +6,8 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { Catalog } from "@/utils/types";
 import { CATEGORIES } from "@/utils/config";
 import Image from "next/image";
+import { useFarcasterContext } from "@/hooks/useFarcasterContext";
+import { openFrame } from "@/utils/frame";
 
 const ITEMS_PER_PAGE = 12;
 
@@ -26,6 +28,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
   const searchParams = useSearchParams();
   const { data, isLoading, error } = useCatalog(initialData);
   const router = useRouter();
+  const { isInsideFrame } = useFarcasterContext();
 
   // Get all parameters from URL
   const searchQuery = searchParams.get("search") || "";
@@ -445,13 +448,14 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                   </div>
                 </div>
                 <a
-                  href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-                    app.framesUrl ?? ""
-                  )}`}
-                  target="_blank"
+                  href="#"
                   rel="noopener noreferrer"
                   className="btn btn-primary btn-xs ml-auto z-10"
-                  onClick={(e) => e.stopPropagation()}
+                  onClick={async (e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    await openFrame(app.framesUrl, isInsideFrame);
+                  }}
                 >
                   Open
                 </a>
@@ -494,13 +498,14 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                   </span>
                 )}
                 <a
-                  href={`https://warpcast.com/?launchFrameUrl=${encodeURIComponent(
-                    app.framesUrl ?? ""
-                  )}`}
-                  target="_blank"
+                  href="#"
                   rel="noopener noreferrer"
                   className="btn btn-primary btn-xs ml-auto z-10"
-                  onClick={(e) => e.stopPropagation()}
+                  onClick={async (e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    await openFrame(app.framesUrl, isInsideFrame);
+                  }}
                 >
                   Open
                 </a>
