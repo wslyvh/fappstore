@@ -17,6 +17,7 @@ interface AppDetailProps {
 
 export default function AppDetails({ app, relatedApps }: AppDetailProps) {
   const [copied, setCopied] = useState(false);
+
   const handleShare = useCallback(async () => {
     const context = await sdk.context;
     if (context?.user) {

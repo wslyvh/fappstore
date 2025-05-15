@@ -1,13 +1,18 @@
 import { SOCIAL_FARCASTER, SOCIAL_GITHUB } from "@/utils/config";
 import { PropsWithChildren } from "react";
-import Link from "next/link";
 import { Account } from "./Account";
+import { Back } from "./Back";
+import Link from "next/link";
 
 export function Layout(props: PropsWithChildren) {
   return (
     <div className="flex flex-col min-h-screen">
       <header className="flex items-center justify-between p-4">
-        <Link href="/">
+        <div className="w-20 flex justify-start">
+          <Back />
+        </div>
+
+        <Link href="/" className="flex justify-center px-4">
           <span className="flex items-center gap-1">
             <span className="text-xl font-bold">Fapp</span>
             <span className="text-xl font-bold px-2 rounded bg-primary text-base-100">
@@ -16,7 +21,9 @@ export function Layout(props: PropsWithChildren) {
           </span>
         </Link>
 
-        <Account />
+        <div className="w-20 flex justify-end">
+          <Account />
+        </div>
       </header>
 
       <main className="flex flex-col flex-1 container mx-auto px-4 gap-8">
