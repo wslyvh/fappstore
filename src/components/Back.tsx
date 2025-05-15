@@ -1,6 +1,7 @@
 "use client";
 
 import { usePathname, useRouter } from "next/navigation";
+import { APP_URL } from "@/utils/config";
 
 export function Back() {
   const router = useRouter();
@@ -8,9 +9,21 @@ export function Back() {
   const isAppDetails = pathname?.startsWith("/app/");
 
   if (!isAppDetails) return null;
+
+  const handleBack = () => {
+    const referrer = document.referrer;
+    const isInternalNavigation = referrer.startsWith(APP_URL);
+
+    if (isInternalNavigation) {
+      router.back();
+    } else {
+      router.push("/");
+    }
+  };
+
   return (
     <button
-      onClick={() => router.back()}
+      onClick={handleBack}
       className="flex items-center gap-2 text-base-content/60 hover:text-base-content transition-colors w-fit"
     >
       <svg
