@@ -12,6 +12,7 @@
     "stats": "tsx src/scripts/stats.ts"
   },
   "dependencies": {
+    "@coinbase/onchainkit": "^0.38.13",
     "@farcaster/frame-sdk": "^0.0.39",
     "@tanstack/react-query": "^5.75.6",
     "@upstash/redis": "^1.34.9",
