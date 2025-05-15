@@ -12,7 +12,11 @@ export function Back() {
 
   const handleBack = () => {
     const referrer = document.referrer;
-    const isInternalNavigation = referrer.startsWith(APP_URL);
+    const currentHost = window.location.hostname;
+    const isInternalNavigation =
+      referrer &&
+      (referrer.includes(currentHost) || // Works for both localhost and production
+        referrer.startsWith(APP_URL));
 
     if (isInternalNavigation) {
       router.back();
