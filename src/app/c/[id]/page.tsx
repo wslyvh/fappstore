@@ -2,6 +2,27 @@ import { CATEGORIES } from "@/utils/config";
 import { Explorer } from "@/components/Explorer";
 import { getCatalogData } from "@/clients/neynar";
 import { Suspense } from "react";
+import { Metadata } from "next";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}): Promise<Metadata> {
+  const { id } = await params;
+  const category = CATEGORIES.find((c) => c.id === id);
+
+  if (!category) {
+    return {
+      title: "Category Not Found",
+    };
+  }
+
+  return {
+    title: category.name,
+    description: category.description,
+  };
+}
 
 export default async function Page({
   params,
