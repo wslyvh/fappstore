@@ -1,6 +1,7 @@
 import { SOCIAL_FARCASTER, SOCIAL_GITHUB } from "@/utils/config";
 import { PropsWithChildren } from "react";
 import Link from "next/link";
+import { Account } from "./Account";
 
 export function Layout(props: PropsWithChildren) {
   return (
@@ -14,21 +15,8 @@ export function Layout(props: PropsWithChildren) {
             </span>
           </span>
         </Link>
-        {/* <div className="flex items-center gap-2">
-          <button
-            className="btn btn-xs btn-soft"
-            onClick={async () => {
-              try {
-                console.log("Adding frame..");
-                await sdk.actions.addFrame();
-              } catch (error) {
-                console.error("Error adding frame", error);
-              }
-            }}
-          >
-            Add
-          </button>
-        </div> */}
+
+        <Account />
       </header>
 
       <main className="flex flex-col flex-1 container mx-auto px-4 gap-8">
