@@ -6,10 +6,11 @@ import { Metadata } from "next";
 export async function generateMetadata({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }): Promise<Metadata> {
+  const { id } = await params;
   const catalog = await getCatalogData();
-  const app = catalog.apps.find((app) => app.id === params.id);
+  const app = catalog.apps.find((app) => app.id === id);
 
   if (!app) {
     return {
