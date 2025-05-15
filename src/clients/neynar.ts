@@ -154,50 +154,9 @@ export async function updateAppCatalog() {
     }
 
     const data = await response.json();
-    const apps = data.frames.map((frame: any, index: number) => {
-      // const url = new URL(frame.frames_url).hostname;
-      // if (url === "memories.nexth.dev") {
-      //   console.log(frame);
-      // }
-
-      const app: App = {
-        version: frame.version,
-        id: new URL(frame.frames_url).hostname,
-        index,
-        title:
-          frame.manifest?.frame?.name || frame.metadata?.html?.ogTitle || "",
-        subtitle:
-          frame.manifest?.frame?.subtitle ||
-          frame.manifest?.frame?.tagline ||
-          "",
-        description: frame.metadata?.html?.ogDescription || "",
-        category: frame.manifest?.frame?.primary_category,
-        tags: frame.manifest?.frame?.tags,
-        homeUrl: frame.manifest?.frame?.home_url,
-        iconUrl: frame.manifest?.frame?.icon_url,
-        imageUrl: frame.image,
-        framesUrl: frame.frames_url,
-        screenshotUrls: frame.manifest?.frame?.screenshot_urls,
-        backgroundColor: frame.manifest?.frame?.splash_background_color,
-        author: {
-          fid: frame.author.fid,
-          username: frame.author.username,
-          displayName: frame.author.display_name,
-          pfpUrl: frame.author.pfp_url,
-          bio: frame.author.profile?.bio?.text || "",
-          powerBadge: frame.author.power_badge || false,
-          score: frame.author.score || 0,
-        },
-        indexedAt: dayjs().unix(),
-      };
-
-      // infer category if not provided
-      if (!app.category) {
-        app.category = inferCategory(app);
-      }
-
-      return app;
-    });
+    const apps = data.frames.map((frame: any, index: number) =>
+      mapFrameToApp(frame, index)
+    );
 
     allApps.push(...apps);
     cursor = data.next?.cursor;
@@ -281,4 +240,65 @@ export async function updateAppCatalog() {
   );
 
   return catalogData;
+}
+
+export async function getRecommendations(fid: number): Promise<App[]> {
+  console.log("Fetching recommendations for fid", fid);
+
+  const response = await fetch(
+    `https://api.neynar.com/v2/farcaster/frame/relevant?time_window=24h&viewer_fid=${fid}`,
+    {
+      headers: {
+        "x-api-key": process.env.NEYNAR_API_KEY || "",
+      },
+    }
+  );
+
+  if (!response.ok) {
+    console.error(`Failed to fetch recommendations: ${response.statusText}`);
+    return [];
+  }
+
+  const data = await response.json();
+
+  return data.relevant_frames.map((item: any, index: number) =>
+    mapFrameToApp(item.frame, index)
+  );
+}
+
+function mapFrameToApp(frame: any, index: number): App {
+  const app: App = {
+    version: frame.version,
+    id: new URL(frame.frames_url).hostname,
+    index,
+    title: frame.manifest?.frame?.name || frame.metadata?.html?.ogTitle || "",
+    subtitle:
+      frame.manifest?.frame?.subtitle || frame.manifest?.frame?.tagline || "",
+    description: frame.metadata?.html?.ogDescription || "",
+    category: frame.manifest?.frame?.primary_category,
+    tags: frame.manifest?.frame?.tags,
+    homeUrl: frame.manifest?.frame?.home_url,
+    iconUrl: frame.manifest?.frame?.icon_url,
+    imageUrl: frame.image,
+    framesUrl: frame.frames_url,
+    screenshotUrls: frame.manifest?.frame?.screenshot_urls,
+    backgroundColor: frame.manifest?.frame?.splash_background_color,
+    author: {
+      fid: frame.author.fid,
+      username: frame.author.username,
+      displayName: frame.author.display_name,
+      pfpUrl: frame.author.pfp_url,
+      bio: frame.author.profile?.bio?.text || "",
+      powerBadge: frame.author.power_badge || false,
+      score: frame.author.score || 0,
+    },
+    indexedAt: dayjs().unix(),
+  };
+
+  // infer category if not provided
+  if (!app.category) {
+    app.category = inferCategory(app);
+  }
+
+  return app;
 }
