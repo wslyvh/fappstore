@@ -11,6 +11,7 @@ export interface Author {
   bio: string;
   powerBadge: boolean;
   score: number;
+  followerCount: number;
 }
 
 export interface App {

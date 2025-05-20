@@ -102,6 +102,14 @@ async function main() {
       );
     });
 
+  const appsWithNoCategory = apps.filter((app) => !app.category).length;
+  console.log(
+    `\nApps with no category: ${appsWithNoCategory} (${(
+      (appsWithNoCategory / stats.totalApps) *
+      100
+    ).toFixed(1)}%)`
+  );
+
   console.log("\n=== Top Authors ===");
   stats.topAuthors.forEach(({ author, count }) => {
     console.log(`${author}: ${count} apps`);

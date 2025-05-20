@@ -291,6 +291,7 @@ function mapFrameToApp(frame: any, index: number): App {
       bio: frame.author.profile?.bio?.text || "",
       powerBadge: frame.author.power_badge || false,
       score: frame.author.score || 0,
+      followerCount: frame.author.follower_count || 0,
     },
     indexedAt: dayjs().unix(),
   };
