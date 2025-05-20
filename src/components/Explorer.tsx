@@ -442,7 +442,9 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                 </figure>
 
                 <div className="card-body p-4">
-                  <h3 className="card-title text-lg">{app.title}</h3>
+                  <h3 className="card-title text-xl truncate text-ellipsis">
+                    {app.title}
+                  </h3>
                   <div className="flex items-center mt-2 gap-2">
                     <div className="w-8 h-8 rounded-full bg-base-100 flex items-center justify-center overflow-hidden mr-2">
                       <Image

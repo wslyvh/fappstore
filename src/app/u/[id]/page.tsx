@@ -42,7 +42,7 @@ export default async function Page({
 
   return (
     <div>
-      <div className="flex items-center gap-8">
+      <div className="flex flex-col md:flex-row items-start gap-8">
         <div className="w-24 h-24 md:w-32 md:h-32 lg:w-52 lg:h-52 relative flex-shrink-0 mx-auto md:mx-0">
           <img
             src={user.author.pfpUrl}
@@ -51,7 +51,7 @@ export default async function Page({
           />
         </div>
 
-        <div className="flex-1 flex flex-col">
+        <div className="flex flex-col flex-1 text-left">
           <h2 className="text-3xl font-bold leading-tight flex items-center mb-0 xl:mb-2 gap-2">
             {user.author.displayName}
             {user.author.powerBadge && (
