@@ -261,7 +261,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
   return (
     <div className="flex flex-col md:flex-row gap-8 w-full">
       <aside
-        className={`fixed md:static top-0 left-0 z-30 h-full md:h-auto w-72 md:w-72 bg-base-200 rounded-xl p-6 mb-8 md:mb-0 flex-shrink-0 transition-transform duration-200 ease-in-out
+        className={`hidden lg:block fixed md:static top-0 left-0 z-30 h-full md:h-auto w-72 md:w-72 bg-base-200 rounded-xl p-6 mb-8 md:mb-0 flex-shrink-0 transition-transform duration-200 ease-in-out
         ${
           sidebarOpen ? "translate-x-0" : "-translate-x-full"
         } md:translate-x-0`}
@@ -409,7 +409,7 @@ export function Explorer({ initialData, category }: ExplorerProps) {
 
         {/* Sidebar (collapsible on mobile) */}
         <button
-          className="btn btn-primary btn-soft w-full btn-sm mb-4 md:hidden"
+          className="btn btn-primary btn-soft w-full btn-sm mb-4 block lg:hidden"
           onClick={() => setSidebarOpen((open) => !open)}
         >
           Filter
@@ -417,11 +417,11 @@ export function Explorer({ initialData, category }: ExplorerProps) {
 
         {/* App Grid/List */}
         {viewMode === "grid" ? (
-          <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4">
             {paginatedApps.map((app) => (
               <div
                 key={app.id}
-                className="flex items-center gap-4 p-4 rounded-xl transition-shadow hover:bg-base-200 hover:shadow-lg group cursor-pointer"
+                className="card bg-base-200 shadow-md hover:shadow-lg transition w-full cursor-pointer"
                 onClick={() => router.push(`/app/${app.id}`)}
                 tabIndex={0}
                 role="button"
@@ -430,30 +430,77 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                     router.push(`/app/${app.id}`);
                 }}
               >
-                <div className="w-20 h-20 rounded-xl flex items-center justify-center overflow-hidden flex-shrink-0">
+                <figure className="w-full aspect-[3/2.1] relative overflow-hidden rounded-t-xl">
                   <Image
-                    src={app.iconUrl}
+                    src={app.imageUrl ?? app.iconUrl}
                     alt={app.title}
-                    width={64}
-                    height={64}
-                    className="w-16 h-16 object-cover"
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 400px) 100vw, 400px"
                   />
-                </div>
-                <div className="flex-1 min-w-0">
-                  <div className="font-semibold truncate">{app.title}</div>
-                  <div className="text-xs text-base-content/60 truncate mt-2">
-                    by {app.author.displayName}
+                  <div className="absolute bottom-0 left-0 w-full h-12 pointer-events-none bg-gradient-to-t from-base-200 via-base-200/60 to-transparent" />
+                </figure>
+
+                <div className="card-body p-4">
+                  <h3 className="card-title text-lg">{app.title}</h3>
+                  <div className="flex items-center mt-2 gap-2">
+                    <div className="w-8 h-8 rounded-full bg-base-100 flex items-center justify-center overflow-hidden mr-2">
+                      <Image
+                        src={app.author.pfpUrl}
+                        alt={app.author.displayName}
+                        width={32}
+                        height={32}
+                        className="w-full h-full object-cover"
+                      />
+                    </div>
+                    <div className="flex flex-col">
+                      <div className="flex items-center font-semibold text-sm gap-1">
+                        {app.author.displayName}
+                        {app.author.powerBadge && (
+                          <span
+                            title="Power Badge"
+                            className="inline-flex items-center"
+                          >
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 841.89 595.28"
+                              width="16"
+                              height="16"
+                              className="text-secondary"
+                              fill="currentColor"
+                            >
+                              <path
+                                d="M351.54,516.77l-39.52-67.9l-78.54-16.17l8.83-76.77l-49.93-58.5l49.93-57.98l-8.83-76.75l78.54-16.21
+                        l39.52-68.39l69.71,32.39l69.71-32.39l40.05,68.41l78.01,16.19l-8.83,76.77l49.93,57.96l-49.93,58.5l8.83,76.77l-78.01,16.17
+                        l-40.05,67.9l-69.71-32.39L351.54,516.77z"
+                              />
+                              <path
+                                d="M398.88,366.9l118.08-117.51l-23.4-21.42l-94.68,94.01l-49.4-51.69l-23.94,23.48"
+                                fill="none"
+                                stroke="#fff"
+                                strokeWidth="16"
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                              />
+                            </svg>
+                          </span>
+                        )}
+                      </div>
+                      <div className="text-xs text-base-content/60">
+                        @{app.author.username}
+                      </div>
+                    </div>
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        openFrame(app.framesUrl);
+                      }}
+                      className="btn btn-primary btn-xs ml-auto z-10"
+                    >
+                      Open
+                    </button>
                   </div>
                 </div>
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    openFrame(app.framesUrl);
-                  }}
-                  className="btn btn-primary btn-xs ml-auto z-10"
-                >
-                  Open
-                </button>
               </div>
             ))}
           </div>
