@@ -184,7 +184,10 @@ export default function AppDetails({ app, relatedApps }: AppDetailProps) {
       {/* Developer Section */}
       <div>
         <h3 className="text-xl font-bold mb-4">Developer</h3>
-        <div className="flex items-center gap-4 bg-base-200 rounded-xl shadow p-4">
+        <Link
+          href={`/u/${app.author?.username}`}
+          className="flex items-center gap-4 bg-base-200 rounded-2xl p-4 transition hover:bg-base-300"
+        >
           <div className="w-16 h-16 relative flex-shrink-0">
             <Image
               src={app.author?.pfpUrl}
@@ -193,28 +196,44 @@ export default function AppDetails({ app, relatedApps }: AppDetailProps) {
               className="object-cover rounded-full border border-base-200 bg-base-200"
             />
           </div>
-          <div>
-            <div className="text-lg font-semibold">
+          <div className="flex flex-col">
+            <span className="text-lg font-semibold">
               {app.author?.displayName}
-            </div>
-            <div className="text-base-content/60">
-              <a
-                className="text-primary hover:underline"
-                href={`https://warpcast.com/${app.author?.username}`}
-                target="_blank"
-                rel="noopener noreferrer"
+            </span>
+            <Link
+              className="flex items-center text-primary hover:underline gap-1"
+              href={`https://warpcast.com/${app.author?.username}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => e.stopPropagation()}
+            >
+              @{app.author?.username}
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="12"
+                height="12"
+                fill="none"
+                viewBox="0 0 24 24"
+                className="inline-block"
               >
-                @{app.author?.username}
-              </a>
-            </div>
+                <path
+                  d="M7 17L17 7M17 7H7M17 7V17"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />
+              </svg>
+            </Link>
           </div>
-        </div>
+        </Link>
       </div>
 
       <div>
         <h3 className="text-xl font-bold mb-4">
-          More by {app.author?.displayName}
+          All Apps by {app.author?.displayName}
         </h3>
+
         <AppGrid apps={relatedApps} />
       </div>
     </div>
