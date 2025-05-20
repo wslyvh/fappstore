@@ -49,12 +49,12 @@ export default async function Page({
           <img
             src={user.author.pfpUrl}
             alt={user.author.displayName}
-            className="object-cover rounded-full border border-base-200 bg-base-200"
+            className="w-full h-full object-cover rounded-full border border-base-200 bg-base-200"
           />
         </div>
 
         <div className="flex-1 flex flex-col">
-          <h2 className="text-3xl font-bold leading-tight flex items-center gap-2">
+          <h2 className="text-3xl font-bold leading-tight flex items-center mb-0 xl:mb-2 gap-2">
             {user.author.displayName}
             {user.author.powerBadge && (
               <span title="Power Badge" className="inline-flex items-center">
