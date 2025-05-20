@@ -1,6 +1,4 @@
-import { Explorer } from "@/components/Explorer";
 import { getCatalogData } from "@/clients/neynar";
-import { Suspense } from "react";
 import { Metadata } from "next";
 import Link from "next/link";
 import { AppGrid } from "@/components/Showcase";
