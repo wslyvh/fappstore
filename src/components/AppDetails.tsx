@@ -202,7 +202,7 @@ export default function AppDetails({ app, relatedApps }: AppDetailProps) {
             </span>
             <Link
               className="flex items-center text-primary hover:underline gap-1"
-              href={`https://warpcast.com/${app.author?.username}`}
+              href={`https://farcaster.xyz/${app.author?.username}`}
               target="_blank"
               rel="noopener noreferrer"
               onClick={(e) => e.stopPropagation()}

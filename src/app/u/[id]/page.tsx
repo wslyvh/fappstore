@@ -75,7 +75,7 @@ export default async function Page({
             )}
           </h2>
           <Link
-            href={`https://warpcast.com/${user.author.username}`}
+            href={`https://farcaster.xyz/${user.author.username}`}
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center text-primary hover:underline gap-1"
