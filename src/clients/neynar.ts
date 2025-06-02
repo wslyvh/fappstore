@@ -42,43 +42,43 @@ function inferCategory(app: App): Category | undefined {
   return bestMatch;
 }
 
-function mergeApps(app1: App, app2: App): App {
-  const app = {
-    ...app1,
-    ...app2,
-    title: app1.title || app2.title,
-    subtitle: app1.subtitle || app2.subtitle,
-    description: app1.description || app2.description,
-    category: app1.category || app2.category,
-    homeUrl: app1.homeUrl || app2.homeUrl,
-    iconUrl: app1.iconUrl || app2.iconUrl,
-    imageUrl: app1.imageUrl || app2.imageUrl,
-    framesUrl: app1.framesUrl || app2.framesUrl,
-    backgroundColor: app1.backgroundColor || app2.backgroundColor,
-    author: {
-      ...app1.author,
-      ...app2.author,
-      bio: app1.author.bio || app2.author.bio,
-    },
-  };
+// function mergeApps(app1: App, app2: App): App {
+//   const app = {
+//     ...app1,
+//     ...app2,
+//     title: app1.title || app2.title,
+//     subtitle: app1.subtitle || app2.subtitle,
+//     description: app1.description || app2.description,
+//     category: app1.category || app2.category,
+//     homeUrl: app1.homeUrl || app2.homeUrl,
+//     iconUrl: app1.iconUrl || app2.iconUrl,
+//     imageUrl: app1.imageUrl || app2.imageUrl,
+//     framesUrl: app1.framesUrl || app2.framesUrl,
+//     backgroundColor: app1.backgroundColor || app2.backgroundColor,
+//     author: {
+//       ...app1.author,
+//       ...app2.author,
+//       bio: app1.author.bio || app2.author.bio,
+//     },
+//   };
 
-  const mergedTags = [...new Set([...(app1.tags || []), ...(app2.tags || [])])];
-  if (mergedTags.length > 0) {
-    app.tags = mergedTags;
-  }
+//   const mergedTags = [...new Set([...(app1.tags || []), ...(app2.tags || [])])];
+//   if (mergedTags.length > 0) {
+//     app.tags = mergedTags;
+//   }
 
-  const mergedScreenshotUrls = [
-    ...new Set([
-      ...(app1.screenshotUrls || []),
-      ...(app2.screenshotUrls || []),
-    ]),
-  ];
-  if (mergedScreenshotUrls.length > 0) {
-    app.screenshotUrls = mergedScreenshotUrls;
-  }
+//   const mergedScreenshotUrls = [
+//     ...new Set([
+//       ...(app1.screenshotUrls || []),
+//       ...(app2.screenshotUrls || []),
+//     ]),
+//   ];
+//   if (mergedScreenshotUrls.length > 0) {
+//     app.screenshotUrls = mergedScreenshotUrls;
+//   }
 
-  return app;
-}
+//   return app;
+// }
 
 export async function getCatalogData() {
   const catalog = await import("../../public/catalog.min.json");
