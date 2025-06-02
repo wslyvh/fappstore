@@ -172,9 +172,9 @@ export async function updateAppCatalog() {
   const mergedApps = existingApps.reduce((acc: App[], existingApp) => {
     const apiApp = apiAppsMap.get(existingApp.id);
     if (apiApp) {
-      // App still exists in API, merge with new data
+      // App still exists in API, use API data as source of truth but preserve indexedAt
       acc.push({
-        ...mergeApps(existingApp, apiApp),
+        ...apiApp,
         indexedAt: existingApp.indexedAt, // Preserve original indexing time
       });
 
