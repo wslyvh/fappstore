@@ -447,12 +447,10 @@ export function Explorer({ initialData, category }: ExplorerProps) {
                   </h3>
                   <div className="flex items-center mt-2 gap-2">
                     <div className="w-8 h-8 rounded-full bg-base-100 flex items-center justify-center overflow-hidden mr-2">
-                      <Image
+                      <img
                         src={app.author.pfpUrl}
                         alt={app.author.displayName}
-                        width={32}
-                        height={32}
-                        className="w-full h-full object-cover"
+                        className="w-full h-full object-cover rounded-full"
                       />
                     </div>
                     <div className="flex flex-col">

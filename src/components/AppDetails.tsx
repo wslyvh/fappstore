@@ -189,11 +189,10 @@ export default function AppDetails({ app, relatedApps }: AppDetailProps) {
           className="flex items-center gap-4 bg-base-200 rounded-2xl p-4 transition hover:bg-base-300"
         >
           <div className="w-16 h-16 relative flex-shrink-0">
-            <Image
+            <img
               src={app.author?.pfpUrl}
               alt={app.author?.displayName || "Developer"}
-              fill
-              className="object-cover rounded-full border border-base-200 bg-base-200"
+              className="w-full h-full object-cover rounded-full border border-base-200 bg-base-200"
             />
           </div>
           <div className="flex flex-col">

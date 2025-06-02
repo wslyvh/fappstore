@@ -101,12 +101,10 @@ export function FeaturedSlider({ apps }: { apps: App[] }) {
                 <div className="flex items-center mt-4 justify-between gap-2">
                   <div className="flex items-center">
                     <div className="w-12 h-12 rounded-full bg-base-200 flex items-center justify-center mr-3 overflow-hidden">
-                      <Image
+                      <img
                         src={app.author.pfpUrl}
                         alt={app.author.displayName}
-                        width={60}
-                        height={60}
-                        className="w-full h-full object-cover"
+                        className="w-full h-full object-cover rounded-full"
                       />
                     </div>
                     <div>
