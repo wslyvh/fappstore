@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-06-04T00:33:49.161Z",
-  "totalItems": 99,
+  "lastUpdated": "2025-06-05T00:33:16.087Z",
+  "totalItems": 199,
   "apps": [
     {
       "version": "next",
       "id": "crowdfund.seedclub.com",
-      "index": 3,
+      "index": 2,
       "title": "Crowdfund",
       "subtitle": "Fund good ideas.",
       "description": "Fund good ideas",
@@ -35,14 +35,14 @@
         "bio": "/seedclub ~ the /consumercrypto network ~ Make something people want to be a part of. https://www.seedclub.com",
         "powerBadge": false,
         "score": 0.99,
-        "followerCount": 6393
+        "followerCount": 6400
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "paragraph.com",
-      "index": 5,
+      "index": 6,
       "title": "Paragraph",
       "subtitle": "",
       "description": "Where writers share, grow, and get paid — one post at a time.",
@@ -59,7 +59,7 @@
         "bio": "cma.xyz. Founder /paragraph, ceo /mirror, previously at Google & Coinbase ",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 348984
+        "followerCount": 349044
       },
       "indexedAt": 1746911891
     },
@@ -95,14 +95,14 @@
         "bio": "Full-time dev, part-time debugger of my own bad decisions. Still lovely, allegedly!",
         "powerBadge": true,
         "score": 0.88,
-        "followerCount": 27782
+        "followerCount": 27799
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "www.harmonybot.xyz",
-      "index": 6,
+      "index": 12,
       "title": "Harmonybot",
       "subtitle": "",
       "description": "AI agent as an art platform",
@@ -120,14 +120,14 @@
         "bio": "Creating content with code: @livecaster @harmonybot /bot-or-not | /blitkin | /orange-dao | IRL: YC W15 Construction tech founder",
         "powerBadge": true,
         "score": 0.98,
-        "followerCount": 16120
+        "followerCount": 16143
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "leaderboard.frm.lol",
-      "index": 18,
+      "index": 8,
       "title": "The Leaderboard",
       "subtitle": "Where do you rank?",
       "description": "",
@@ -152,14 +152,14 @@
         "bio": "frame developer, web3 developer, long distance runner /streme /pixelnouns /frm /degendogs /degenfers /toka /maxis",
         "powerBadge": true,
         "score": 0.72,
-        "followerCount": 22713
+        "followerCount": 22741
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "farville.farm",
-      "index": 9,
+      "index": 10,
       "title": "Farville",
       "subtitle": "Farm daily, earn weekly",
       "description": "Plant, grow, and harvest crops with your friends.",
@@ -187,14 +187,14 @@
         "bio": "Web3 MVP product studio ~ /builders-garden https://builders.garden",
         "powerBadge": false,
         "score": 0.92,
-        "followerCount": 1512
+        "followerCount": 1517
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "pro.framedl.xyz",
-      "index": 8,
+      "index": 9,
       "title": "Framedl PRO",
       "subtitle": "Daily competitive wordle game mini app",
       "description": "Wordle in a frame",
@@ -219,14 +219,14 @@
         "bio": "fortune cookie casts, memes, parenting, building mini apps, /framedl, /framedl-pro & /calmer",
         "powerBadge": true,
         "score": 0.91,
-        "followerCount": 18696
+        "followerCount": 18699
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "wyat.live",
-      "index": 96,
+      "index": 1,
       "title": "wyat",
       "subtitle": "Share wyat and discover others",
       "description": "Share wyat (where you at) and discover what others are up to",
@@ -248,14 +248,14 @@
         "bio": "building wyat.live, bondes.xyz and fiids.xyz",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 78893
+        "followerCount": 78917
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "play.farcade.ai",
-      "index": 11,
+      "index": 7,
       "title": "Farcade",
       "subtitle": "",
       "description": "It's Game Time",
@@ -272,14 +272,14 @@
         "bio": "It's Game Time",
         "powerBadge": false,
         "score": 1,
-        "followerCount": 5968
+        "followerCount": 5973
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "pods.media",
-      "index": 45,
+      "index": 35,
       "title": "Pods",
       "subtitle": "Collect conversations.",
       "description": "Collect conversations.",
@@ -309,7 +309,7 @@
     {
       "version": "next",
       "id": "framedl.xyz",
-      "index": 10,
+      "index": 11,
       "title": "Framedl",
       "subtitle": "Daily wordle game mini app",
       "description": "Wordle in a frame",
@@ -334,14 +334,14 @@
         "bio": "fortune cookie casts, memes, parenting, building mini apps, /framedl, /framedl-pro & /calmer",
         "powerBadge": true,
         "score": 0.91,
-        "followerCount": 18696
+        "followerCount": 18699
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "hypersub.xyz",
-      "index": 71,
+      "index": 59,
       "title": "Hypersub",
       "subtitle": "",
       "description": "The easiest way to create, discover, and mint subscription NFTs",
@@ -358,14 +358,14 @@
         "bio": "hypersub.xyz",
         "powerBadge": false,
         "score": 0.97,
-        "followerCount": 4950
+        "followerCount": 4952
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "qrcoin.fun",
-      "index": 73,
+      "index": 57,
       "title": "$QR",
       "subtitle": "",
       "description": "Same QR. New Website. Every day.",
@@ -382,14 +382,14 @@
         "bio": "$QR: 0x2b5050F01d64FBb3e4Ac44dc07f0732BFb5ecadF",
         "powerBadge": false,
         "score": 0.93,
-        "followerCount": 4269
+        "followerCount": 4362
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "www.weponder.io",
-      "index": 34,
+      "index": 31,
       "title": "Ponder",
       "subtitle": "Predict what the crowd thinks",
       "description": "Complete daily polls that predict what the world is thinking. When you’re right, you win real money.",
@@ -418,14 +418,14 @@
         "bio": "A daily game of social intuition. Predict, play, win | By @ba and @cojo.eth | ponder.social",
         "powerBadge": false,
         "score": 0.97,
-        "followerCount": 3392
+        "followerCount": 3403
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "warps.fun",
-      "index": 86,
+      "index": 12,
       "title": "Warps",
       "subtitle": "Play Warps on Farcaster",
       "description": "Viral mini game on Base.",
@@ -448,14 +448,14 @@
         "bio": "Most of my casts (the good ones) are automated",
         "powerBadge": false,
         "score": 0.76,
-        "followerCount": 3091
+        "followerCount": 3120
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "nfeed-frame.vercel.app",
-      "index": 17,
+      "index": 16,
       "title": "Tortoise",
       "subtitle": "Social music",
       "description": "Stream, collect, and share music on Farcaster",
@@ -480,14 +480,14 @@
         "bio": "Builder of software and songs. /tortoise",
         "powerBadge": true,
         "score": 0.96,
-        "followerCount": 10935
+        "followerCount": 10979
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "gmonchain.vercel.app",
-      "index": 25,
+      "index": 27,
       "title": "GMonchain",
       "subtitle": "Send GM to another chain",
       "description": "GMonchain is a cutting-edge miniapp on Farcaster, crafted to deliver an exceptional user experience. It boosts your airdrop potential by leveraging onchain interactions with your Farcaster wallet and seamless engagement on Warpcast.\n Complete the easy tasks below and unlock reward. Reward will be distributed to 10 lucky users and you should be a winner.",
@@ -515,14 +515,14 @@
         "bio": "i’m not just a dev 🧑🏼‍💻\ni’m a devcaster 👨🏻‍🍳\ncooking up something fresh — only on farcaster\n-\nJoin the channel to GMeveryday /gmonchain /farrank /monader",
         "powerBadge": false,
         "score": 0.96,
-        "followerCount": 25337
+        "followerCount": 25892
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "nouns.gg",
-      "index": 55,
+      "index": 63,
       "title": "Nouns GG",
       "subtitle": "",
       "description": "Esports, powered by you!",
@@ -546,7 +546,7 @@
     {
       "version": "next",
       "id": "www.empirebuilder.world",
-      "index": 19,
+      "index": 22,
       "title": "Empire Builder",
       "subtitle": "",
       "description": "The ultimate tool for utility-pilling your tokens",
@@ -571,7 +571,7 @@
     {
       "version": "next",
       "id": "warpslot.fun",
-      "index": 13,
+      "index": 17,
       "title": "Warpslot",
       "subtitle": "",
       "description": "Spin to Win!",
@@ -588,14 +588,14 @@
         "bio": "Spin to win 💰                                                           Farcaster’s premiere memecoin dispenser 🎰",
         "powerBadge": false,
         "score": 0.98,
-        "followerCount": 4980
+        "followerCount": 5002
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "www.clanker.world",
-      "index": 59,
+      "index": 70,
       "title": "clanker",
       "subtitle": "",
       "description": "clanker world",
@@ -612,14 +612,14 @@
         "bio": "@clanker 🐺🐺🐺🐺🐺",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 13136
+        "followerCount": 13150
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "betrmint.fun",
-      "index": 22,
+      "index": 29,
       "title": "BETRMINT",
       "subtitle": "Mint. Spin. Win.",
       "description": "Mint, Spin & Win!",
@@ -644,14 +644,14 @@
         "bio": "Mint, Spin & Win in a mini app: http://betrmint.fun | Powered by $BETR. CA: 0x051024B653E8ec69E72693F776c41C2A9401FB07",
         "powerBadge": false,
         "score": 0.83,
-        "followerCount": 6327
+        "followerCount": 6363
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "miniapp.inflynce.com",
-      "index": 7,
+      "index": 4,
       "title": "Inflynce",
       "subtitle": "",
       "description": "Your social influence, on-chain.",
@@ -669,14 +669,14 @@
         "bio": "Attention Economy for @farcaster | Building on @base",
         "powerBadge": false,
         "score": 0.96,
-        "followerCount": 1145
+        "followerCount": 1186
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "poidh.xyz",
-      "index": 14,
+      "index": 15,
       "title": "poidh",
       "subtitle": "incentivize things",
       "description": "poidh - pics or it didn't happen - fully onchain bounties + collectible NFTs on Arbitrum, Base, or Degen Chain",
@@ -699,14 +699,14 @@
         "bio": "incentivizing things @ poidh.xyz - come chill /poidh + follow @poidhbot",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 62565
+        "followerCount": 62601
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "miniword.livediagonal.com",
-      "index": 32,
+      "index": 43,
       "title": "MiniWord",
       "subtitle": "",
       "description": "",
@@ -729,14 +729,14 @@
         "bio": "3x dad into type safety and martial arts",
         "powerBadge": false,
         "score": 0.87,
-        "followerCount": 207
+        "followerCount": 213
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "wrapai.app",
-      "index": 23,
+      "index": 25,
       "title": "WrapAI",
       "subtitle": "",
       "description": "Earn points through daily check-ins and redeem for exclusive Web3 rewards",
@@ -753,14 +753,14 @@
         "bio": "WrapAI.app fuses Web3 and AI, offering secure, decentralized solutions. In beta, join the airdrop to win exclusive tokens while testing innovative features!",
         "powerBadge": false,
         "score": 0.6,
-        "followerCount": 2435
+        "followerCount": 2449
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "drop.mint.club",
-      "index": 21,
+      "index": 24,
       "title": "Mint Drop",
       "subtitle": "Spin and win daily tokens",
       "description": "Spin the wheel daily for a chance to win $MT based tokens.",
@@ -785,14 +785,14 @@
         "bio": "Clap for Builders 👏🏻, Earn $HUNT Grant\nhunt.town/tip",
         "powerBadge": false,
         "score": 0.86,
-        "followerCount": 2358
+        "followerCount": 2369
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "mint.club",
-      "index": 64,
+      "index": 45,
       "title": "Mint.Club",
       "subtitle": "Build child tokens and NFTs",
       "description": "Create a custom bonding curve token/NFT on mint.club using your preferred ERC20, instantly tradable & monetizable.",
@@ -817,14 +817,14 @@
         "bio": "Clap for Builders 👏🏻, Earn $HUNT Grant\nhunt.town/tip",
         "powerBadge": false,
         "score": 0.86,
-        "followerCount": 2358
+        "followerCount": 2369
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "pinetree.so",
-      "index": 28,
+      "index": 37,
       "title": "Pinetree",
       "subtitle": "",
       "description": "The Economic Platform for Creators",
@@ -848,7 +848,7 @@
     {
       "version": "next",
       "id": "gigbot.xyz",
-      "index": 49,
+      "index": 47,
       "title": "Gig.bot",
       "subtitle": "Do Micro Bounties Earn Tokens",
       "description": "Gig.bot is a bounty marketplace for AI Agents and Humans. Any human or AI can create gigs and deposit tokens. Earners complete the tasks and claim their tokens to their wallet.",
@@ -873,14 +873,14 @@
         "bio": "🏗️ crypto builder  |  \n💼 @gigbot.eth  |  \n💸 paymagic.xyz  |  \n🌐 nf.td/corbin",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 158736
+        "followerCount": 158848
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "hunt.town",
-      "index": 41,
+      "index": 46,
       "title": "Hunt Town",
       "subtitle": "Web3 Builders Guild",
       "description": "Hunt Town is a Web3 builders guild where builders come together to contribute to the expansion of Web3 culture and products.",
@@ -905,14 +905,14 @@
         "bio": "Clap for Builders 👏🏻, Earn $HUNT Grant\nhunt.town/tip",
         "powerBadge": false,
         "score": 0.86,
-        "followerCount": 2358
+        "followerCount": 2369
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "eggs.name",
-      "index": 26,
+      "index": 28,
       "title": "$EGGS",
       "subtitle": "",
       "description": "HATCH EGG NOW",
@@ -929,14 +929,14 @@
         "bio": "cto @ bwl.gg, 100M+ users (bdut.ch) 🙏 $eggs is life",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 135610
+        "followerCount": 135767
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "tab.castfriends.com",
-      "index": 56,
+      "index": 49,
       "title": "tab",
       "subtitle": "Social payments on Farcaster",
       "description": "Social payments on Farcaster",
@@ -959,19 +959,19 @@
       "author": {
         "fid": 2201,
         "username": "carlos",
-        "displayName": "Carlos PRO",
+        "displayName": "Carlos",
         "pfpUrl": "https://i.imgur.com/dwDm3cP.jpg",
         "bio": "crafting farcaster.in + terminal.co + @usetab",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 11376
+        "followerCount": 11401
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "monadspin.xyz",
-      "index": 47,
+      "index": 48,
       "title": "Monad Spin",
       "subtitle": "Spin and Win Monad Rewards",
       "description": "🎰 MonadSpin: Spin to win real crypto on Monad chain! Onchain luck, Farcaster vibes, scrypto rewards, leaderboard & more! 🚀🪙",
@@ -999,14 +999,14 @@
         "bio": "i’m not just a dev 🧑🏼‍💻\ni’m a devcaster 👨🏻‍🍳\ncooking up something fresh — only on farcaster\n-\nJoin the channel to GMeveryday /gmonchain /farrank /monader",
         "powerBadge": false,
         "score": 0.96,
-        "followerCount": 25337
+        "followerCount": 25892
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "indexy.xyz",
-      "index": 58,
+      "index": 32,
       "title": "Indexy",
       "subtitle": "",
       "description": "Discover and track cryptocurrency tokens through intelligent data visualization and comprehensive blockchain insights.",
@@ -1024,14 +1024,14 @@
         "bio": "Crypto culture and markets | Newsletter & podcast: https://www.kaloh.xyz | Working on https://www.indexy.xyz",
         "powerBadge": true,
         "score": 0.99,
-        "followerCount": 221833
+        "followerCount": 221860
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "far-guesser.vercel.app",
-      "index": 75,
+      "index": 83,
       "title": "FarGuesser",
       "subtitle": "",
       "description": "Guess the daily location",
@@ -1048,14 +1048,14 @@
         "bio": "I like building crypto apps and learning new things. \n\nvmathur.com",
         "powerBadge": true,
         "score": 0.99,
-        "followerCount": 1330
+        "followerCount": 1340
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "degen-v2.vercel.app",
-      "index": 15,
+      "index": 19,
       "title": "DEGEN",
       "subtitle": "",
       "description": "$DEGEN stats by cashlessman.eth",
@@ -1072,14 +1072,14 @@
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
         "score": 0.96,
-        "followerCount": 6923
+        "followerCount": 6934
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "tipnearn.com",
-      "index": 53,
+      "index": 44,
       "title": "Tipn",
       "subtitle": "Tip ‘n Earn",
       "description": "Tip with every like. Only on Farcaster.",
@@ -1096,14 +1096,14 @@
         "bio": "Onchain startups. Farcaster app store (@farstore) and tips (@tipn)",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 7938
+        "followerCount": 7955
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "degen.altumbase.com",
-      "index": 65,
+      "index": 51,
       "title": "Degen Stats by @nikolaii.eth",
       "subtitle": "",
       "description": "📈💎Ultimate Statistics and Analytics for the DeSo World",
@@ -1120,14 +1120,14 @@
         "bio": "I cook frames. open for opportunities.",
         "powerBadge": true,
         "score": 0.91,
-        "followerCount": 64397
+        "followerCount": 64413
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "cast.basefrens.io",
-      "index": 43,
+      "index": 42,
       "title": "GM - GN",
       "subtitle": "",
       "description": "Cast a GM / GN for a fren!",
@@ -1151,7 +1151,7 @@
     {
       "version": "next",
       "id": "askgina.ai",
-      "index": 57,
+      "index": 80,
       "title": "Ask Gina",
       "subtitle": "Ask Gina about crypto and AI",
       "description": "Ask Gina",
@@ -1186,7 +1186,7 @@
     {
       "version": "next",
       "id": "fc-rewards.df-frame.xyz",
-      "index": 66,
+      "index": 76,
       "title": "FRewards",
       "subtitle": "",
       "description": "",
@@ -1203,14 +1203,14 @@
         "bio": "Full-time dev, part-time debugger of my own bad decisions. Still lovely, allegedly!",
         "powerBadge": true,
         "score": 0.88,
-        "followerCount": 27782
+        "followerCount": 27799
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "frame.megapot.io",
-      "index": 77,
+      "index": 82,
       "title": "Megapot",
       "subtitle": "",
       "description": "Daily mega jackpots on Base, where liquidity providers earn yield playing as the house!",
@@ -1227,14 +1227,14 @@
         "bio": "building world's largest jackpot @megapot • ex @uniswap • 🟪 #45, FID #1575",
         "powerBadge": true,
         "score": 0.99,
-        "followerCount": 6892
+        "followerCount": 6900
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "appreciation.lat",
-      "index": 68,
+      "index": 75,
       "title": "Appreciation",
       "subtitle": "",
       "description": "",
@@ -1251,14 +1251,14 @@
         "bio": "father, meditator and programmer. jpfraneto.substack.com",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 18181
+        "followerCount": 18222
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "tipopolis.hamst.art",
-      "index": 33,
+      "index": 21,
       "title": "Tipopolis",
       "subtitle": "Tipopolis",
       "description": "Tip allowances and frames",
@@ -1284,14 +1284,14 @@
         "bio": "hamst.art $hamster /hamster \nmartinvr.eth \ndeploy.degen.eth",
         "powerBadge": true,
         "score": 0.99,
-        "followerCount": 11126
+        "followerCount": 11172
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "www.betswirl.com",
-      "index": 46,
+      "index": 55,
       "title": "BetSwirl",
       "subtitle": "Web3 betting",
       "description": "🎲 Transforming the future of GambleFi with Web3 🎱 Bringing excitement and transparency to Gambling 💰 Do not trust the RNG  ⚽️ Sports",
@@ -1315,14 +1315,14 @@
         "bio": "⚽️ Sports, 🎮 Esports & 🎲 Casino\n🕵️ Trustless | Non-Custodial | No Deposits | No KYC\n🍥 Own $BETS, own the casino",
         "powerBadge": false,
         "score": 0.96,
-        "followerCount": 3960
+        "followerCount": 3969
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "fc-footy.vercel.app",
-      "index": 70,
+      "index": 79,
       "title": "Footy App",
       "subtitle": "Footy fun in farcaster",
       "description": "⚽️ match previews, summaries, Farcaster fantasy league, money games & onchain fan experiences",
@@ -1346,14 +1346,14 @@
         "bio": "Ethereum builder & people connector. Juicebox, Revnet, Defifa & Footy App",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 60593
+        "followerCount": 60617
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "streamm.tv",
-      "index": 60,
+      "index": 73,
       "title": "Streamm.TV",
       "subtitle": "",
       "description": "",
@@ -1377,7 +1377,7 @@
     {
       "version": "next",
       "id": "the-last-day.vercel.app",
-      "index": 72,
+      "index": 81,
       "title": "The Last Day",
       "subtitle": "",
       "description": "A Daily Art Experience",
@@ -1395,14 +1395,14 @@
         "bio": "Just /keepushing • believer of /butterflyeffect         3D artist • Year 5 of everydays                 https://linktr.ee/Push.gfx",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 20900
+        "followerCount": 20916
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "farrank.info",
-      "index": 85,
+      "index": 97,
       "title": "Farscore",
       "subtitle": "",
       "description": "🚀 Track your airdrop, flex your Farcaster score & wallet, and join the leaderboard! Claim your spot in the Farcaster fam! 💜🟦",
@@ -1419,14 +1419,14 @@
         "bio": "i’m not just a dev 🧑🏼‍💻\ni’m a devcaster 👨🏻‍🍳\ncooking up something fresh — only on farcaster\n-\nJoin the channel to GMeveryday /gmonchain /farrank /monader",
         "powerBadge": false,
         "score": 0.96,
-        "followerCount": 25337
+        "followerCount": 25892
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "f.bracket.game",
-      "index": 92,
+      "index": 8,
       "title": "Bracket",
       "subtitle": "Trade Live Sports",
       "description": "Real-time Social Markets for sports & live events",
@@ -1451,14 +1451,14 @@
         "bio": "LIVE THE GAME™ 🏀⚽️🏒⛳️ Live Sports Markets 📈 Powered by the Fans 🙌 $BRACKY /bracket @bracky ;)",
         "powerBadge": false,
         "score": 0.94,
-        "followerCount": 7713
+        "followerCount": 7711
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "cura.network",
-      "index": 30,
+      "index": 39,
       "title": "Cura",
       "subtitle": "",
       "description": "Curate, reward, and tokenize your community",
@@ -1482,14 +1482,14 @@
         "bio": "a bot for @cura\n\nhelping moderators manage channels here: https://cura.openrank.com",
         "powerBadge": false,
         "score": 0.45,
-        "followerCount": 563
+        "followerCount": 562
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "onit.fun",
-      "index": 84,
+      "index": 11,
       "title": "Onit - Prediction Markets",
       "subtitle": "The Predictions Protocol",
       "description": "Check out the latest prediction markets.",
@@ -1518,14 +1518,14 @@
         "bio": "Predictions Protocol https://onit.fun | react-native-passkeys maintainer | Variant Founder Fellow | Cambridge Alum | Formerly Ireland's #3 powerlifter (74kg)",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 81124
+        "followerCount": 81122
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "embedr-mini-app.vercel.app",
-      "index": 87,
+      "index": 77,
       "title": "Embedr",
       "subtitle": "",
       "description": "Generate Farcaster frames for YouTube videos and other links.",
@@ -1541,38 +1541,14 @@
         "bio": "/cal \n\nPhotographer, Artist, Web3 Educator, IP Lawyer, Patent Agent, Explorer 📸⛰️✨ \n\n Building with /mindfulness 🌊\n\nhttps://wanderloots.com/links",
         "powerBadge": true,
         "score": 0.99,
-        "followerCount": 7230
-      },
-      "indexedAt": 1746911891
-    },
-    {
-      "version": "next",
-      "id": "bhvr.dev",
-      "index": 98,
-      "title": "bhvr",
-      "subtitle": "",
-      "description": "A stack made for the open web",
-      "homeUrl": "https://bhvr.dev",
-      "iconUrl": "https://bhvr.dev/icon.png",
-      "imageUrl": "https://bhvr.dev/image.png",
-      "framesUrl": "https://bhvr.dev",
-      "backgroundColor": "#121113",
-      "author": {
-        "fid": 6023,
-        "username": "stevedylandev",
-        "displayName": "Steve",
-        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/baa79a75-f6a2-41ee-90f7-2dd74aaaad00/original",
-        "bio": "DX Engineer | Head of Developer Relations at /pinata | Building orbiter.host | stevedylan.dev/links | opinions are my own",
-        "powerBadge": true,
-        "score": 1,
-        "followerCount": 23591
+        "followerCount": 7235
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "farcademy.metopia.xyz",
-      "index": 83,
+      "index": 92,
       "title": "Farcademy",
       "subtitle": "",
       "description": "Metopia pioneers verifiable credentials, an interactive Web3 academy, and reputation-based raffles/opportunities. Build, learn, and earn in a decentralized ecosystem.",
@@ -1590,14 +1566,14 @@
         "bio": "Verifiable credential protocol built on \n@base, http://metopia.xyz is providing AI-Driven education. Verify, Learn & be rewarded\nFounder @metopiamoon",
         "powerBadge": false,
         "score": 0.98,
-        "followerCount": 2490
+        "followerCount": 2493
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "rounds.wtf",
-      "index": 52,
+      "index": 64,
       "title": "Rounds.wtf",
       "subtitle": "",
       "description": "Rounds are how communities award people onchain.",
@@ -1613,14 +1589,14 @@
         "bio": "Rounds helps communities grow by rewarding participants. Learn more at docs.rounds.wtf/faq or ask questions in /rounds",
         "powerBadge": false,
         "score": 0.7,
-        "followerCount": 5594
+        "followerCount": 5597
       },
       "indexedAt": 1746911891
     },
     {
       "version": "next",
       "id": "thefalsenine.xyz",
-      "index": 97,
+      "index": 22,
       "title": "The False Nine",
       "subtitle": "",
       "description": "Onchain football publication bringing the beautiful game onchain.",
@@ -1638,14 +1614,14 @@
         "bio": "Building products onchain 🌐 | magma Fellow | Kernel Fellow | bringing football onchain at /thefalsenine",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 10395
+        "followerCount": 10429
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "dash.bnbs.dev",
-      "index": 40,
+      "index": 52,
       "title": "Dash",
       "subtitle": "Explore videos on Farcaster",
       "description": "Explore videos on Farcaster.",
@@ -1675,14 +1651,14 @@
         "bio": "engineer /ponder, building /dash, obsessed with user experience. benbassler.com",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 6174
+        "followerCount": 6183
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "basedrop3.vercel.app",
-      "index": 42,
+      "index": 53,
       "title": "BaseDrop",
       "subtitle": "",
       "description": "",
@@ -1699,14 +1675,14 @@
         "bio": "Explore The Gaming Trenches.\n\nA New Game Every Week!",
         "powerBadge": false,
         "score": 0.92,
-        "followerCount": 239
+        "followerCount": 240
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "drawcast.xyz",
-      "index": 35,
+      "index": 41,
       "title": "Drawcast",
       "subtitle": "Draw and challenge friends",
       "description": "Draw something and challenge friends",
@@ -1736,14 +1712,14 @@
         "bio": "Builder: drawcast.xyz, mathcast.xyz, okcomputers.club, onchainbits.xyz, BA5ED Merch, basedyear.com and more | Host @ Based Budapest",
         "powerBadge": false,
         "score": 0.94,
-        "followerCount": 611
+        "followerCount": 613
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "bole.wtf",
-      "index": 79,
+      "index": 90,
       "title": "THE BOLE",
       "subtitle": "Beware THE BOLE is cooking",
       "description": "get ready for THE BOLE",
@@ -1780,7 +1756,7 @@
     {
       "version": "next",
       "id": "miniapp.productclank.com",
-      "index": 37,
+      "index": 50,
       "title": "Product Clank",
       "subtitle": "",
       "description": "",
@@ -1797,14 +1773,14 @@
         "bio": "Building productclank.com | @covariance | Growth for the next generation of builders ||\n| web3 social nerd | Future of /work is here & it's tokenized |",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 3103
+        "followerCount": 3115
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "buoy.club",
-      "index": 61,
+      "index": 72,
       "title": "Buoy",
       "subtitle": "",
       "description": "Monitor keywords on Farcaster",
@@ -1821,14 +1797,14 @@
         "bio": "Realtime keyword notifications on Farcaster delivered wherever you need. Available via mini-app, mobile, and web buoy.club dm @pfista for help",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 2360
+        "followerCount": 2361
       },
       "indexedAt": 1746911892
     },
     {
       "version": "next",
       "id": "www.builderscore.xyz",
-      "index": 91,
+      "index": 3,
       "title": "Base Builder Rewards",
       "subtitle": "",
       "description": "Weekly Rewards for the most impactful builders.",
@@ -1845,14 +1821,14 @@
         "bio": "Helping builders get the recognition they deserve.",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 31305
+        "followerCount": 31314
       },
       "indexedAt": 1746911893
     },
     {
       "version": "next",
       "id": "www.thefalsenine.xyz",
-      "index": 78,
+      "index": 89,
       "title": "Falsenine",
       "subtitle": "Bringing football onchain",
       "description": "Onchain football publication bringing the beautiful game onchain.",
@@ -1876,14 +1852,14 @@
         "bio": "Building products onchain 🌐 | magma Fellow | Kernel Fellow | bringing football onchain at /thefalsenine",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 10395
+        "followerCount": 10429
       },
       "indexedAt": 1746911893
     },
     {
       "version": "next",
       "id": "airdrop.ham.cooking",
-      "index": 31,
+      "index": 36,
       "title": "Airdrop",
       "subtitle": "Airdrop Extravaganza",
       "description": "Advanced Airdrop system",
@@ -1908,14 +1884,14 @@
         "bio": "hamst.art $hamster /hamster \nmartinvr.eth \ndeploy.degen.eth",
         "powerBadge": true,
         "score": 0.99,
-        "followerCount": 11126
+        "followerCount": 11172
       },
       "indexedAt": 1746911893
     },
     {
       "version": "next",
       "id": "livecaster.vercel.app",
-      "index": 69,
+      "index": 78,
       "title": "Livecaster",
       "subtitle": "Cast threads as realtime chat",
       "description": "Mini client in a frame to enjoy live events on Farcaster.",
@@ -1940,14 +1916,14 @@
         "bio": "Creating content with code: @livecaster @harmonybot /bot-or-not | /blitkin | /orange-dao | IRL: YC W15 Construction tech founder",
         "powerBadge": true,
         "score": 0.98,
-        "followerCount": 16120
+        "followerCount": 16143
       },
       "indexedAt": 1746911893
     },
     {
       "version": "next",
       "id": "bp.fun",
-      "index": 90,
+      "index": 84,
       "title": "Blueprint",
       "subtitle": "",
       "description": "Explore and collect exclusive content from Blueprint alumni.",
@@ -1971,7 +1947,7 @@
     {
       "version": "next",
       "id": "versus.wreckleague.xyz",
-      "index": 24,
+      "index": 26,
       "title": "Wreck League Versus",
       "subtitle": "Stay tuned for the updates",
       "description": "Mechs piloted by you. Battle and win reward.",
@@ -1996,14 +1972,14 @@
         "bio": "Check out /tower.\nEcosystem of mini apps, games, utility token $TOWER and more. Powered by @animocabrands.",
         "powerBadge": false,
         "score": 0.93,
-        "followerCount": 15584
+        "followerCount": 15594
       },
       "indexedAt": 1747096348
     },
     {
       "version": "next",
       "id": "donate.endaoment.org",
-      "index": 88,
+      "index": 91,
       "title": "Donate Now",
       "subtitle": "Give to over 1.8M orgs",
       "description": "Give to 1.8M orgs in over 150 countries",
@@ -2035,7 +2011,7 @@
     {
       "version": "next",
       "id": "nuts-founder.vercel.app",
-      "index": 80,
+      "index": 68,
       "title": "nuts tips stats",
       "subtitle": "",
       "description": "Track your nuts daily and all-time tips on Farcaster, check your rank, and manage your allowance",
@@ -2052,14 +2028,14 @@
         "bio": "Console.log (\"base-builder\")",
         "powerBadge": false,
         "score": 0.87,
-        "followerCount": 2455
+        "followerCount": 2459
       },
       "indexedAt": 1747355570
     },
     {
       "version": "next",
       "id": "farphone.xyz",
-      "index": 99,
+      "index": 17,
       "title": "FarPhone",
       "subtitle": "",
       "description": "Play games over the phone in a miniapp!",
@@ -2073,17 +2049,17 @@
         "username": "dylsteck.eth",
         "displayName": "dylan",
         "pfpUrl": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
-        "bio": "bringing mini apps to 1B users @base              dylansteck.com",
+        "bio": "bringing mini apps to 1B users @base | dylansteck.com",
         "powerBadge": true,
         "score": 0.97,
-        "followerCount": 101519
+        "followerCount": 101621
       },
       "indexedAt": 1747355571
     },
     {
       "version": "next",
       "id": "www.losfomos.xyz",
-      "index": 20,
+      "index": 13,
       "title": "Los Fomos",
       "subtitle": "",
       "description": "Where no idea is too spicy. The spice must flow",
@@ -2100,7 +2076,7 @@
         "bio": "LFer. Based in /los-fomos • Making onchain spicy | Building /uniklabs - a portable community graph. /cinema-mon-amour simp",
         "powerBadge": true,
         "score": 0.98,
-        "followerCount": 6544
+        "followerCount": 6564
       },
       "indexedAt": 1747614887
     },
@@ -2132,14 +2108,14 @@
         "bio": "idesign | icode| iModerate",
         "powerBadge": true,
         "score": 0.94,
-        "followerCount": 1142
+        "followerCount": 1141
       },
       "indexedAt": 1747701211
     },
     {
       "version": "next",
       "id": "miniapp.gmfarcaster.com",
-      "index": 44,
+      "index": 58,
       "title": "GM Farcaster",
       "subtitle": "Live streamed Farcaster news",
       "description": "Get your daily dose of Farcaster news and culture.",
@@ -2157,14 +2133,14 @@
         "bio": "Cohost of /gmfarcaster, a live stream Farcaster news show.  Engineer. Mom x 3. I love to share the wonder and beauty of daily life.",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 137462
+        "followerCount": 137509
       },
       "indexedAt": 1747873944
     },
     {
       "version": "next",
       "id": "openrank.genyapps.xyz",
-      "index": 89,
+      "index": 23,
       "title": "OpenRank",
       "subtitle": "Check your rank on Farcaster.",
       "description": "OpenRank is a decentralized ranking and reputation protocol.",
@@ -2193,14 +2169,14 @@
         "bio": "Legendary Builder • Artist | Collector | Author | Full Stack Developer • Working on /genyleap • /geny ecosystem.\n\nhttps://linktr.ee/compez",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 43252
+        "followerCount": 43261
       },
       "indexedAt": 1747873944
     },
     {
       "version": "next",
       "id": "backward.social",
-      "index": 76,
+      "index": 26,
       "title": "Pay it Backward",
       "subtitle": "Pay, Share, Receive",
       "description": "",
@@ -2225,14 +2201,14 @@
         "bio": "frame developer, web3 developer, long distance runner /streme /pixelnouns /frm /degendogs /degenfers /toka /maxis",
         "powerBadge": true,
         "score": 0.72,
-        "followerCount": 22713
+        "followerCount": 22741
       },
       "indexedAt": 1747960369
     },
     {
       "version": "next",
       "id": "app.circus.fun",
-      "index": 74,
+      "index": 86,
       "title": "Circus",
       "subtitle": "",
       "description": "The greatest show onchain.",
@@ -2249,14 +2225,14 @@
         "bio": "building @jestr / diviswap.com",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 8790
+        "followerCount": 8839
       },
       "indexedAt": 1747960369
     },
     {
       "version": "next",
       "id": "streme.fun",
-      "index": 54,
+      "index": 18,
       "title": "Streme",
       "subtitle": "",
       "description": "Ape. Stake. Earn.",
@@ -2277,14 +2253,14 @@
         "bio": "Building /streme. Wanna be the very best. ゼニゼニ",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 10250
+        "followerCount": 10273
       },
       "indexedAt": 1747960370
     },
     {
       "version": "next",
       "id": "fc-poap.dtech.vision",
-      "index": 95,
+      "index": 19,
       "title": "Farcaster POAP",
       "subtitle": "",
       "description": "Farewell Warpcast POAP",
@@ -2300,14 +2276,14 @@
         "bio": "Farcaster Development Boutique @ https://dTech.vision 💜 in love with tech 🤓decentralization, fitness and oldschool rap 😎",
         "powerBadge": true,
         "score": 0.99,
-        "followerCount": 26666
+        "followerCount": 26683
       },
       "indexedAt": 1748046691
     },
     {
       "version": "next",
       "id": "app.noice.so",
-      "index": 16,
+      "index": 23,
       "title": "noice",
       "subtitle": "",
       "description": "turn your farcaster presence into programmable value",
@@ -2324,20 +2300,20 @@
         "bio": "noice.so",
         "powerBadge": false,
         "score": 0.87,
-        "followerCount": 7067
+        "followerCount": 7393
       },
       "indexedAt": 1748046691
     },
     {
       "version": "next",
       "id": "scratch.gold",
-      "index": 50,
+      "index": 30,
       "title": "Scratch",
       "subtitle": "",
       "description": "",
       "homeUrl": "https://scratch.gold",
       "iconUrl": "https://scratch.gold/horse.png",
-      "imageUrl": "https://scratch.gold/card42.png",
+      "imageUrl": "https://scratch.gold/newcard1.png",
       "framesUrl": "https://scratch.gold",
       "backgroundColor": "#000000",
       "author": {
@@ -2348,7 +2324,7 @@
         "bio": "free to play scratchers. new cards everyday at 12pm MST.\n\nhttps://scratch.gold",
         "powerBadge": false,
         "score": 0.88,
-        "followerCount": 1261
+        "followerCount": 1361
       },
       "indexedAt": 1748046691
     },
@@ -2372,14 +2348,14 @@
         "bio": "The creative social network. ✳︎ rodeo.club",
         "powerBadge": true,
         "score": 0.87,
-        "followerCount": 9346
+        "followerCount": 9355
       },
       "indexedAt": 1748046691
     },
     {
       "version": "next",
       "id": "castdex.vercel.app",
-      "index": 48,
+      "index": 60,
       "title": "CastDex",
       "subtitle": "",
       "description": "Track and analyze DEX data across multiple networks in your Farcaster mini app",
@@ -2396,14 +2372,14 @@
         "bio": "g0hst.win\n\nblakarmory.com\n\n/blakarmory",
         "powerBadge": false,
         "score": 0.97,
-        "followerCount": 3028
+        "followerCount": 3045
       },
       "indexedAt": 1748046692
     },
     {
       "version": "next",
       "id": "monadfactory.vercel.app",
-      "index": 38,
+      "index": 56,
       "title": "Monad Factory",
       "subtitle": "Get testnet MON tokens",
       "description": "Free testnet MON tokens, deploy smart contracts, and mint NFTs on the Monad Network",
@@ -2427,14 +2403,14 @@
         "bio": "i’m not just a dev 🧑🏼‍💻\ni’m a devcaster 👨🏻‍🍳\ncooking up something fresh — only on farcaster\n-\nJoin the channel to GMeveryday /gmonchain /farrank /monader",
         "powerBadge": false,
         "score": 0.96,
-        "followerCount": 25337
+        "followerCount": 25892
       },
       "indexedAt": 1748133386
     },
     {
       "version": "next",
       "id": "collectr.live",
-      "index": 39,
+      "index": 54,
       "title": "Collectr - Monthly Art",
       "subtitle": "Publishing onchain art",
       "description": "Own stunning onchain art every month. Collect art NFTs at your own pace and discover global creators monthly!",
@@ -2458,14 +2434,14 @@
         "bio": "Start your art collecting journey with our monthly editions on Base! 🔵✨\n\nhttps://collectr.live/2025/jun",
         "powerBadge": false,
         "score": 0.94,
-        "followerCount": 1104
+        "followerCount": 1105
       },
       "indexedAt": 1748219629
     },
     {
       "version": "next",
       "id": "monzi.org",
-      "index": 94,
+      "index": 6,
       "title": "Monzi",
       "subtitle": "Monad Testnet Ponzi Scheme",
       "description": "Monad Testnet Ponzi Scheme",
@@ -2491,14 +2467,14 @@
         "bio": "Random 20 | Founder and CEO of Monda | Proud member of Monad community",
         "powerBadge": false,
         "score": 0.94,
-        "followerCount": 1278
+        "followerCount": 1284
       },
       "indexedAt": 1748305929
     },
     {
       "version": "next",
       "id": "fc-pro-num.kasra.codes",
-      "index": 2,
+      "index": 69,
       "title": "FC Pro Number",
       "subtitle": "",
       "description": "",
@@ -2515,14 +2491,14 @@
         "bio": "aspiring person https://kasra.codes",
         "powerBadge": false,
         "score": 0.99,
-        "followerCount": 9411
+        "followerCount": 9749
       },
       "indexedAt": 1748392361
     },
     {
       "version": "next",
       "id": "schedule-cast.vercel.app",
-      "index": 63,
+      "index": 62,
       "title": "Schedule Cast",
       "subtitle": "Schedule your Farcaster casts",
       "description": "",
@@ -2547,44 +2523,14 @@
         "bio": "• Pronounced: /savage • Co-Founder of /mintedmerch • Collector 💎 | /modretro Gamer 👾 | Vibe Coder 💻 | @katkartel.eth 💜 | ⌐◨-◨ 🟡 | linktr.ee/SVVVG3 ↑",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 9500
+        "followerCount": 9508
       },
       "indexedAt": 1748392361
     },
     {
       "version": "next",
-      "id": "tbpn.vercel.app",
-      "index": 67,
-      "title": "TBPN",
-      "subtitle": "Watch TBPN live on Farcaster",
-      "description": "Technology's daily show with John Coogan and Jordi Hays. Live on Farcaster Monday through Friday.",
-      "category": "news-media",
-      "tags": [
-        "video",
-        "technology",
-        "news"
-      ],
-      "homeUrl": "https://tbpn.vercel.app",
-      "iconUrl": "https://tbpn.vercel.app/static/icon.png",
-      "imageUrl": "https://tbpn.vercel.app/static/og.png",
-      "framesUrl": "https://tbpn.vercel.app",
-      "backgroundColor": "#000000",
-      "author": {
-        "fid": 373,
-        "username": "jayme",
-        "displayName": "Jayme Hoffman",
-        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/13ac4e55-6c63-4c79-63e1-593a562d2700/original",
-        "bio": "",
-        "powerBadge": true,
-        "score": 0.98,
-        "followerCount": 169835
-      },
-      "indexedAt": 1748392362
-    },
-    {
-      "version": "next",
       "id": "weekly-drop.vercel.app",
-      "index": 62,
+      "index": 65,
       "title": "weeklyDrop",
       "subtitle": "",
       "description": "weekly drop",
@@ -2600,14 +2546,14 @@
         "bio": "dev. \nall my frames: @infobot, working on @degensub,\nopen for opportunities",
         "powerBadge": true,
         "score": 0.96,
-        "followerCount": 6923
+        "followerCount": 6934
       },
       "indexedAt": 1748392363
     },
     {
       "version": "next",
       "id": "app.degen.tips",
-      "index": 29,
+      "index": 34,
       "title": "Degen",
       "subtitle": "",
       "description": "We are the Decentralized Generation.",
@@ -2624,14 +2570,14 @@
         "bio": "Lead $DEGEN | https://www.degen.tips/",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 97073
+        "followerCount": 97274
       },
       "indexedAt": 1748392363
     },
     {
       "version": "next",
       "id": "merv.fun",
-      "index": 4,
+      "index": 3,
       "title": "merv",
       "subtitle": "",
       "description": "merv",
@@ -2648,14 +2594,14 @@
         "bio": "cto @ bwl.gg, 100M+ users (bdut.ch) 🙏 $eggs is life",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 135610
+        "followerCount": 135767
       },
       "indexedAt": 1748478768
     },
     {
       "version": "next",
       "id": "www.griv.gg",
-      "index": 36,
+      "index": 38,
       "title": "Griv",
       "subtitle": "For the ones that show up.",
       "description": "A social health app.",
@@ -2679,14 +2625,14 @@
         "bio": "Building @griv\n\n                                                                                  Creator of: 🔗 /dollarchain 🌐 /minimap 🐔 /tappy",
         "powerBadge": false,
         "score": 0.94,
-        "followerCount": 979
+        "followerCount": 986
       },
       "indexedAt": 1748478769
     },
     {
       "version": "next",
       "id": "farfaucet.vercel.app",
-      "index": 81,
+      "index": 71,
       "title": "Farfaucet",
       "subtitle": "",
       "description": "Testnet faucet for farcaster users",
@@ -2704,14 +2650,14 @@
         "bio": "I like building crypto apps and learning new things. \n\nvmathur.com",
         "powerBadge": true,
         "score": 0.99,
-        "followerCount": 1330
+        "followerCount": 1340
       },
       "indexedAt": 1748565160
     },
     {
       "version": "next",
       "id": "play.henlokart.com",
-      "index": 82,
+      "index": 87,
       "title": "Henlo Kart",
       "subtitle": "",
       "description": "Race cute hamsters against the world! An app by Onchain Gaias! Big Rewards every day!",
@@ -2729,14 +2675,14 @@
         "bio": "QUANTUM PHYSICIST",
         "powerBadge": false,
         "score": 0.39,
-        "followerCount": 180
+        "followerCount": 182
       },
       "indexedAt": 1748651525
     },
     {
       "version": "next",
       "id": "fricks.lat",
-      "index": 12,
+      "index": 20,
       "title": "fricks",
       "subtitle": "",
       "description": "",
@@ -2753,14 +2699,14 @@
         "bio": "father, meditator and programmer. jpfraneto.substack.com",
         "powerBadge": true,
         "score": 1,
-        "followerCount": 18181
+        "followerCount": 18222
       },
       "indexedAt": 1748738459
     },
     {
       "version": "next",
       "id": "megapool-frontend.vercel.app",
-      "index": 51,
+      "index": 67,
       "title": "megapool",
       "subtitle": "",
       "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
@@ -2776,9 +2722,2812 @@
         "bio": "software engineer and onchain craftsperson",
         "powerBadge": false,
         "score": 0.99,
-        "followerCount": 6646
+        "followerCount": 6652
       },
       "indexedAt": 1748738459
+    },
+    {
+      "version": "next",
+      "id": "mint-frame-we-cast-pro.vercel.app",
+      "index": 5,
+      "title": "WeCastPro Mint",
+      "subtitle": "Mint a WeCastPro",
+      "description": "Mint a WeCastPro from ChrisCoCreated",
+      "category": "art-creativity",
+      "tags": [
+        "social",
+        "community",
+        "art",
+        "cocreated",
+        "artifact"
+      ],
+      "homeUrl": "https://mint-frame-we-cast-pro.vercel.app/",
+      "iconUrl": "https://mint-frame-we-cast-pro.vercel.app//icon.png",
+      "framesUrl": "https://mint-frame-we-cast-pro.vercel.app/",
+      "screenshotUrls": [
+        "https://mint-frame-we-cast-pro.vercel.app//screenshot1.png",
+        "https://mint-frame-we-cast-pro.vercel.app//screenshot2.png",
+        "https://mint-frame-we-cast-pro.vercel.app//screenshot3.png"
+      ],
+      "backgroundColor": "#0f172a",
+      "author": {
+        "fid": 5701,
+        "username": "chriscocreated",
+        "displayName": "ChrisCoCreated",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+        "bio": "I make digital art that explores how we express ourselves together.\nPursuing an onchain life lived truly and happily. art.cocreated.xyz/chris 🎈 wearethe.art",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 57417
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "ayolive.xyz",
+      "index": 14,
+      "title": "Trivia",
+      "subtitle": "Live Trivia Game Show",
+      "description": "Live Trivia Game Show on Warpcast",
+      "category": "social",
+      "tags": [
+        "trivia",
+        "game",
+        "live",
+        "fun",
+        "entertainment"
+      ],
+      "homeUrl": "https://ayolive.xyz/",
+      "iconUrl": "https://ayolive.xyz/favicon.png",
+      "imageUrl": "https://ayolive.xyz/frame.png",
+      "framesUrl": "https://ayolive.xyz/",
+      "screenshotUrls": [
+        "https://ayolive.xyz/frame.png"
+      ],
+      "backgroundColor": "#eeccff",
+      "author": {
+        "fid": 4282,
+        "username": "matthewfox",
+        "displayName": "Matthew Fox 🌐",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52233f0e-19bf-4a35-6e29-686520c43000/rectcrop3",
+        "bio": "Mini apps will eat the internet | Latest drop: /clankermon | Building : /miniapps /large /fctrivia /flappycaster /jeeves /source @degentip @playsource /jump",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 24182
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "app.acidtest.xyz",
+      "index": 40,
+      "title": "Acid Test",
+      "subtitle": "Mint new episodes weekly",
+      "description": "ACIDTEST is an onchain radio show bringing music, conversation and creative energy to Farcaster. Hosted by chaim.eth.",
+      "category": "news-media",
+      "tags": [
+        "music",
+        "podcast",
+        "interviews",
+        "radio",
+        "chaim"
+      ],
+      "homeUrl": "https://app.acidtest.xyz",
+      "iconUrl": "https://app.acidtest.xyz/images/icon.png",
+      "imageUrl": "https://app.acidtest.xyz/images/feed.jpg",
+      "framesUrl": "https://app.acidtest.xyz",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 1504,
+        "username": "chaim.eth",
+        "displayName": "matthew chaim",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d479166-4901-4054-21fc-bd1fb34bf300/rectcrop3",
+        "bio": "host @acidtest +",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 3457
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "rofl.house",
+      "index": 61,
+      "title": "Rofl House",
+      "subtitle": "Create fair onchain raffles",
+      "description": "Create provably fair onchain raffles with any token",
+      "category": "games",
+      "tags": [
+        "games",
+        "defi",
+        "raffle",
+        "jackpot",
+        "lottery"
+      ],
+      "homeUrl": "https://rofl.house",
+      "iconUrl": "https://rofl.house/logo.png",
+      "framesUrl": "https://rofl.house",
+      "backgroundColor": "#3B82F6",
+      "author": {
+        "fid": 217248,
+        "username": "myk",
+        "displayName": "myk.eth",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab39123-9da1-408c-ae95-6bbd1ae65500/original",
+        "bio": "doing the right thing.\nworking hard.\nbeing optimistic.\nputting the team over the individual.\npushing boundaries with creativity.\n\neng @ base",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 5604
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "matcha-jump.kasra.codes",
+      "index": 66,
+      "title": "Matcha Jump",
+      "subtitle": "",
+      "description": "",
+      "homeUrl": "https://matcha-jump.kasra.codes",
+      "iconUrl": "https://cover-art.kasra.codes/matcha_jump_square.png",
+      "imageUrl": "https://cover-art.kasra.codes/matcha_jump_rectangle.png",
+      "framesUrl": "https://matcha-jump.kasra.codes",
+      "backgroundColor": "#FFFFFF",
+      "author": {
+        "fid": 977233,
+        "username": "jc4p",
+        "displayName": "Kasra Rahjerdi",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+        "bio": "aspiring person https://kasra.codes",
+        "powerBadge": false,
+        "score": 0.99,
+        "followerCount": 9749
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "secretapp.altumbase.com",
+      "index": 74,
+      "title": "SecretApp by @nikolaiii",
+      "subtitle": "",
+      "description": "Secret App Frame",
+      "homeUrl": "https://secretapp.altumbase.com",
+      "iconUrl": "https://secret.altumbase.com/images/secret.png",
+      "imageUrl": "https://secret.altumbase.com/images/secret.png",
+      "framesUrl": "https://secretapp.altumbase.com",
+      "backgroundColor": "#FFEEEC",
+      "author": {
+        "fid": 366713,
+        "username": "nikolaii.eth",
+        "displayName": "nikolaii.eth 🚀",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eae2e0d7-f252-48c1-9685-aa17d2fee000/original",
+        "bio": "I cook frames. open for opportunities.",
+        "powerBadge": true,
+        "score": 0.91,
+        "followerCount": 64413
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "adivinadrone.c13studio.mx",
+      "index": 85,
+      "title": "adivinaDrone",
+      "subtitle": "Can you guess the location?",
+      "description": "Think you know the world? Take the ultimate guess in our photo challenge!",
+      "category": "games",
+      "tags": [
+        "games",
+        "photography",
+        "drone",
+        "aerial",
+        "challenges"
+      ],
+      "homeUrl": "https://adivinadrone.c13studio.mx",
+      "iconUrl": "https://adivinadrone.c13studio.mx/favicon.png",
+      "imageUrl": "https://adivinadrone.c13studio.mx/castLoader.png",
+      "framesUrl": "https://adivinadrone.c13studio.mx",
+      "screenshotUrls": [
+        "https://adivinadrone.c13studio.mx/ss_01.jpg",
+        "https://adivinadrone.c13studio.mx/ss_02.jpg",
+        "https://adivinadrone.c13studio.mx/ss_03.jpg"
+      ],
+      "backgroundColor": "#2d283a",
+      "author": {
+        "fid": 20701,
+        "username": "chaps",
+        "displayName": "carlos",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cae1d197-6bbc-49c9-67d0-61b635edf700/original",
+        "bio": "🇲🇽 | building @livmore | genart collector | generative design | architect | @w3runn3rs | /adivinadrone | 🇲🇽",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 9891
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "frames-in-blue.vercel.app",
+      "index": 88,
+      "title": "frames in blue",
+      "subtitle": "",
+      "description": "",
+      "category": "art-creativity",
+      "tags": [
+        "art",
+        "nft",
+        "photography",
+        "priyanka"
+      ],
+      "homeUrl": "https://frames-in-blue.vercel.app",
+      "iconUrl": "https://frames-in-blue.vercel.app/icon.png",
+      "imageUrl": "https://frames-in-blue.vercel.app/framedinblue4.png",
+      "framesUrl": "https://frames-in-blue.vercel.app",
+      "backgroundColor": "#FFFFFF",
+      "author": {
+        "fid": 6373,
+        "username": "priyanka",
+        "displayName": "proyanka 🦉",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6e9f0068-0e44-4d03-0d25-d498fc309b00/original",
+        "bio": "photographer • gen art noob /priyanka • art subscription hypersub.xyz/s/patronsofblue",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 25392
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "polling.center",
+      "index": 94,
+      "title": "Polling Center",
+      "subtitle": "",
+      "description": "Onchain polling platform for Farcaster",
+      "homeUrl": "https://polling.center",
+      "iconUrl": "https://images.polling.center/polling_center_square.png",
+      "imageUrl": "https://images.polling.center/polling_center_rectangle.png",
+      "framesUrl": "https://polling.center",
+      "backgroundColor": "#E9FFD8",
+      "author": {
+        "fid": 977233,
+        "username": "jc4p",
+        "displayName": "Kasra Rahjerdi",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+        "bio": "aspiring person https://kasra.codes",
+        "powerBadge": false,
+        "score": 0.99,
+        "followerCount": 9749
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "frame.intori.co",
+      "index": 95,
+      "title": "intori",
+      "subtitle": "Meet the right people",
+      "description": "intori - Your data, connected.",
+      "category": "social",
+      "tags": [
+        "rewards",
+        "friends",
+        "social",
+        "discover"
+      ],
+      "homeUrl": "https://frame.intori.co",
+      "iconUrl": "https://frame.intori.co/images/logo.png",
+      "imageUrl": "https://frame.intori.co/images/imageUrl.png",
+      "framesUrl": "https://frame.intori.co",
+      "screenshotUrls": [],
+      "backgroundColor": "#A388ED",
+      "author": {
+        "fid": 294394,
+        "username": "intori",
+        "displayName": "intori",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c54702a6-4a8d-4d9a-c86c-8d6d1edb9a00/original",
+        "bio": "Meet the Right People on Farcaster | Answer questions. Unlock insights. Give gifts. Make connections /intori",
+        "powerBadge": false,
+        "score": 0.98,
+        "followerCount": 4201
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "farcaster-friend-finder.vercel.app",
+      "index": 96,
+      "title": "Friend Finder",
+      "subtitle": "",
+      "description": "Discover warm connections and analyze one-way follows in your Farcaster network",
+      "category": "social",
+      "homeUrl": "https://farcaster-friend-finder.vercel.app",
+      "iconUrl": "https://farcaster-friend-finder.vercel.app/FriendFinderSplashImage.png",
+      "imageUrl": "https://farcaster-friend-finder.vercel.app/FriendFinderEmbed.png",
+      "framesUrl": "https://farcaster-friend-finder.vercel.app",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 466111,
+        "username": "svvvg3.eth",
+        "displayName": "SVVVG3",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a543c5fa-65ce-4df4-6312-8ffa14ab1e00/original",
+        "bio": "• Pronounced: /savage • Co-Founder of /mintedmerch • Collector 💎 | /modretro Gamer 👾 | Vibe Coder 💻 | @katkartel.eth 💜 | ⌐◨-◨ 🟡 | linktr.ee/SVVVG3 ↑",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 9508
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "bankr.bot",
+      "index": 98,
+      "title": "Bankr",
+      "subtitle": "AI-Powered Crypto Companion",
+      "description": "Bankr is an AI agent that can buy, sell, swap coins and place limit orders.",
+      "category": "shopping",
+      "homeUrl": "https://bankr.bot/terminal",
+      "iconUrl": "https://bankr.bot/frame-icon.jpg",
+      "framesUrl": "https://bankr.bot/terminal",
+      "backgroundColor": "#a78bfa",
+      "author": {
+        "fid": 4482,
+        "username": "deployer",
+        "displayName": "Deployer",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8614dfae-0aa3-48ee-ef1b-6c5dc59db800/original",
+        "bio": "Currently deploying. Unofficial head platypus of /lp ",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 64102
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "titles.xyz",
+      "index": 99,
+      "title": "TITLES",
+      "subtitle": "",
+      "description": "Creative tools powered by artist-trained AI models.",
+      "category": "art-creativity",
+      "homeUrl": "https://titles.xyz/frames/create",
+      "iconUrl": "https://titles.xyz/img/titles-logo-250-250.png",
+      "imageUrl": "https://titles.xyz/img/social-share-dark.png",
+      "framesUrl": "https://titles.xyz/frames/create",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 18148,
+        "username": "titles",
+        "displayName": "TITLES",
+        "pfpUrl": "https://supercast.mypinata.cloud/ipfs/Qma9VCfmxT6qFmuRdvGUwD6eVBxvduw1qsMt4whUQHFyrF?filename=TITLES_logo_gif_white-on-black.gif",
+        "bio": "Imagine together 💫 /titles",
+        "powerBadge": false,
+        "score": 0.99,
+        "followerCount": 2974
+      },
+      "indexedAt": 1749083585
+    },
+    {
+      "version": "next",
+      "id": "inprocess.fun",
+      "index": 0,
+      "title": "In Process",
+      "subtitle": "",
+      "description": "A Collective Onchain Timeline for artists",
+      "category": "art-creativity",
+      "homeUrl": "https://inprocess.fun",
+      "iconUrl": "https://inprocess.fun/site_preview.png",
+      "imageUrl": "https://inprocess.fun/site_preview.png",
+      "framesUrl": "https://inprocess.fun",
+      "backgroundColor": "#e4e0db",
+      "author": {
+        "fid": 210648,
+        "username": "sweetman.eth",
+        "displayName": "sweetman",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34f82bba-bd77-47ca-236a-4f1f6fb3a700/rectcrop3",
+        "bio": "✧the dev for onchain music\n✧✧✧✧✧✧✧",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 2991
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "amps.fun",
+      "index": 2,
+      "title": "Amps",
+      "subtitle": "Get paid when friends post",
+      "description": "Get paid when friends post",
+      "category": "utility",
+      "tags": [
+        "Social",
+        "Earn",
+        "Advertising",
+        "Ads",
+        "USDC"
+      ],
+      "homeUrl": "https://amps.fun",
+      "iconUrl": "https://amps.fun/icon.png",
+      "imageUrl": "https://amps.fun/icon.png",
+      "framesUrl": "https://amps.fun",
+      "screenshotUrls": [
+        "https://amps.fun/amps-screenshot-1.png"
+      ],
+      "backgroundColor": "#1A1623",
+      "author": {
+        "fid": 980410,
+        "username": "ampsfun",
+        "displayName": "amps.fun",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b691633-c886-4cdf-ed85-88a7d34b9c00/original",
+        "bio": "get paid when friends post",
+        "powerBadge": false,
+        "score": 0.89,
+        "followerCount": 7304
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "spaces.0xmoe.com",
+      "index": 4,
+      "title": "Spaces",
+      "subtitle": "Live audio conversations",
+      "description": "",
+      "category": "social",
+      "homeUrl": "https://spaces.0xmoe.com",
+      "iconUrl": "https://spaces.0xmoe.com/icon",
+      "framesUrl": "https://spaces.0xmoe.com",
+      "backgroundColor": "#111111",
+      "author": {
+        "fid": 2073,
+        "username": "moe",
+        "displayName": "MOΞ",
+        "pfpUrl": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
+        "bio": "",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 8118
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "sausagedad.win",
+      "index": 5,
+      "title": "Sausage Shack",
+      "subtitle": "",
+      "description": "The official home of Sausage - $SAUSAGE",
+      "homeUrl": "https://sausagedad.win",
+      "iconUrl": "https://sausagedad.win/images/icon.png",
+      "imageUrl": "https://sausagedad.win/images/frame-preview.png",
+      "framesUrl": "https://sausagedad.win",
+      "backgroundColor": "#F5F0DC",
+      "author": {
+        "fid": 842363,
+        "username": "g0hst",
+        "displayName": "g0hst",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/709e66c4-8a43-4731-2e38-f8eed9d5d500/original",
+        "bio": "g0hst.win\n\nblakarmory.com\n\n/blakarmory",
+        "powerBadge": false,
+        "score": 0.97,
+        "followerCount": 3045
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "pet-me-test.netlify.app",
+      "index": 7,
+      "title": "Pet Me",
+      "subtitle": "",
+      "description": "Discover your feline aura and spiritual energy",
+      "homeUrl": "https://pet-me-test.netlify.app",
+      "iconUrl": "https://pet-me-test.netlify.app/images/icon.png",
+      "imageUrl": "https://pet-me-test.netlify.app/images/thumbnail.png",
+      "framesUrl": "https://pet-me-test.netlify.app",
+      "backgroundColor": "#372450",
+      "author": {
+        "fid": 397971,
+        "username": "towerecosystem",
+        "displayName": "TOWER Ecosystem",
+        "pfpUrl": "https://i.imgur.com/HNUZ1FU.jpg",
+        "bio": "Check out /tower.\nEcosystem of mini apps, games, utility token $TOWER and more. Powered by @animocabrands.",
+        "powerBadge": false,
+        "score": 0.93,
+        "followerCount": 15594
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "tones.kasra.codes",
+      "index": 9,
+      "title": "Synth Hero",
+      "subtitle": "",
+      "description": "",
+      "homeUrl": "https://tones.kasra.codes",
+      "iconUrl": "https://cover-art.kasra.codes/tones-icon-512-rectangle.png",
+      "imageUrl": "https://cover-art.kasra.codes/tones-icon-512-rectangle.png",
+      "framesUrl": "https://tones.kasra.codes",
+      "backgroundColor": "#A557FF",
+      "author": {
+        "fid": 977233,
+        "username": "jc4p",
+        "displayName": "Kasra Rahjerdi",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+        "bio": "aspiring person https://kasra.codes",
+        "powerBadge": false,
+        "score": 0.99,
+        "followerCount": 9749
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "bank-of-celo.vercel.app",
+      "index": 10,
+      "title": "Bank of Celo",
+      "subtitle": "",
+      "description": "Bank of Celo is built to help farcaster users get started on celo",
+      "category": "art-creativity",
+      "homeUrl": "https://bank-of-celo.vercel.app",
+      "iconUrl": "https://bank-of-celo.vercel.app/icon.png",
+      "imageUrl": "https://bank-of-celo.vercel.app/opengraph-image",
+      "framesUrl": "https://bank-of-celo.vercel.app",
+      "backgroundColor": "#f7f7f7",
+      "author": {
+        "fid": 420564,
+        "username": "gabedev.eth",
+        "displayName": "gabe 🎩",
+        "pfpUrl": "https://images.colorino.site/eb2db514e7781d9bd460b81f3bbaae51b951258f5dd2b149a2c2250f707b6946.png",
+        "bio": "Fc-dev 🖼️ | Open Source dev 💻 | Football ⚽️\nwww.gabe-dev.xyz",
+        "powerBadge": true,
+        "score": 0.97,
+        "followerCount": 3067
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "base-fruit-ninja.vercel.app",
+      "index": 13,
+      "title": "Facebreaker",
+      "subtitle": "",
+      "description": "Facebreaker is a game where you have to break as many faces as possible.",
+      "category": "games",
+      "homeUrl": "https://base-fruit-ninja.vercel.app",
+      "iconUrl": "https://base-fruit-ninja.vercel.app/logo.png",
+      "imageUrl": "https://base-fruit-ninja.vercel.app/opengraph-image.png",
+      "framesUrl": "https://base-fruit-ninja.vercel.app",
+      "backgroundColor": "#FF8011",
+      "author": {
+        "fid": 429919,
+        "username": "happysingh",
+        "displayName": "Harpreet Singh",
+        "pfpUrl": "https://i.imgur.com/7ffGYrq.jpg",
+        "bio": "exploring....\nprev Devrel at Rabble\nFull Stack Web3 Developer",
+        "powerBadge": false,
+        "score": 0.89,
+        "followerCount": 621
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "farcaster.in",
+      "index": 14,
+      "title": "Farcaster Index",
+      "subtitle": "",
+      "description": "Farcaster coins at your fingertips",
+      "homeUrl": "https://farcaster.in",
+      "iconUrl": "https://farcaster.in/logo.png",
+      "framesUrl": "https://farcaster.in",
+      "backgroundColor": "#000",
+      "author": {
+        "fid": 2201,
+        "username": "carlos",
+        "displayName": "Carlos",
+        "pfpUrl": "https://i.imgur.com/dwDm3cP.jpg",
+        "bio": "crafting farcaster.in + terminal.co + @usetab",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 11401
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "wickr.fun",
+      "index": 15,
+      "title": "Wickr",
+      "subtitle": "",
+      "description": "Wickr",
+      "homeUrl": "https://wickr.fun",
+      "iconUrl": "https://wickr.fun/icon.png",
+      "imageUrl": "https://wickr.fun/opengraph-image",
+      "framesUrl": "https://wickr.fun",
+      "backgroundColor": "#f7f7f7",
+      "author": {
+        "fid": 230147,
+        "username": "edit",
+        "displayName": "edit",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac28b7b1-6be9-49f0-f170-96325b737200/original",
+        "bio": "https://wickr.fun/ @wickr | https://coinberg.xyz/ | https://castcoins.xyz/ @castcoins | /degen-lotto https://degenlotto.fun/ | /co /farcastles",
+        "powerBadge": true,
+        "score": 0.96,
+        "followerCount": 42694
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "memories.nexth.dev",
+      "index": 16,
+      "title": "Memories",
+      "subtitle": "",
+      "description": "Look back at your memories on Farcaster",
+      "category": "social",
+      "tags": [
+        "social",
+        "memories",
+        "community"
+      ],
+      "homeUrl": "https://memories.nexth.dev",
+      "iconUrl": "https://memories.nexth.dev/icon.png",
+      "imageUrl": "https://memories.nexth.dev/image.png",
+      "framesUrl": "https://memories.nexth.dev",
+      "backgroundColor": "#f0ebff",
+      "author": {
+        "fid": 12580,
+        "username": "wslyvh.eth",
+        "displayName": "Wesley— oss/acc",
+        "pfpUrl": "https://i.imgur.com/CPypC2f.jpg",
+        "bio": "Events @Ethereum 🦄 Indie Hacker 🛠️",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 1985
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "clankermon.com",
+      "index": 18,
+      "title": "Clankermon",
+      "subtitle": "",
+      "description": "where your favourite tokens literally come to life",
+      "category": "finance",
+      "homeUrl": "https://clankermon.com",
+      "iconUrl": "https://clankermon.com/clankermonIcon.png",
+      "framesUrl": "https://clankermon.com",
+      "backgroundColor": "#19111E",
+      "author": {
+        "fid": 4282,
+        "username": "matthewfox",
+        "displayName": "Matthew Fox 🌐",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52233f0e-19bf-4a35-6e29-686520c43000/rectcrop3",
+        "bio": "Mini apps will eat the internet | Latest drop: /clankermon | Building : /miniapps /large /fctrivia /flappycaster /jeeves /source @degentip @playsource /jump",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 24182
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "monado-twist.vercel.app",
+      "index": 20,
+      "title": "Monado Twist",
+      "subtitle": "Monado Twist",
+      "description": "Spin to Win",
+      "category": "games",
+      "tags": [
+        "monad",
+        "farcaster",
+        "miniapp",
+        "game",
+        "playtoearn"
+      ],
+      "homeUrl": "https://monado-twist.vercel.app",
+      "iconUrl": "https://monado-twist.vercel.app/images/icon.png",
+      "imageUrl": "https://monado-twist.vercel.app/images/feed.png",
+      "framesUrl": "https://monado-twist.vercel.app",
+      "screenshotUrls": [],
+      "backgroundColor": "#14051a",
+      "author": {
+        "fid": 249702,
+        "username": "hackerx",
+        "displayName": "HackerX",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7020df1-07f4-4e42-8e53-64b26ad6ff00/rectcrop3",
+        "bio": "Dev.",
+        "powerBadge": false,
+        "score": 0.83,
+        "followerCount": 7131
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "nexart.xyz",
+      "index": 21,
+      "title": "Nexart",
+      "subtitle": "Create Share Earn",
+      "description": "Create beautiful generative art with NexArt and mint it as NFTs on Base. No coding required.",
+      "category": "art-creativity",
+      "tags": [
+        "create",
+        "art",
+        "gen-art",
+        "earn"
+      ],
+      "homeUrl": "https://nexart.xyz/miniapp/",
+      "iconUrl": "https://nexart.xyz/icon.png",
+      "imageUrl": "https://nexart.xyz/image.png",
+      "framesUrl": "https://nexart.xyz/miniapp/",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 441956,
+        "username": "arrotu",
+        "displayName": "Arrotu",
+        "pfpUrl": "https://ipfs.decentralized-content.com/ipfs/QmW5kdX4LcFhsZga3P38gwL1BidqyvqfkSTESuTB6DBm7b/3643.png",
+        "bio": "Founder of Artnames.io and Nexart.xyz",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 8165
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "monad-2048-miniapp.vercel.app",
+      "index": 24,
+      "title": "Monad 2048 MiniApp",
+      "subtitle": "",
+      "description": "Popular 2048 game on Farcaster for Monad",
+      "category": "games",
+      "tags": [
+        "monad",
+        "farcaster",
+        "miniapp",
+        "2048"
+      ],
+      "homeUrl": "https://monad-2048-miniapp.vercel.app/",
+      "iconUrl": "https://monad-2048-miniapp.vercel.app//images/icon.png",
+      "imageUrl": "https://monad-2048-miniapp.vercel.app//images/feed.png",
+      "framesUrl": "https://monad-2048-miniapp.vercel.app/",
+      "screenshotUrls": [],
+      "backgroundColor": "#ffffff",
+      "author": {
+        "fid": 522226,
+        "username": "sifulam",
+        "displayName": "sifu_lam",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/356bbcdc-ae96-44db-1224-46b5b9b8ec00/original",
+        "bio": "Keep it real",
+        "powerBadge": false,
+        "score": 0.85,
+        "followerCount": 201
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "shop.slice.so",
+      "index": 25,
+      "title": "Slice Shops",
+      "subtitle": "Shop the latest onchain trends",
+      "description": "Shop the latest onchain trends",
+      "category": "shopping",
+      "tags": [
+        "commerce",
+        "storefronts",
+        "onchain",
+        "trending",
+        "purchase"
+      ],
+      "homeUrl": "https://shop.slice.so",
+      "iconUrl": "https://shop.slice.so/sliceLogoIcon.png",
+      "framesUrl": "https://shop.slice.so",
+      "screenshotUrls": [
+        "https://shop.slice.so/miniapp/miniapp-1.jpg",
+        "https://shop.slice.so/miniapp/miniapp-2.jpg",
+        "https://shop.slice.so/miniapp/miniapp-3.jpg"
+      ],
+      "backgroundColor": "#FFFBF2",
+      "author": {
+        "fid": 254376,
+        "username": "slice",
+        "displayName": "Slice",
+        "pfpUrl": "https://i.imgur.com/UZpA9lS.jpg",
+        "bio": "The onchain commerce protocol slice.so | follow /slice to stay up to date",
+        "powerBadge": false,
+        "score": 0.98,
+        "followerCount": 3972
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "app.livmore.life",
+      "index": 27,
+      "title": "Liv More",
+      "subtitle": "Track -> Challenge -> Earn.",
+      "description": "Turn Healty Habitos Into Rewards",
+      "category": "health-fitness",
+      "tags": [
+        "health",
+        "biohacking",
+        "wearables",
+        "blockchain",
+        "challenges"
+      ],
+      "homeUrl": "https://app.livmore.life",
+      "iconUrl": "https://app.livmore.life/icon.png",
+      "imageUrl": "https://app.livmore.life/frameImage.png",
+      "framesUrl": "https://app.livmore.life",
+      "screenshotUrls": [
+        "https://app.livmore.life/lm_01.jpg",
+        "https://app.livmore.life/lm_02.jpg",
+        "https://app.livmore.life/lm_04.jpg"
+      ],
+      "backgroundColor": "#101827",
+      "author": {
+        "fid": 1020677,
+        "username": "livmore",
+        "displayName": "Liv More",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/755453af-8919-431e-42ec-814e3f0b9900/original",
+        "bio": "Gamifying wellness by integrating wearable devices, blockchain attestations, and social challenges.\nmade with <3 during ETH Denver",
+        "powerBadge": false,
+        "score": 0.91,
+        "followerCount": 552
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "rewardr.wtf",
+      "index": 28,
+      "title": "rewardr",
+      "subtitle": "Fastest token delivery",
+      "description": "the fastest token delivery system around",
+      "category": "utility",
+      "tags": [
+        "airdrop",
+        "distribution",
+        "erc20",
+        "erc1155",
+        "earn"
+      ],
+      "homeUrl": "https://rewardr.wtf",
+      "iconUrl": "https://rewardr.wtf/rewardr.png",
+      "imageUrl": "https://rewardr.wtf/opengraph-image",
+      "framesUrl": "https://rewardr.wtf",
+      "screenshotUrls": [
+        "https://rewardr.wtf/screen1.png",
+        "https://rewardr.wtf/screen2.png",
+        "https://rewardr.wtf/screen3.png"
+      ],
+      "backgroundColor": "#1b181e",
+      "author": {
+        "fid": 427349,
+        "username": "dosir",
+        "displayName": "Dosir Ⓡ 🍖🐹🥣",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8c1571a-6b3d-4c91-69b1-01ab34bbe000/rectcrop3",
+        "bio": "[artist and dev] <>building things like /hamsters /rewardr cooking THE BOLE and decorating THE WARPROOM. chilling in tub often. doing things I like</>",
+        "powerBadge": true,
+        "score": 0.93,
+        "followerCount": 5469
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "blakarmory.com",
+      "index": 29,
+      "title": "Blak Armory",
+      "subtitle": "",
+      "description": "Mint classified digital weapons using Blak Armory Credits ($CREDIT). Each blade is uniquely generated with cutting-edge technology and encrypted authentication.",
+      "homeUrl": "https://blakarmory.com/mini",
+      "iconUrl": "https://blakarmory.com/images/blakarmoryicon.jpg",
+      "imageUrl": "https://blakarmory.com/images/frame-preview.png",
+      "framesUrl": "https://blakarmory.com/mini",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 842363,
+        "username": "g0hst",
+        "displayName": "g0hst",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/709e66c4-8a43-4731-2e38-f8eed9d5d500/original",
+        "bio": "g0hst.win\n\nblakarmory.com\n\n/blakarmory",
+        "powerBadge": false,
+        "score": 0.97,
+        "followerCount": 3045
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "alfatapes.space",
+      "index": 30,
+      "title": "alfatapes",
+      "subtitle": "Creative Drawing and Animation",
+      "description": "",
+      "category": "art-creativity",
+      "tags": [
+        "drawing",
+        "art",
+        "creative",
+        "animation"
+      ],
+      "homeUrl": "https://alfatapes.space/?miniApp=true",
+      "iconUrl": "https://alfatapes.space/icon.png",
+      "imageUrl": "https://alfatapes.space/image.png",
+      "framesUrl": "https://alfatapes.space/?miniApp=true",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 1022212,
+        "username": "105108121",
+        "displayName": "lifeisatape",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ce57ef0-df2b-4089-6edf-15acdfb61e00/original",
+        "bio": "https://alfatapes.space 🪿 /honk 📸 /365photo 🌌 /fargallery 📼 /tape",
+        "powerBadge": false,
+        "score": 0.88,
+        "followerCount": 988
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "phi.chat",
+      "index": 31,
+      "title": "framey loops",
+      "subtitle": "",
+      "description": "Generated by create next app",
+      "homeUrl": "https://phi.chat",
+      "iconUrl": "https://phi.chat/icon.png",
+      "framesUrl": "https://phi.chat",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 350911,
+        "username": "compusophy",
+        "displayName": "compusophy",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f9be47d-81d6-4b23-cc25-4aabd7cc6600/original",
+        "bio": "part reflecting whole",
+        "powerBadge": true,
+        "score": 0.97,
+        "followerCount": 17436
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "alfaca.fun",
+      "index": 32,
+      "title": "Alfaca - Launch Your Coin",
+      "subtitle": "",
+      "description": "coin launch competition",
+      "homeUrl": "https://alfaca.fun",
+      "iconUrl": "https://wqwoggfcacagsgwlxjhs.supabase.co/storage/v1/object/public/images//alfaca.png",
+      "imageUrl": "https://wqwoggfcacagsgwlxjhs.supabase.co/storage/v1/object/public/images//og-image-v2.png",
+      "framesUrl": "https://alfaca.fun",
+      "backgroundColor": "#111111",
+      "author": {
+        "fid": 875741,
+        "username": "alfaca",
+        "displayName": "alfaca",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19e2eff7-e69f-4f78-1c02-30cb0f4d5d00/rectcrop3",
+        "bio": "🦙🏆 memecoin apps for apes 🏆🦙",
+        "powerBadge": false,
+        "score": 0.64,
+        "followerCount": 4154
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "miniapp-starter.val.run",
+      "index": 33,
+      "title": "Mini App Starter",
+      "subtitle": "",
+      "description": "",
+      "category": "developer-tools",
+      "homeUrl": "https://miniapp-starter.val.run",
+      "iconUrl": "https://miniapp-starter.val.run/icon",
+      "framesUrl": "https://miniapp-starter.val.run",
+      "backgroundColor": "#111111",
+      "author": {
+        "fid": 2073,
+        "username": "moe",
+        "displayName": "MOΞ",
+        "pfpUrl": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
+        "bio": "",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 8118
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "booped.xyz",
+      "index": 34,
+      "title": "Booped",
+      "subtitle": "",
+      "description": "Boop your frens onchain and see who has booped you",
+      "homeUrl": "https://booped.xyz",
+      "iconUrl": "https://res.cloudinary.com/dmp1prmts/image/upload/v1740514815/booped_rect_tbdfa4.jpg",
+      "imageUrl": "https://res.cloudinary.com/dmp1prmts/image/upload/v1740514815/booped_rect_tbdfa4.jpg",
+      "framesUrl": "https://booped.xyz",
+      "backgroundColor": "#0051ff",
+      "author": {
+        "fid": 247449,
+        "username": "crystaltai",
+        "displayName": "Crystal Tai",
+        "pfpUrl": "https://i.imgur.com/Bo8e8Jl.jpg",
+        "bio": "engineer @artemisxyz • crystaltai.xyz • building onbase.dev",
+        "powerBadge": false,
+        "score": 0.98,
+        "followerCount": 1340
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "news.kiwistand.com",
+      "index": 35,
+      "title": "Kiwi News",
+      "subtitle": "",
+      "description": "Kiwi News is the prime feed for hacker engineers building a decentralized future. All our content is handpicked and curated by crypto veterans.",
+      "category": "news-media",
+      "homeUrl": "https://news.kiwistand.com/?miniapp=true",
+      "iconUrl": "https://news.kiwistand.com/pwa_icon.png",
+      "imageUrl": "https://news.kiwistand.com/kiwi_top_feed_page.png",
+      "framesUrl": "https://news.kiwistand.com/?miniapp=true",
+      "backgroundColor": "#0F3106",
+      "author": {
+        "fid": 5708,
+        "username": "timdaub.eth",
+        "displayName": "timdaub",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b498bea-9075-4173-9172-3c99689eb400/original",
+        "bio": "https://kiwinews.xyz",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 52731
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "getfirstresponder.com",
+      "index": 36,
+      "title": "The Global Stage",
+      "subtitle": "",
+      "description": "First Responder App",
+      "homeUrl": "https://getfirstresponder.com/stage",
+      "iconUrl": "https://i.imgur.com/m3sBIxF.png",
+      "framesUrl": "https://getfirstresponder.com/stage",
+      "backgroundColor": "#ffffff",
+      "author": {
+        "fid": 10956,
+        "username": "1dolinski",
+        "displayName": "CHRIS DOLINSKI",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f81e142-0a72-49af-6676-1266d7a07f00/original",
+        "bio": "lets get to the best version faster - follow @1dolinski · challenge your habits · click to say hi to my ai https://getfirstresponder.com/talk/1dolinski",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 4934
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "calmer.onfc.xyz",
+      "index": 37,
+      "title": "Calmer",
+      "subtitle": "",
+      "description": "Breath and relax",
+      "homeUrl": "https://calmer.onfc.xyz",
+      "iconUrl": "https://calmer.onfc.xyz/icon.png",
+      "imageUrl": "https://calmer.onfc.xyz/og.png",
+      "framesUrl": "https://calmer.onfc.xyz",
+      "backgroundColor": "#166534",
+      "author": {
+        "fid": 11124,
+        "username": "ds8",
+        "displayName": "dusan",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cfc6af7-1eb5-4287-5818-afd214f45b00/original",
+        "bio": "fortune cookie casts, memes, parenting, building mini apps, /framedl, /framedl-pro & /calmer",
+        "powerBadge": true,
+        "score": 0.91,
+        "followerCount": 18699
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "reach.3loop.io",
+      "index": 38,
+      "title": "Reach App",
+      "subtitle": "",
+      "description": "See what top Farcaster traders are buying today | Share your trades & earn fees",
+      "category": "finance",
+      "tags": [
+        "invest",
+        "token",
+        "memecoin",
+        "trading",
+        "defi"
+      ],
+      "homeUrl": "https://reach.3loop.io/try",
+      "iconUrl": "https://reach.3loop.io/splash.png",
+      "framesUrl": "https://reach.3loop.io/try",
+      "backgroundColor": "#fdf4ff",
+      "author": {
+        "fid": 20258,
+        "username": "nastya",
+        "displayName": "Nastya",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f3a7e0e-72a9-464f-8dd3-f8acb087ed00/original",
+        "bio": "Building an AI x SocialFi app @reachbot /getreach | Open-source human-readable EVM data https://github.com/3loop/loop-decoder",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 3221
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "yo.steer.fun",
+      "index": 39,
+      "title": "Yo",
+      "subtitle": "",
+      "description": "Just yo on Farcaster.",
+      "homeUrl": "https://yo.steer.fun",
+      "iconUrl": "https://yo.steer.fun/icon.png",
+      "imageUrl": "https://yo.steer.fun/og.png",
+      "framesUrl": "https://yo.steer.fun",
+      "backgroundColor": "#361B54",
+      "author": {
+        "fid": 1689,
+        "username": "stephancill",
+        "displayName": "Stephan",
+        "pfpUrl": "https://images.colorino.site/19c754968a5a0d6e5b554a3aa8107d5fe973a88550080f7b1713e3c33989ffa0.png",
+        "bio": "cypherpunk wannabe | @base",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 184457
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "bizarrebeasts.win",
+      "index": 40,
+      "title": "BizarreBeasts Empire",
+      "subtitle": "",
+      "description": "The official empire of BizarreBeasts - $BB",
+      "homeUrl": "https://bizarrebeasts.win",
+      "iconUrl": "https://bizarrebeasts.win/images/icon.png",
+      "imageUrl": "https://bizarrebeasts.win/images/frame-preview.png",
+      "framesUrl": "https://bizarrebeasts.win",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 357897,
+        "username": "bizarrebeast",
+        "displayName": "BizarreBeasts",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45b9cc0e-d857-4e78-71f7-18f148040300/original",
+        "bio": "Onchain Artist and Builder of /bizarrebeasts and /bizarrebeastsart.",
+        "powerBadge": true,
+        "score": 0.95,
+        "followerCount": 5350
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "obagents.vercel.app",
+      "index": 41,
+      "title": "The Invisible Prompt",
+      "subtitle": "",
+      "description": "The Invisible Prompt",
+      "homeUrl": "https://obagents.vercel.app/",
+      "iconUrl": "https://obagents.vercel.app/logo.png",
+      "imageUrl": "https://obagents.vercel.app/opengraph-image",
+      "framesUrl": "https://obagents.vercel.app/",
+      "backgroundColor": "#fff",
+      "author": {
+        "fid": 13505,
+        "username": "jvaleska.eth",
+        "displayName": "J. Valeska 🦊🎩🫂",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f82ddc2b-1c48-4e8f-61b3-e40eb4d59700/original",
+        "bio": "Alchemist. \nBlock Builder. \nCreator.\nDegen. \nEthereum dev. \nFarcaster Framer.",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 65056
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "lottery.dbee.be",
+      "index": 42,
+      "title": "Solana Lottery",
+      "subtitle": "",
+      "description": "Solana-powered lottery on Farcaster",
+      "category": "games",
+      "tags": [
+        "solana",
+        "lottery",
+        "betting",
+        "game",
+        "stakes"
+      ],
+      "homeUrl": "https://lottery.dbee.be",
+      "iconUrl": "https://lottery.dbee.be/logo.jpg",
+      "imageUrl": "https://lottery.dbee.be/api/bg-image",
+      "framesUrl": "https://lottery.dbee.be",
+      "backgroundColor": "#faf9f6",
+      "author": {
+        "fid": 422333,
+        "username": "dalresin",
+        "displayName": "Lord Dalresin🐝",
+        "pfpUrl": "https://i.imgur.com/Gtrkty9.jpg",
+        "bio": "Senior Dev: dalresin.xyz\nCreator: /dbee 🐝\nEX: /farswag /farkitchen /farhelp /crazy-penguins dalresin.xyz/chrome",
+        "powerBadge": false,
+        "score": 0.95,
+        "followerCount": 2902
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "shy--guy.com",
+      "index": 43,
+      "title": "$CREDIT Empire",
+      "subtitle": "",
+      "description": "The official currency of Blak Armory",
+      "homeUrl": "https://shy--guy.com",
+      "iconUrl": "https://shy--guy.com/images/crediticon.png",
+      "imageUrl": "https://shy--guy.com/images/frame-preview.png",
+      "framesUrl": "https://shy--guy.com",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 842363,
+        "username": "g0hst",
+        "displayName": "g0hst",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/709e66c4-8a43-4731-2e38-f8eed9d5d500/original",
+        "bio": "g0hst.win\n\nblakarmory.com\n\n/blakarmory",
+        "powerBadge": false,
+        "score": 0.97,
+        "followerCount": 3045
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "orbiter.host",
+      "index": 44,
+      "title": "Orbiter",
+      "subtitle": "",
+      "description": "The simplest way to upload and host static sites and apps",
+      "homeUrl": "https://orbiter.host",
+      "iconUrl": "https://orbiter.host/orbiter.png",
+      "imageUrl": "https://orbiter.host/og.png",
+      "framesUrl": "https://orbiter.host",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 6023,
+        "username": "stevedylandev",
+        "displayName": "Steve",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/baa79a75-f6a2-41ee-90f7-2dd74aaaad00/original",
+        "bio": "DX Engineer | Head of Developer Relations at /pinata | Building orbiter.host | stevedylan.dev/links | opinions are my own",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 23609
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "app.icebreaker.xyz",
+      "index": 45,
+      "title": "Icebreaker",
+      "subtitle": "Trusted network intros",
+      "description": "Meet exceptional people",
+      "category": "productivity",
+      "homeUrl": "https://app.icebreaker.xyz",
+      "iconUrl": "https://app.icebreaker.xyz/icon-1024x1024.png",
+      "imageUrl": "https://app.icebreaker.xyz/icon-200x200.png",
+      "framesUrl": "https://app.icebreaker.xyz",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 12219,
+        "username": "icebreaker",
+        "displayName": "icebreaker",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45ab206c-b71f-4146-5fc6-4c458bebab00/original",
+        "bio": "The open professional network where you meet exceptional people • Casting in /icebreaker • Get started at icebreaker.xyz",
+        "powerBadge": false,
+        "score": 0.96,
+        "followerCount": 2579
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "v0-next-js-project-setup-eight-gamma.vercel.app",
+      "index": 46,
+      "title": "Mini App built in v0",
+      "subtitle": "A standard Mini App template",
+      "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
+      "category": "developer-tools",
+      "homeUrl": "https://v0-next-js-project-setup-eight-gamma.vercel.app/",
+      "iconUrl": "https://v0-next-js-project-setup-eight-gamma.vercel.app/icon.png",
+      "framesUrl": "https://v0-next-js-project-setup-eight-gamma.vercel.app/",
+      "backgroundColor": "#FF69B4",
+      "author": {
+        "fid": 20390,
+        "username": "sohey",
+        "displayName": "Soheybuildson.base",
+        "pfpUrl": "https://i.imgur.com/incbfXj.png",
+        "bio": "#1 Simpsons Fan. \n/base-holland\n/thesimpsons\n\n🔵Base dev rel\nhttps://about-sohey.vercel.app/",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 1920
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "nouns.build",
+      "index": 47,
+      "title": "Nouns Builder",
+      "subtitle": "",
+      "description": "Unlock the possibilities of collective creation. Start with a vision. Start a DAO. All onchain.",
+      "category": "social",
+      "homeUrl": "https://nouns.build",
+      "iconUrl": "https://nouns.build/builder-avatar-circle.png",
+      "framesUrl": "https://nouns.build",
+      "backgroundColor": "#ffffff",
+      "author": {
+        "fid": 397143,
+        "username": "dan13ram.eth",
+        "displayName": "Dan OneTree",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a07e7553-e1ec-4e25-ef4e-d6441f7aa600/rectcrop3",
+        "bio": "Coder and Artist, who runs occasionally.",
+        "powerBadge": false,
+        "score": 0.38,
+        "followerCount": 14
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "self.tools",
+      "index": 48,
+      "title": "self.tools",
+      "subtitle": "",
+      "description": "Create your own custom subdomain on self.tools",
+      "category": "utility",
+      "homeUrl": "https://self.tools",
+      "iconUrl": "https://self.tools/api/icon",
+      "imageUrl": "https://self.tools/opengraph-image.png",
+      "framesUrl": "https://self.tools",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 527379,
+        "username": "freecast",
+        "displayName": "freecast",
+        "pfpUrl": "https://i.imgur.com/1K914Fz.png",
+        "bio": "",
+        "powerBadge": false,
+        "score": 0.43,
+        "followerCount": 266
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "trade-simulator-rch1011.replit.app",
+      "index": 49,
+      "title": "baseedge: trade simulator",
+      "subtitle": "Lock your gains.",
+      "description": "",
+      "category": "finance",
+      "tags": [
+        "trading",
+        "simulation",
+        "analytics",
+        "crypto"
+      ],
+      "homeUrl": "https://trade-simulator-rch1011.replit.app",
+      "iconUrl": "https://trade-simulator-rch1011.replit.app/assets/LOGO.png",
+      "imageUrl": "https://trade-simulator-rch1011.replit.app/assets/baseedge-frame-image.png",
+      "framesUrl": "https://trade-simulator-rch1011.replit.app",
+      "backgroundColor": "#f0f8ff",
+      "author": {
+        "fid": 7910,
+        "username": "rch",
+        "displayName": "Rch",
+        "pfpUrl": "https://i.imgur.com/fSsXxpc.gif",
+        "bio": "on an arc",
+        "powerBadge": true,
+        "score": 0.95,
+        "followerCount": 5413
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "catch-the-hat.vercel.app",
+      "index": 50,
+      "title": "Catch the Hat",
+      "subtitle": "",
+      "description": "Catch the Hat",
+      "homeUrl": "https://catch-the-hat.vercel.app",
+      "iconUrl": "https://catch-the-hat.vercel.app/icon.png",
+      "imageUrl": "https://catch-the-hat.vercel.app/cover.png",
+      "framesUrl": "https://catch-the-hat.vercel.app",
+      "backgroundColor": "#0a0818",
+      "author": {
+        "fid": 776590,
+        "username": "vivacious",
+        "displayName": "Vivacious 🎩💎",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af5d553f-6047-4cdd-60d4-75ad723b4800/rectcrop3",
+        "bio": "Web3 Developer 👾 Frame Builder on Warpcast 🌐 NFT Creator 💎 Making helpful guides for everyone",
+        "powerBadge": false,
+        "score": 0.86,
+        "followerCount": 1132
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "castcoins.xyz",
+      "index": 51,
+      "title": "CastCoins",
+      "subtitle": "",
+      "description": "Turn Farcaster casts into tradable coins with one reply – monetize social content instantly on Base.",
+      "category": "social",
+      "homeUrl": "https://castcoins.xyz",
+      "iconUrl": "https://castcoins.xyz/castcoins-logo-2.png",
+      "imageUrl": "https://castcoins.xyz/opengraph-image",
+      "framesUrl": "https://castcoins.xyz",
+      "backgroundColor": "#f7f7f7",
+      "author": {
+        "fid": 230147,
+        "username": "edit",
+        "displayName": "edit",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac28b7b1-6be9-49f0-f170-96325b737200/original",
+        "bio": "https://wickr.fun/ @wickr | https://coinberg.xyz/ | https://castcoins.xyz/ @castcoins | /degen-lotto https://degenlotto.fun/ | /co /farcastles",
+        "powerBadge": true,
+        "score": 0.96,
+        "followerCount": 42694
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "spin.exapp.xyz",
+      "index": 52,
+      "title": "Spin Wheel",
+      "subtitle": "Spin Wheel is Fun",
+      "description": "",
+      "category": "games",
+      "tags": [
+        "spin",
+        "win",
+        "nft",
+        "mint"
+      ],
+      "homeUrl": "https://spin.exapp.xyz",
+      "iconUrl": "https://spin.exapp.xyz/icon.png",
+      "imageUrl": "https://spin.exapp.xyz/og.png",
+      "framesUrl": "https://spin.exapp.xyz",
+      "screenshotUrls": [],
+      "backgroundColor": "#eeccff",
+      "author": {
+        "fid": 291752,
+        "username": "return",
+        "displayName": "will",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d4f6e49-7065-4d9e-4cbc-c1d5dcff9a00/rectcrop3",
+        "bio": "Self-Founder / https://farcaster.xyz/miniapps/vTKv0ITx3c9V/spin-wheel",
+        "powerBadge": false,
+        "score": 0.7,
+        "followerCount": 1930
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "meco.ham.cooking",
+      "index": 53,
+      "title": "Memes",
+      "subtitle": "Meme Economy",
+      "description": "Manage your meme token creation subscriptions.",
+      "category": "finance",
+      "tags": [
+        "clanker",
+        "notifications",
+        "watch",
+        "first",
+        "raffle"
+      ],
+      "homeUrl": "https://meco.ham.cooking/",
+      "iconUrl": "https://meco.ham.cooking/meco/icon.png",
+      "framesUrl": "https://meco.ham.cooking/",
+      "screenshotUrls": [],
+      "backgroundColor": "#121926",
+      "author": {
+        "fid": 230238,
+        "username": "mvr",
+        "displayName": "mvr 🐹",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b4492a5-e509-4be1-c525-28ac31453200/original",
+        "bio": "hamst.art $hamster /hamster \nmartinvr.eth \ndeploy.degen.eth",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 11172
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "words-search-eight.vercel.app",
+      "index": 54,
+      "title": "Words Search",
+      "subtitle": "",
+      "description": "Onchain version of the classic Words Search game.",
+      "category": "games",
+      "homeUrl": "https://words-search-eight.vercel.app/",
+      "iconUrl": "https://words-search-eight.vercel.app/logo.png",
+      "imageUrl": "https://words-search-eight.vercel.app/opengraph-image",
+      "framesUrl": "https://words-search-eight.vercel.app/",
+      "backgroundColor": "#5d0ec0",
+      "author": {
+        "fid": 13505,
+        "username": "jvaleska.eth",
+        "displayName": "J. Valeska 🦊🎩🫂",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f82ddc2b-1c48-4e8f-61b3-e40eb4d59700/original",
+        "bio": "Alchemist. \nBlock Builder. \nCreator.\nDegen. \nEthereum dev. \nFarcaster Framer.",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 65056
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "splosions.raidguild.org",
+      "index": 55,
+      "title": "SPLOSIONS",
+      "subtitle": "Lite the Fuse!",
+      "description": "Light the fuse",
+      "category": "art-creativity",
+      "tags": [
+        "explosions",
+        "raidguild"
+      ],
+      "homeUrl": "https://splosions.raidguild.org/",
+      "iconUrl": "https://splosions.raidguild.org/icon.png",
+      "framesUrl": "https://splosions.raidguild.org/",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 14862,
+        "username": "skuhl.eth",
+        "displayName": "skuhl",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d237584-e7fc-4cd8-f398-e3ba3bd30f00/original",
+        "bio": "hollow servant at /Farcastle.\nmetacartelian/@nowdaoit/@raidguild/@PeachDropNFT",
+        "powerBadge": false,
+        "score": 0.9,
+        "followerCount": 168
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "color-test.kasra.codes",
+      "index": 56,
+      "title": "True Colors",
+      "subtitle": "",
+      "description": "Discover your True Colors personality type with True Colors.",
+      "homeUrl": "https://color-test.kasra.codes",
+      "iconUrl": "https://cover-art.kasra.codes/true_color_icon.png",
+      "imageUrl": "https://cover-art.kasra.codes/true_color_rectangle.png",
+      "framesUrl": "https://color-test.kasra.codes",
+      "backgroundColor": "#ffffff",
+      "author": {
+        "fid": 977233,
+        "username": "jc4p",
+        "displayName": "Kasra Rahjerdi",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+        "bio": "aspiring person https://kasra.codes",
+        "powerBadge": false,
+        "score": 0.99,
+        "followerCount": 9749
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "app.ombruja.com",
+      "index": 57,
+      "title": "Astrology",
+      "subtitle": "Unlock your cosmic identity",
+      "description": "Unlock your cosmic identity",
+      "category": "health-fitness",
+      "tags": [
+        "astrology",
+        "zodiacsigns",
+        "wellness",
+        "spirituality",
+        "horoscope"
+      ],
+      "homeUrl": "https://app.ombruja.com",
+      "iconUrl": "https://app.ombruja.com/icon.png",
+      "framesUrl": "https://app.ombruja.com",
+      "backgroundColor": "#110d1a",
+      "author": {
+        "fid": 320414,
+        "username": "ombruja",
+        "displayName": "Astrology",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f69fd609-30d6-457e-0dbe-5c0f8ab10800/rectcrop3",
+        "bio": "Unlock your cosmic identity, collect curated zodiac art & your AI-Driven Daily Horoscope. Build on @base app.ombruja.com 🔮",
+        "powerBadge": false,
+        "score": 0.86,
+        "followerCount": 173
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "replyguy.megabyte0x.xyz",
+      "index": 58,
+      "title": "ReplyGuy",
+      "subtitle": "Your 24x7 reply guy",
+      "description": "Automate discovering jobs, ideas, connections, and more on Farcaster.",
+      "category": "social",
+      "homeUrl": "https://replyguy.megabyte0x.xyz",
+      "iconUrl": "https://replyguy.megabyte0x.xyz/logo.png",
+      "imageUrl": "https://replyguy.megabyte0x.xyz/full_logo.png",
+      "framesUrl": "https://replyguy.megabyte0x.xyz",
+      "backgroundColor": "#f7f7f7",
+      "author": {
+        "fid": 14582,
+        "username": "megabyte",
+        "displayName": "megabyte",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/312c2e74-aae5-487b-509b-50f45580eb00/rectcrop3",
+        "bio": "valar morghulis || megabyte0x.xyz || building @yourreplyguy",
+        "powerBadge": false,
+        "score": 0.94,
+        "followerCount": 717
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "hamsters.wtf",
+      "index": 59,
+      "title": "BASEd HAMsters",
+      "subtitle": "HAMsters on BASE",
+      "description": "Hamster fun on BASE.",
+      "category": "entertainment",
+      "tags": [
+        "nftpets",
+        "virtualpets",
+        "collectiblegame",
+        "breedingnft",
+        "hamsternft"
+      ],
+      "homeUrl": "https://hamsters.wtf",
+      "iconUrl": "https://hamsters.wtf/icon.png",
+      "imageUrl": "https://hamsters.wtf/opengraph-image",
+      "framesUrl": "https://hamsters.wtf",
+      "screenshotUrls": [
+        "https://hamsters.wtf/screen1.png",
+        "https://hamsters.wtf/screen2.png",
+        "https://hamsters.wtf/screen3.png"
+      ],
+      "backgroundColor": "#1d2232",
+      "author": {
+        "fid": 427349,
+        "username": "dosir",
+        "displayName": "Dosir Ⓡ 🍖🐹🥣",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8c1571a-6b3d-4c91-69b1-01ab34bbe000/rectcrop3",
+        "bio": "[artist and dev] <>building things like /hamsters /rewardr cooking THE BOLE and decorating THE WARPROOM. chilling in tub often. doing things I like</>",
+        "powerBadge": true,
+        "score": 0.93,
+        "followerCount": 5469
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "farcaster10k-mural.vercel.app",
+      "index": 60,
+      "title": "Farcaster 10k",
+      "subtitle": "",
+      "description": "Explore the Farcaster community through an interactive arch experience featuring 10,000 Pro subscribers",
+      "category": "social",
+      "homeUrl": "https://farcaster10k-mural.vercel.app",
+      "iconUrl": "https://farcaster10k-mural.vercel.app/farcaster-10k.png",
+      "framesUrl": "https://farcaster10k-mural.vercel.app",
+      "backgroundColor": "#8A63D2",
+      "author": {
+        "fid": 194519,
+        "username": "polak.eth",
+        "displayName": "rob.base.eth",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7fe4b8ae-fef7-4a09-a3e8-fc3009bc4000/original",
+        "bio": "My views are my own. onchain / wallet / NFT .. Staff Eng @ Base … ex-Amazon / ex-CTO. MAYC #24340 .",
+        "powerBadge": false,
+        "score": 0.95,
+        "followerCount": 920
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "llllllo.com",
+      "index": 61,
+      "title": "LO",
+      "subtitle": "",
+      "description": "Discover and share curated lists of locations",
+      "homeUrl": "https://llllllo.com",
+      "iconUrl": "https://llllllo.com/icon.png",
+      "imageUrl": "https://llllllo.com/og-image.png",
+      "framesUrl": "https://llllllo.com",
+      "backgroundColor": "#ffffff",
+      "author": {
+        "fid": 238619,
+        "username": "taylorsizemore.eth",
+        "displayName": "Taylor Sizemore",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/09fc51ef-ce9d-4e88-c5d6-f0a7e9270100/rectcrop3",
+        "bio": "👨‍💻 Creator of LO: llllllo.com\n\n🏎️ RC Driver: /rearmotor",
+        "powerBadge": false,
+        "score": 0.93,
+        "followerCount": 796
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "cat.town",
+      "index": 62,
+      "title": "Cat Town",
+      "subtitle": "Your cozy onchain home",
+      "description": "Your cozy onchain home",
+      "category": "games",
+      "tags": [
+        "Cat",
+        "Fishing",
+        "Gacha",
+        "MMO",
+        "Play to Earn"
+      ],
+      "homeUrl": "https://cat.town/hideout",
+      "iconUrl": "https://cat.town/frames/icon.png",
+      "imageUrl": "https://cat.town/frames/preview.png",
+      "framesUrl": "https://cat.town/hideout",
+      "backgroundColor": "#2fa357",
+      "author": {
+        "fid": 387207,
+        "username": "cattown",
+        "displayName": "cat.base.eth",
+        "pfpUrl": "https://i.imgur.com/92zGxgK.png",
+        "bio": "Welcome to Cat Town; a cosy gamified onchain economy developed by cats for cats\n\nJoin us in /cattown and in-game at cat.town\n\nBuilt with 💙 on @base",
+        "powerBadge": false,
+        "score": 0.99,
+        "followerCount": 1138
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "www.aux.xyz",
+      "index": 63,
+      "title": "AUX",
+      "subtitle": "The AUX for the Internet",
+      "description": "The AUX for the internet",
+      "category": "social",
+      "tags": [
+        "aux",
+        "4dhd",
+        "mainstage",
+        "culture",
+        "internet"
+      ],
+      "homeUrl": "https://www.aux.xyz",
+      "iconUrl": "https://www.aux.xyz/images/icon.jpg",
+      "imageUrl": "https://www.aux.xyz/api/image/frontpage",
+      "framesUrl": "https://www.aux.xyz",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 1096857,
+        "username": "aux.eth",
+        "displayName": "AUX",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/173cd306-55d6-40c9-3061-2bbb9a062100/rectcrop3",
+        "bio": "aux.xyz",
+        "powerBadge": false,
+        "score": 0.52,
+        "followerCount": 104
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "www.gigbot.xyz",
+      "index": 64,
+      "title": "Gig.bot",
+      "subtitle": "",
+      "description": "Gig.bot is a bounty marketplace for AI Agents and Humans. Any human or AI can create gigs and deposit tokens. Earners complete the tasks and claim their tokens to their wallet.",
+      "category": "finance",
+      "homeUrl": "https://www.gigbot.xyz/claim",
+      "iconUrl": "https://www.gigbot.xyz/frames/icon.png",
+      "imageUrl": "https://www.gigbot.xyz/frames/image.png",
+      "framesUrl": "https://www.gigbot.xyz/claim",
+      "backgroundColor": "#855dcd",
+      "author": {
+        "fid": 499205,
+        "username": "jxjxjxj",
+        "displayName": "001",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e9c19e60-6b65-48cc-81d1-f730ebd37900/original",
+        "bio": "",
+        "powerBadge": false,
+        "score": 0.55,
+        "followerCount": 28
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "fma1.vercel.app",
+      "index": 65,
+      "title": "Flappy Trump",
+      "subtitle": "Earn FLAPs and NFTs!",
+      "description": "Blast enemies, earn MON, claim NFTs!",
+      "category": "games",
+      "tags": [
+        "game",
+        "flappy",
+        "trump",
+        "rewards",
+        "monad"
+      ],
+      "homeUrl": "https://fma1.vercel.app/",
+      "iconUrl": "https://fma1.vercel.app//images/icon.png",
+      "framesUrl": "https://fma1.vercel.app/",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 1075899,
+        "username": "kshitijgajapure",
+        "displayName": "Kshitij Gajapure",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7fb37703-9a05-493f-7e56-cf2fd7a9c100/original",
+        "bio": "Building Flappy Trump on Monad | Led a $5M Web3 Game Studio | 3x Founding Hire | MIT Reality Hack Winner | IITGn Alumni | Bhai Cabal",
+        "powerBadge": false,
+        "score": 0.4,
+        "followerCount": 51
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "evermarks.net",
+      "index": 66,
+      "title": "Evermark",
+      "subtitle": "Content Surfacing",
+      "description": "Preserve and curate your favorite content on the blockchain. Vote on quality content and participate in community-driven leaderboards.",
+      "category": "social",
+      "tags": [
+        "content",
+        "curation",
+        "blockchain",
+        "voting",
+        "web3"
+      ],
+      "homeUrl": "https://evermarks.net",
+      "iconUrl": "https://evermarks.net/icon.png",
+      "imageUrl": "https://evermarks.net/og-image.png",
+      "framesUrl": "https://evermarks.net",
+      "backgroundColor": "#7c3aed",
+      "author": {
+        "fid": 8573,
+        "username": "epicdylan",
+        "displayName": "Dylan",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0eef6f5d-238e-4a69-3b32-46afea186c00/rectcrop3",
+        "bio": "building, spreading good vibes, having fun\n\ntipping $.05 with likes via @tipn and 1k $EMARK via @noice",
+        "powerBadge": false,
+        "score": 0.94,
+        "followerCount": 680
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "miniapp-quiz.vercel.app",
+      "index": 67,
+      "title": "Are You Smarter Quiz",
+      "subtitle": "",
+      "description": "Test your knowledge with a 5th-grade level quiz! Pay 0.1 CELO to unlock and challenge yourself.",
+      "category": "games",
+      "homeUrl": "https://miniapp-quiz.vercel.app",
+      "iconUrl": "https://miniapp-quiz.vercel.app/quiz-1.png",
+      "imageUrl": "https://miniapp-quiz.vercel.app/quiz-2.png",
+      "framesUrl": "https://miniapp-quiz.vercel.app",
+      "backgroundColor": "#EAB308",
+      "author": {
+        "fid": 10610,
+        "username": "sophia",
+        "displayName": "Sophia",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9cffa594-e68a-49a4-b8fa-02dcb31b5200/rectcrop3",
+        "bio": "devrel eng lead @celo | prev CS + PD @ stanford | nyc",
+        "powerBadge": true,
+        "score": 0.98,
+        "followerCount": 3096
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "apl-frame.vercel.app",
+      "index": 68,
+      "title": "APL Daily",
+      "subtitle": "",
+      "description": "Daily patterns from Christopher Alexander's A Pattern Language",
+      "homeUrl": "https://apl-frame.vercel.app",
+      "iconUrl": "https://apl-frame.vercel.app/icon.png",
+      "imageUrl": "https://apl-frame.vercel.app/start.png",
+      "framesUrl": "https://apl-frame.vercel.app",
+      "backgroundColor": "#fff",
+      "author": {
+        "fid": 12977,
+        "username": "huugo.eth",
+        "displayName": "huugo",
+        "pfpUrl": "https://i.imgur.com/vAXN3k1.jpg",
+        "bio": "aspiring everything. architect. building /buildings. icbk.me/huugo.fc",
+        "powerBadge": true,
+        "score": 0.98,
+        "followerCount": 1083
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "www.tip.md",
+      "index": 69,
+      "title": "tip.md",
+      "subtitle": "Crypto tips for devs",
+      "description": "Offer crypto tipping options across multiple blockchains with a simple markdown button. Support developers with Ethereum, Solana, and Bitcoin tips.",
+      "category": "utility",
+      "tags": [
+        "github",
+        "developers",
+        "ethereum",
+        "solana",
+        "funding"
+      ],
+      "homeUrl": "https://www.tip.md/miniapp",
+      "iconUrl": "https://www.tip.md/favicon-1024x1024.png",
+      "imageUrl": "https://www.tip.md/miniapp/og-image-embed.png?v=2",
+      "framesUrl": "https://www.tip.md/miniapp",
+      "backgroundColor": "#1c1f26",
+      "author": {
+        "fid": 1080942,
+        "username": "tipdotmd",
+        "displayName": "tip.md | Crypto tip button",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a78f86d-5100-43f7-d81d-24ff1f1b9400/original",
+        "bio": "README to tips, in minutes. The easiest way to receive cryptocurrency tips through a simple markdown button. Create yours at https://www.tip.md\n| By @xr0am-",
+        "powerBadge": false,
+        "score": 0.75,
+        "followerCount": 141
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "app.ridethebus.xyz",
+      "index": 70,
+      "title": "Ride The Bus",
+      "subtitle": "How far can you ride?",
+      "description": "Ride the Bus on Base!",
+      "category": "games",
+      "homeUrl": "https://app.ridethebus.xyz",
+      "iconUrl": "https://app.ridethebus.xyz/bus256.png",
+      "imageUrl": "https://app.ridethebus.xyz/assets/images/mini/the_road.png",
+      "framesUrl": "https://app.ridethebus.xyz",
+      "backgroundColor": "#642863",
+      "author": {
+        "fid": 282262,
+        "username": "ridethebus",
+        "displayName": "Ride The Bus",
+        "pfpUrl": "https://i.imgur.com/Ok8FM29.jpg",
+        "bio": "New protocol on the Base blockchain!\n\nHow far can you ride the bus? 🚌\n\nhttps://www.ridethebus.xyz",
+        "powerBadge": false,
+        "score": 0.63,
+        "followerCount": 66
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "songbirdz.cc",
+      "index": 71,
+      "title": "Songbirdz",
+      "subtitle": "An onchain bird watching game",
+      "description": "An onchain bird watching game",
+      "category": "games",
+      "tags": [
+        "nfts",
+        "pfps",
+        "birdwatching",
+        "birds",
+        "gaming"
+      ],
+      "homeUrl": "https://songbirdz.cc",
+      "iconUrl": "https://songbirdz.cc/android-chrome-192x192.png",
+      "imageUrl": "https://songbirdz.cc/android-chrome-192x192.png",
+      "framesUrl": "https://songbirdz.cc",
+      "screenshotUrls": [
+        "https://songbirdz.cc/app-preview-screenshot-1.jpeg",
+        "https://songbirdz.cc/app-preview-screenshot-2.jpeg",
+        "https://songbirdz.cc/app-preview-screenshot-3.jpeg"
+      ],
+      "backgroundColor": "#f8f9fa",
+      "author": {
+        "fid": 497095,
+        "username": "dry-tortuga",
+        "displayName": "Dry Tortuga",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ee327aa-1ee9-491e-946a-e2748cd85200/original",
+        "bio": "Just a dude who loves birds /songbirdz /birds /birdwatching",
+        "powerBadge": false,
+        "score": 0.93,
+        "followerCount": 653
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "vibes.engineering",
+      "index": 72,
+      "title": "vibes.engineering",
+      "subtitle": "build mini apps in a mini app",
+      "description": "Farcaster mini app to build Farcaster mini apps",
+      "category": "productivity",
+      "tags": [
+        "games",
+        "social",
+        "finance",
+        "utility",
+        "productivity"
+      ],
+      "homeUrl": "https://vibes.engineering",
+      "iconUrl": "https://vibes.engineering/icon.png",
+      "imageUrl": "https://vibes.engineering/og.png",
+      "framesUrl": "https://vibes.engineering",
+      "backgroundColor": "#433363",
+      "author": {
+        "fid": 13596,
+        "username": "hellno.eth",
+        "displayName": "hellno the optimist",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/415baeae-ab4c-4d2f-bccd-3f319e89ec00/original",
+        "bio": "dev + founder | @vibesengineering.eth prev: @onsenbot @herocast",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 56870
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "app.astroblock.xyz",
+      "index": 73,
+      "title": "Astroblock",
+      "subtitle": "",
+      "description": "Shoot to earn",
+      "homeUrl": "https://app.astroblock.xyz",
+      "iconUrl": "https://app.astroblock.xyz/icon.png",
+      "imageUrl": "https://app.astroblock.xyz/frame-preview.png",
+      "framesUrl": "https://app.astroblock.xyz",
+      "backgroundColor": "#002c85",
+      "author": {
+        "fid": 1733,
+        "username": "nezzar",
+        "displayName": "nezzar.eth",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d78453a5-3fa5-486b-5dcb-a80c4dc29a00/original",
+        "bio": "Shooting astro blocks @ /astroblock, onchain Ads @ /adland FID 1733",
+        "powerBadge": false,
+        "score": 0.97,
+        "followerCount": 1336
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "app.ufo.fm",
+      "index": 74,
+      "title": "UFO",
+      "subtitle": "",
+      "description": "First IRL ever Daydream DJ set, FarCon NYC 2025!",
+      "homeUrl": "https://app.ufo.fm/",
+      "iconUrl": "https://app.ufo.fm/logo.png",
+      "imageUrl": "https://app.ufo.fm/opengraph-image",
+      "framesUrl": "https://app.ufo.fm/",
+      "backgroundColor": "#f5f0ec",
+      "author": {
+        "fid": 217706,
+        "username": "pablov.eth",
+        "displayName": "Pablov",
+        "pfpUrl": "https://cdn.ticklebeach.com/preview/649.png",
+        "bio": "Founder streameth.org ",
+        "powerBadge": false,
+        "score": 0.78,
+        "followerCount": 71
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "monad-cast.vercel.app",
+      "index": 75,
+      "title": "Monad Cast",
+      "subtitle": "Monad Cast",
+      "description": "",
+      "category": "games",
+      "tags": [
+        "monad",
+        "claim",
+        "play"
+      ],
+      "homeUrl": "https://monad-cast.vercel.app/",
+      "iconUrl": "https://monad-cast.vercel.app/monad.png",
+      "imageUrl": "https://monad-cast.vercel.app/monad.png",
+      "framesUrl": "https://monad-cast.vercel.app/",
+      "screenshotUrls": [],
+      "backgroundColor": "#eeccff",
+      "author": {
+        "fid": 328757,
+        "username": "gavior",
+        "displayName": "PAG",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7513886b-6a6b-40d4-0dd6-28b50a8a1400/rectcrop3",
+        "bio": "confident in the path I chose ✨",
+        "powerBadge": false,
+        "score": 0.7,
+        "followerCount": 8840
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "dustsweep.vercel.app",
+      "index": 76,
+      "title": "DustSweep",
+      "subtitle": "",
+      "description": "Sweep Wallet Dust 🧹",
+      "category": "finance",
+      "homeUrl": "https://dustsweep.vercel.app",
+      "iconUrl": "https://dustsweep.vercel.app/images/icon.png",
+      "imageUrl": "https://dustsweep.vercel.app/images/frame-preview.png",
+      "framesUrl": "https://dustsweep.vercel.app",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 842363,
+        "username": "g0hst",
+        "displayName": "g0hst",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/709e66c4-8a43-4731-2e38-f8eed9d5d500/original",
+        "bio": "g0hst.win\n\nblakarmory.com\n\n/blakarmory",
+        "powerBadge": false,
+        "score": 0.97,
+        "followerCount": 3045
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "predictbase.app",
+      "index": 77,
+      "title": "PredictBase",
+      "subtitle": "Create, Predict, and Earn",
+      "description": "PredictBase | Decentralized Prediction Markets Platform on Base",
+      "category": "finance",
+      "homeUrl": "https://predictbase.app",
+      "iconUrl": "https://predictbase.app/resources/logo-blue.png",
+      "framesUrl": "https://predictbase.app",
+      "backgroundColor": "#111827",
+      "author": {
+        "fid": 1094973,
+        "username": "predictbaseapp",
+        "displayName": "PredictBase",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/30c3650e-1663-4ef0-fcd3-5ba054fdc900/rectcrop3",
+        "bio": "Decentralized prediction market platform on @base | Join our community: http://discord.gg/QDp7zqesgt",
+        "powerBadge": false,
+        "score": 0.53,
+        "followerCount": 53
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "fire.simplecohortllc.com",
+      "index": 78,
+      "title": "Fire",
+      "subtitle": "",
+      "description": "Fire up your friends",
+      "category": "social",
+      "homeUrl": "https://fire.simplecohortllc.com",
+      "iconUrl": "https://fire.simplecohortllc.com/logo.png",
+      "imageUrl": "https://fire.simplecohortllc.com/logo.png",
+      "framesUrl": "https://fire.simplecohortllc.com",
+      "backgroundColor": "#ffffff",
+      "author": {
+        "fid": 6741,
+        "username": "sean07.eth",
+        "displayName": "Sean",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6366abe-94be-4608-312e-8305d5dd0200/rectcrop3",
+        "bio": "Christ follower, app developer, crypto fan https://simplecohortllc.com",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 7181
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "mathcast.xyz",
+      "index": 79,
+      "title": "mathcast",
+      "subtitle": "Solve daily math puzzles",
+      "description": "Daily math quiz",
+      "category": "games",
+      "tags": [
+        "math",
+        "puzzle",
+        "trivia",
+        "quiz",
+        "game"
+      ],
+      "homeUrl": "https://mathcast.xyz",
+      "iconUrl": "https://mathcast.xyz/icon.png",
+      "imageUrl": "https://mathcast.xyz/image.png",
+      "framesUrl": "https://mathcast.xyz",
+      "screenshotUrls": [
+        "https://mathcast.xyz/mathcastquiz.png",
+        "https://mathcast.xyz/mathcastrank.png",
+        "https://mathcast.xyz/mathcastprofile.png"
+      ],
+      "backgroundColor": "#FFF",
+      "author": {
+        "fid": 234692,
+        "username": "tamastorok.eth",
+        "displayName": "Thomas",
+        "pfpUrl": "https://i.imgur.com/cu46hik.jpg",
+        "bio": "Builder: drawcast.xyz, mathcast.xyz, okcomputers.club, onchainbits.xyz, BA5ED Merch, basedyear.com and more | Host @ Based Budapest",
+        "powerBadge": false,
+        "score": 0.94,
+        "followerCount": 613
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "compu-privy-frame.vercel.app",
+      "index": 80,
+      "title": "Borg",
+      "subtitle": "",
+      "description": "A Borg app.",
+      "homeUrl": "https://compu-privy-frame.vercel.app",
+      "iconUrl": "https://compu-privy-frame.vercel.app/icon.png",
+      "imageUrl": "https://compu-privy-frame.vercel.app/icon.png",
+      "framesUrl": "https://compu-privy-frame.vercel.app",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 350911,
+        "username": "compusophy",
+        "displayName": "compusophy",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f9be47d-81d6-4b23-cc25-4aabd7cc6600/original",
+        "bio": "part reflecting whole",
+        "powerBadge": true,
+        "score": 0.97,
+        "followerCount": 17436
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "empirebuilder.world",
+      "index": 81,
+      "title": "Empire Builder",
+      "subtitle": "",
+      "description": "The ultimate tool for utility-pilling your tokens",
+      "category": "utility",
+      "homeUrl": "https://empirebuilder.world",
+      "iconUrl": "https://empirebuilder.world/purplepng.png",
+      "imageUrl": "https://empirebuilder.world/empire2.png",
+      "framesUrl": "https://empirebuilder.world",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 369863,
+        "username": "diviflyy",
+        "displayName": "DiviFlyy",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec05fe6d-2a1c-4fcf-9bc6-e803b463c900/original",
+        "bio": "Building /glanker. Finally unblocked: https://paragraph.com/@unblocked",
+        "powerBadge": false,
+        "score": 0.99,
+        "followerCount": 4413
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "basepool.miniapps.zone",
+      "index": 82,
+      "title": "Base Pool",
+      "subtitle": "A provable fair lottery game.",
+      "description": "A provable fair Pool. Generated by `create-onchain --mini`, a Next.js template for MiniKit",
+      "category": "games",
+      "tags": [
+        "lottery",
+        "onchain",
+        "base",
+        "pool",
+        "draw"
+      ],
+      "homeUrl": "https://basepool.miniapps.zone",
+      "iconUrl": "https://basepool.miniapps.zone/splash.png",
+      "imageUrl": "https://basepool.miniapps.zone/basePool_New.png",
+      "framesUrl": "https://basepool.miniapps.zone",
+      "screenshotUrls": [
+        "https://basepool.miniapps.zone/ss_01.jpg",
+        "https://basepool.miniapps.zone/ss_02.jpg",
+        "https://basepool.miniapps.zone/ss_03.jpg"
+      ],
+      "backgroundColor": "#0052FF",
+      "author": {
+        "fid": 20701,
+        "username": "chaps",
+        "displayName": "carlos",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cae1d197-6bbc-49c9-67d0-61b635edf700/original",
+        "bio": "🇲🇽 | building @livmore | genart collector | generative design | architect | @w3runn3rs | /adivinadrone | 🇲🇽",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 9891
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "www.gnars.com",
+      "index": 83,
+      "title": "Gnars DAO",
+      "subtitle": "",
+      "description": "Funding the next generation of skate, surf and extreme-sports athletes through perpetual on-chain NFT auctions.",
+      "category": "entertainment",
+      "homeUrl": "https://www.gnars.com/",
+      "iconUrl": "https://www.gnars.com//images/frames/icon.png",
+      "imageUrl": "https://www.gnars.com//opengraph-image",
+      "framesUrl": "https://www.gnars.com/",
+      "backgroundColor": "#1C1C1C",
+      "author": {
+        "fid": 196328,
+        "username": "r4topunk",
+        "displayName": "r4to",
+        "pfpUrl": "https://i.imgur.com/mbIwmRg.jpg",
+        "bio": "mago hacker 🇧🇷🏴‍☠️ building /gnars and /nounspace",
+        "powerBadge": false,
+        "score": 0.93,
+        "followerCount": 473
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "app.payflow.me",
+      "index": 84,
+      "title": "Payflow",
+      "subtitle": "",
+      "description": "Onchain Social Payments",
+      "category": "social",
+      "homeUrl": "https://app.payflow.me",
+      "iconUrl": "https://app.payflow.me/apple-touch-icon.png",
+      "framesUrl": "https://app.payflow.me",
+      "backgroundColor": "#f7f7f7",
+      "author": {
+        "fid": 19129,
+        "username": "sinaver.eth",
+        "displayName": "Sinaver Idrisov",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fbf709e8-83ae-485d-1d69-02f33143b200/original",
+        "bio": "• building @bankr\n• founder @payflow \n• made in /crimea 🇺🇦",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 8442
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "markedsafe.org",
+      "index": 85,
+      "title": "Marked Safe From",
+      "subtitle": "",
+      "description": "Marked Safe From Farcaster Mini App",
+      "category": "entertainment",
+      "homeUrl": "https://markedsafe.org/cast",
+      "iconUrl": "https://markedsafe.org/icon.png",
+      "framesUrl": "https://markedsafe.org/cast",
+      "backgroundColor": "#dbeafe",
+      "author": {
+        "fid": 9048,
+        "username": "kyu",
+        "displayName": "Kyu",
+        "pfpUrl": "https://i.imgur.com/rN8bPzF.jpg",
+        "bio": "Software Engineer @megaphone-hq\n\nPrev: @0xproject",
+        "powerBadge": false,
+        "score": 0.95,
+        "followerCount": 418
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "frames-v2.vercel.app",
+      "index": 86,
+      "title": "Frames v2 Demo",
+      "subtitle": "",
+      "description": "A Farcaster Frames v2 demo app.",
+      "homeUrl": "https://frames-v2.vercel.app",
+      "iconUrl": "https://frames-v2.vercel.app/icon.png",
+      "imageUrl": "https://frames-v2.vercel.app/frames/hello/opengraph-image",
+      "framesUrl": "https://frames-v2.vercel.app",
+      "backgroundColor": "#f7f7f7",
+      "author": {
+        "fid": 3621,
+        "username": "horsefacts.eth",
+        "displayName": "horsefacts",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27ebb092-6f26-4397-6027-8c90d909ce00/original",
+        "bio": "I work at the posts office\n\nterminally.online",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 352881
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "skatehive.app",
+      "index": 87,
+      "title": "SkateHive",
+      "subtitle": "",
+      "description": "The infinity skateboard maganize",
+      "homeUrl": "https://skatehive.app",
+      "iconUrl": "https://ipfs.skatehive.app/ipfs/QmXTZqirogp735AaPFcpzAjmwS57mPYsJhktJMuRuSV5Rm",
+      "imageUrl": "https://skatehive.app/opengraph-image",
+      "framesUrl": "https://skatehive.app",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 20721,
+        "username": "skateboard",
+        "displayName": "Skateboard.⌐◨-◨",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f381719c-7d66-4837-d832-0e16395c9800/original",
+        "bio": "https://nounspace.com/s/skateboard",
+        "powerBadge": true,
+        "score": 0.98,
+        "followerCount": 1560
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "anybody.gg",
+      "index": 88,
+      "title": "Anybody Problem",
+      "subtitle": "",
+      "description": "qt onchain supercollider ✧ a new game everyday!",
+      "category": "games",
+      "homeUrl": "https://anybody.gg",
+      "iconUrl": "https://anybody.gg/apple-touch-icon.png",
+      "imageUrl": "https://anybody.gg/anybody-problem-ogimg.png",
+      "framesUrl": "https://anybody.gg",
+      "backgroundColor": "#080808",
+      "author": {
+        "fid": 832276,
+        "username": "trifle",
+        "displayName": "Trifle ♧",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8a88a0b-510a-46dc-81cf-159732cf9500/original",
+        "bio": "emergent hive-mind arcade 🌪️ trifle.life + /anybody-gg + kudzu.rodeo",
+        "powerBadge": false,
+        "score": 0.52,
+        "followerCount": 480
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "picosub.artlu.xyz",
+      "index": 89,
+      "title": "picosub",
+      "subtitle": "",
+      "description": "a subscription service for $DEGEN tips",
+      "homeUrl": "https://picosub.artlu.xyz",
+      "iconUrl": "https://picosub.artlu.xyz/apple-touch-icon.png",
+      "imageUrl": "https://picosub.artlu.xyz/og.jpg",
+      "framesUrl": "https://picosub.artlu.xyz",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 6546,
+        "username": "artlu",
+        "displayName": "artlu 🎩",
+        "pfpUrl": "https://media.firefly.land/lens/d44d94ab-23ef-451b-9b5c-d967161b2e78.png",
+        "bio": "🐟 Snappa | picosub.artlu.xyz | SassyHash.artlu.xyz\n\nFind me with my same PFP on GH",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 50499
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "miniapp.mitanda.org",
+      "index": 90,
+      "title": "Mi Tanda",
+      "subtitle": "Traditional savings reimagined",
+      "description": "Generated by `create-onchain --mini`, a Next.js template for MiniKit",
+      "category": "finance",
+      "homeUrl": "https://miniapp.mitanda.org",
+      "iconUrl": "https://miniapp.mitanda.org/icon.png",
+      "imageUrl": "https://miniapp.mitanda.org/frameImage.png",
+      "framesUrl": "https://miniapp.mitanda.org",
+      "backgroundColor": "#FFFFFF",
+      "author": {
+        "fid": 20701,
+        "username": "chaps",
+        "displayName": "carlos",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cae1d197-6bbc-49c9-67d0-61b635edf700/original",
+        "bio": "🇲🇽 | building @livmore | genart collector | generative design | architect | @w3runn3rs | /adivinadrone | 🇲🇽",
+        "powerBadge": true,
+        "score": 0.99,
+        "followerCount": 9891
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "motivify.vercel.app",
+      "index": 91,
+      "title": "motivify",
+      "subtitle": "",
+      "description": "Generated by create next app",
+      "homeUrl": "https://motivify.vercel.app",
+      "iconUrl": "https://motivify.vercel.app/icon.png",
+      "imageUrl": "https://motivify.vercel.app/image.png",
+      "framesUrl": "https://motivify.vercel.app",
+      "backgroundColor": "#C8E5FF",
+      "author": {
+        "fid": 1076467,
+        "username": "dev-simlex",
+        "displayName": "Simlex",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/59083c30-e708-4324-4c5d-9860056c1400/original",
+        "bio": "Web2 & Web3 Software engineer • Tech && Business && Finance • WAGMI 🤳🏽✨\n\nBuilding events.ticketsdeck.com",
+        "powerBadge": false,
+        "score": 0.71,
+        "followerCount": 159
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "labels.genyapps.xyz",
+      "index": 92,
+      "title": "Labels",
+      "subtitle": "Check your spam labels",
+      "description": "Warpcast Labels",
+      "category": "social",
+      "tags": [
+        "labels",
+        "social",
+        "analytics",
+        "spams"
+      ],
+      "homeUrl": "https://labels.genyapps.xyz",
+      "iconUrl": "https://labels.genyapps.xyz/assets/icon.png",
+      "imageUrl": "https://labels.genyapps.xyz/assets/splash.jpg",
+      "framesUrl": "https://labels.genyapps.xyz",
+      "screenshotUrls": [
+        "https://labels.genyapps.xyz/assets/screenshot1.png",
+        "https://labels.genyapps.xyz/assets/screenshot2.png",
+        "https://labels.genyapps.xyz/assets/screenshot3.png"
+      ],
+      "backgroundColor": "#ffffff",
+      "author": {
+        "fid": 321969,
+        "username": "compez.eth",
+        "displayName": "C O M P Ξ Z",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d87492b-81a5-4cf3-02ea-e187063a6b00/original",
+        "bio": "Legendary Builder • Artist | Collector | Author | Full Stack Developer • Working on /genyleap • /geny ecosystem.\n\nhttps://linktr.ee/compez",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 43261
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "nft-factory.kasra.codes",
+      "index": 93,
+      "title": "NFT Factory",
+      "subtitle": "",
+      "description": "Create your own NFT collection",
+      "homeUrl": "https://nft-factory.kasra.codes",
+      "iconUrl": "https://cover-art.kasra.codes/nft-factory-square.png",
+      "imageUrl": "https://cover-art.kasra.codes/nft-factory-rectangle.png",
+      "framesUrl": "https://nft-factory.kasra.codes",
+      "backgroundColor": "#FFFFFF",
+      "author": {
+        "fid": 977233,
+        "username": "jc4p",
+        "displayName": "Kasra Rahjerdi",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+        "bio": "aspiring person https://kasra.codes",
+        "powerBadge": false,
+        "score": 0.99,
+        "followerCount": 9749
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "playatlas.games",
+      "index": 94,
+      "title": "Atlas",
+      "subtitle": "Crypto Social Gaming.",
+      "description": "Challenge Farcasters to a futbol match.",
+      "category": "games",
+      "tags": [
+        "social",
+        "gaming",
+        "futbol",
+        "leaderboard",
+        "challenge"
+      ],
+      "homeUrl": "https://playatlas.games",
+      "iconUrl": "https://playatlas.games/atlas-purple-whitebw.png",
+      "imageUrl": "https://playatlas.games/atlas-purple-whitebw.png",
+      "framesUrl": "https://playatlas.games",
+      "screenshotUrls": [
+        "https://playatlas.games/screenshots/screenshot1.png"
+      ],
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 11528,
+        "username": "jrf",
+        "displayName": "Jacob",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7917ea6d-3745-4cb1-c5cc-86bd4c23e100/original",
+        "bio": "building /atlas",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 64257
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "lion-wine.vercel.app",
+      "index": 95,
+      "title": "Waitlist King",
+      "subtitle": "",
+      "description": "Get early access by joining our waitlist",
+      "homeUrl": "https://lion-wine.vercel.app",
+      "iconUrl": "https://lion-wine.vercel.app/icon.png",
+      "imageUrl": "https://lion-wine.vercel.app/image.png",
+      "framesUrl": "https://lion-wine.vercel.app",
+      "backgroundColor": "#f7f7f7",
+      "author": {
+        "fid": 1020939,
+        "username": "kinglion",
+        "displayName": "Leonix 🦁",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b7d599e-3e15-4b10-46b2-fc679512a300/rectcrop3",
+        "bio": "leonix on base chain. 🦁 https://liongames.fun/",
+        "powerBadge": false,
+        "score": 0.93,
+        "followerCount": 6358
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "wallcaster.lat",
+      "index": 96,
+      "title": "wallcaster",
+      "subtitle": "",
+      "description": "",
+      "homeUrl": "https://wallcaster.lat",
+      "iconUrl": "https://wallcaster.lat/icon.png",
+      "imageUrl": "https://wallcaster.lat/image.png",
+      "framesUrl": "https://wallcaster.lat",
+      "backgroundColor": "#000000",
+      "author": {
+        "fid": 16098,
+        "username": "jpfraneto.eth",
+        "displayName": "jp 🎩",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd27ed2e-efe3-4432-6b12-d2664216c500/original",
+        "bio": "father, meditator and programmer. jpfraneto.substack.com",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 18222
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "scoutgame.xyz",
+      "index": 97,
+      "title": "Scout Game",
+      "subtitle": "",
+      "description": "Fantasy sports with onchain developers",
+      "category": "developer-tools",
+      "homeUrl": "https://scoutgame.xyz",
+      "iconUrl": "https://scoutgame.xyz/images/farcaster/fc_icon.png",
+      "imageUrl": "https://scoutgame.xyz/images/farcaster/fc_frame.png",
+      "framesUrl": "https://scoutgame.xyz",
+      "backgroundColor": "#000",
+      "author": {
+        "fid": 828888,
+        "username": "scoutgamexyz",
+        "displayName": "Scout Game",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57b09266-f92e-4193-5e3e-edd2203d6f00/original",
+        "bio": "Fantasy Sports with Onchain Developers. \n\nScout. Build. Win. Brought to you by the builders of CharmVerse.\n\nhttps://scoutgame.xyz/",
+        "powerBadge": false,
+        "score": 0.85,
+        "followerCount": 2993
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "xzibit.artlu.xyz",
+      "index": 98,
+      "title": "Xzibit Frames V2 for Farcaster",
+      "subtitle": "",
+      "description": "",
+      "homeUrl": "https://xzibit.artlu.xyz",
+      "iconUrl": "https://xzibit.artlu.xyz/assets/xzibit-ya-transparent.png",
+      "imageUrl": "https://xzibit.artlu.xyz/assets/9i9x7t.jpg",
+      "framesUrl": "https://xzibit.artlu.xyz",
+      "backgroundColor": "#050709",
+      "author": {
+        "fid": 6546,
+        "username": "artlu",
+        "displayName": "artlu 🎩",
+        "pfpUrl": "https://media.firefly.land/lens/d44d94ab-23ef-451b-9b5c-d967161b2e78.png",
+        "bio": "🐟 Snappa | picosub.artlu.xyz | SassyHash.artlu.xyz\n\nFind me with my same PFP on GH",
+        "powerBadge": true,
+        "score": 1,
+        "followerCount": 50499
+      },
+      "indexedAt": 1749083586
+    },
+    {
+      "version": "next",
+      "id": "solana-wheel.vercel.app",
+      "index": 99,
+      "title": "SOL Wheel",
+      "subtitle": "SOL Wheel Ready",
+      "description": "",
+      "category": "games",
+      "tags": [
+        "Solana",
+        "Spin",
+        "Win"
+      ],
+      "homeUrl": "https://solana-wheel.vercel.app",
+      "iconUrl": "https://solana-wheel.vercel.app/icon.png",
+      "imageUrl": "https://solana-wheel.vercel.app/sol.png",
+      "framesUrl": "https://solana-wheel.vercel.app",
+      "screenshotUrls": [],
+      "backgroundColor": "#eeccff",
+      "author": {
+        "fid": 471003,
+        "username": "owr",
+        "displayName": "orac",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf6ebd54-fdad-47bf-7cbf-15a87f48a400/original",
+        "bio": "@owr @owr and @owr",
+        "powerBadge": false,
+        "score": 0.67,
+        "followerCount": 5726
+      },
+      "indexedAt": 1749083586
     }
   ]
 }
