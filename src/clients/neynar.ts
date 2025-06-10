@@ -162,30 +162,49 @@ export async function updateAppCatalog() {
     cursor = data.next?.cursor;
   } while (cursor);
 
-  // Merge with existing catalog
+  // Get existing apps or empty array
   const existingApps = existingCatalog?.apps || [];
-
-  // First, create a map of all apps from the API
+  
+  // Create a map of existing apps by ID for quick lookup
+  const existingAppsMap = new Map(existingApps.map((app) => [app.id, app]));
+  
+  // Create a map of new apps from API for quick lookup
   const apiAppsMap = new Map(allApps.map((app) => [app.id, app]));
-
-  // Then, process existing apps, only keeping those that are still in the API
-  const mergedApps = existingApps.reduce((acc: App[], existingApp) => {
+  
+  const currentTimestamp = dayjs().unix();
+  const mergedApps: App[] = [];
+  
+  // Process existing apps - keep all of them, update if they exist in API
+  for (const existingApp of existingApps) {
     const apiApp = apiAppsMap.get(existingApp.id);
+    
     if (apiApp) {
-      // App still exists in API, use API data as source of truth but preserve indexedAt
-      acc.push({
+      // App exists in API - update all properties except indexedAt
+      const updatedApp: App = {
         ...apiApp,
         indexedAt: existingApp.indexedAt, // Preserve original indexing time
-      });
-
-      // Remove from map to avoid duplicate processing
-      apiAppsMap.delete(existingApp.id);
+        updatedAt: currentTimestamp, // Update the timestamp
+      };
+      mergedApps.push(updatedApp);
+    } else {
+      // App no longer in API but we keep it in catalog (never remove)
+      // Just preserve the existing app as-is
+      mergedApps.push(existingApp);
     }
-    return acc;
-  }, []);
-
-  // Add any remaining new apps from the API
-  mergedApps.push(...Array.from(apiAppsMap.values()));
+  }
+  
+  // Add new apps that don't exist in the existing catalog
+  for (const apiApp of allApps) {
+    if (!existingAppsMap.has(apiApp.id)) {
+      // New app - set both indexedAt and updatedAt to current timestamp
+      const newApp: App = {
+        ...apiApp,
+        indexedAt: currentTimestamp,
+        updatedAt: currentTimestamp,
+      };
+      mergedApps.push(newApp);
+    }
+  }
 
   const catalogData: Catalog = {
     lastUpdated: new Date().toISOString(),
@@ -229,14 +248,21 @@ export async function updateAppCatalog() {
     JSON.stringify(newAppsFile)
   );
 
+  // Count new apps since last update
   const lastUpdateTimestamp = existingCatalog
     ? dayjs(existingCatalog.lastUpdated).unix()
     : 0;
   const newApps = mergedApps.filter(
     (app) => app.indexedAt > lastUpdateTimestamp
   );
+  
+  // Count updated apps
+  const updatedApps = mergedApps.filter(
+    (app) => app.updatedAt === currentTimestamp && app.indexedAt < currentTimestamp
+  );
+  
   console.log(
-    `Catalog updated with ${catalogData.totalItems} total items (${newApps.length} new)`
+    `Catalog updated with ${catalogData.totalItems} total items (${newApps.length} new, ${updatedApps.length} updated)`
   );
 
   return catalogData;
@@ -260,10 +286,15 @@ export async function getRecommendations(fid: number): Promise<App[]> {
   }
 
   const data = await response.json();
+  const currentTimestamp = dayjs().unix();
 
-  return data.relevant_frames.map((item: any, index: number) =>
-    mapFrameToApp(item.frame, index)
-  );
+  return data.relevant_frames.map((item: any, index: number) => {
+    const app = mapFrameToApp(item.frame, index);
+    // Set timestamps for recommendation apps
+    app.indexedAt = currentTimestamp;
+    app.updatedAt = currentTimestamp;
+    return app;
+  });
 }
 
 function mapFrameToApp(frame: any, index: number): App {
@@ -293,7 +324,8 @@ function mapFrameToApp(frame: any, index: number): App {
       score: frame.author.score || 0,
       followerCount: frame.author.follower_count || 0,
     },
-    indexedAt: dayjs().unix(),
+    indexedAt: 0, // Will be set in updateAppCatalog
+    updatedAt: 0, // Will be set in updateAppCatalog
   };
 
   // infer category if not provided
