@@ -31,6 +31,7 @@ export interface App {
   backgroundColor?: string;
   author: Author;
   indexedAt: number;
+  updatedAt: number;
 }
 
 export interface Catalog {
